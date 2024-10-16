@@ -1,0 +1,5 @@
+<map id="CodeSmile.Utility.SceneReference.OnValidate" name="CodeSmile.Utility.SceneReference.OnValidate">
+<area shape="rect" id="Node000001" title="Call this from the MonoBehaviour that owns the SceneReference." alt="" coords="281,5,508,48"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_utility_1_1_scene_reference.html#ad17d9c015ff47bedda2d48bd267ee7ae" title="Creates a new instance." alt="" coords="5,5,233,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,29,233,29,233,24,265,24"/>
+</map>

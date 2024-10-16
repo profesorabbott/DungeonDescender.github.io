@@ -1,0 +1,4 @@
+var namespace_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions =
+[
+    [ "SignInAnonymously", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously" ]
+];

@@ -1,0 +1,9 @@
+<map id="PA1A.Items.Container.AddSlot" name="PA1A.Items.Container.AddSlot">
+<area shape="rect" id="Node000001" title="Adds the specified ISlot to the Container" alt="" coords="307,64,508,91"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a332421f40986f665c3e8cd0efb8e289f" title="Gives the specified ItemStack to the IStackContainer and substracts the given amount from the ItemSta..." alt="" coords="5,5,259,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,63,258,47,203,35,204,30,259,41,332,57"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a79193821182a3c22b2bf23f32e79abad" title=" " alt="" coords="19,56,245,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,80,246,80,246,75,291,75"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html#a5b7a95a06020f588f0507f0140a409f7" title=" " alt="" coords="37,123,227,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,97,224,125,223,119,334,92"/>
+</map>

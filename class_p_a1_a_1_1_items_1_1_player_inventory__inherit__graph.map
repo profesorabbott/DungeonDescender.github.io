@@ -1,0 +1,11 @@
+<map id="PA1A.Items.PlayerInventory" name="PA1A.Items.PlayerInventory">
+<area shape="rect" id="Node000001" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="69,763,246,896"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_container.html" title=" " alt="" coords="81,368,233,715"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,730,160,763,155,763,155,730"/>
+<area shape="rect" id="Node000003" href="$class_network_behaviour.html" title=" " alt="" coords="5,229,125,299"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,312,102,367,97,369,79,314"/>
+<area shape="rect" id="Node000004" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="150,208,349,320"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="229,335,217,369,212,368,224,333"/>
+<area shape="rect" id="Node000005" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="196,5,303,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,175,252,208,247,208,247,175"/>
+</map>

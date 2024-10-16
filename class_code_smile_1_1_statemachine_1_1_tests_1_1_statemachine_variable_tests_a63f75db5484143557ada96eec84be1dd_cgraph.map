@@ -1,0 +1,5 @@
+<map id="CodeSmile.Statemachine.Tests.StatemachineVariableTests.BoolVar_SetVarTrue_IsTrue" name="CodeSmile.Statemachine.Tests.StatemachineVariableTests.BoolVar_SetVarTrue_IsTrue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,234,64"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_true.html#aece0aef2f885a023c2b5817471f4fdb4" title="Executes the action." alt="" coords="282,13,505,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,32,266,32,266,37,234,37"/>
+</map>

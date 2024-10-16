@@ -1,0 +1,11 @@
+<map id="PA1A.Abilities.DamageAbility" name="PA1A.Abilities.DamageAbility">
+<area shape="rect" id="Node000001" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="142,347,327,416"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="164,123,305,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,314,237,347,232,347,232,314"/>
+<area shape="rect" id="Node000003" href="$class_scriptable_object.html" title=" " alt="" coords="5,5,115,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,83,166,140,162,143,103,87"/>
+<area shape="rect" id="Node000004" href="$class_i_serialization_callback_receiver.html" title=" " alt="" coords="139,5,330,75"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="237,90,237,123,232,123,232,90"/>
+<area shape="rect" id="Node000005" href="$class_i_equatable.html" title=" " alt="" coords="355,5,488,75"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="375,86,307,148,303,144,372,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PA1A.Building.PlacementSystem" name="PA1A.Building.PlacementSystem">
+<area shape="rect" id="Node000001" title="Manages the placement of buildings in the game." alt="" coords="5,123,212,235"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="57,5,160,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,90,111,123,106,123,106,90"/>
+</map>

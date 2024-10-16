@@ -1,0 +1,4 @@
+var _is_network_manager_singleton_assigned_8cs =
+[
+    [ "CodeSmile.Statemachine.Netcode.Conditions.IsNetworkManagerSingletonAssigned", "class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_network_manager_singleton_assigned.html", "class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_network_manager_singleton_assigned" ]
+];

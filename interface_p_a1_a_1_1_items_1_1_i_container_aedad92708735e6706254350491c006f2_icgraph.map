@@ -1,0 +1,7 @@
+<map id="PA1A.Items.IContainer.GetSlot" name="PA1A.Items.IContainer.GetSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,47,481,73"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_i_container_extensions.html#aad4c781ba082124495033e8f685b2414" title="Determines the total number of ItemStack that could be taken from the IContainer" alt="" coords="5,5,230,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,48,230,44,231,38,263,42"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_i_container_extensions.html#a906e2d96a781867b8e063daf8e361f27" title="Determines the remaining space for ItemStack that could be given to the IContainer" alt="" coords="5,72,230,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,78,231,82,230,76,262,72"/>
+</map>

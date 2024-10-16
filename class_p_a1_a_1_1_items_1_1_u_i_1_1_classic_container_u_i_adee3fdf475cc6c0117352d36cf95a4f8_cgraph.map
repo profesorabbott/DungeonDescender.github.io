@@ -1,0 +1,5 @@
+<map id="PA1A.Items.UI.ClassicContainerUI.CreateSlot" name="PA1A.Items.UI.ClassicContainerUI.CreateSlot">
+<area shape="rect" id="Node000001" title="Instantiates a ISlotUI for the specified ISlot.Index" alt="" coords="5,5,219,48"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_slot_u_i.html#ac0adc103957a58379083fb9d5b917c65" title="Configures the ISlotUI for the specified IContainer and index." alt="" coords="267,13,481,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,24,251,24,251,29,219,29"/>
+</map>

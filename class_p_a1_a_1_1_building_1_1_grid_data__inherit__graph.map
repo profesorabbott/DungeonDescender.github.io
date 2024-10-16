@@ -1,0 +1,7 @@
+<map id="PA1A.Building.GridData" name="PA1A.Building.GridData">
+<area shape="rect" id="Node000001" title="Represents the grid data for object placement." alt="" coords="69,123,241,299"/>
+<area shape="rect" id="Node000002" href="$class_i_network_serializable.html" title=" " alt="" coords="5,5,139,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,87,115,122,110,124,93,89"/>
+<area shape="rect" id="Node000003" href="$class_i_equatable.html" title=" " alt="" coords="163,5,314,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,89,200,124,195,122,213,87"/>
+</map>

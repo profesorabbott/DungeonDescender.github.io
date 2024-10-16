@@ -1,0 +1,7 @@
+<map id="PA1A.Items.UI.ClassicSlotUI.Refresh" name="PA1A.Items.UI.ClassicSlotUI.Refresh">
+<area shape="rect" id="Node000001" title="Refreshes the ISlotUI after a change of its ItemStack" alt="" coords="5,35,186,77"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_item.html#ab51c69371a0c650436ee23cbc17de18a" title="Gets the display text for the item description." alt="" coords="253,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,43,237,38,237,43,186,49"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_item.html#a9dc4ac4d5f517148f97359359f51d1fa" title="Gets the display text for the item name." alt="" coords="234,72,484,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,63,219,67,218,72,186,69"/>
+</map>

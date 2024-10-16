@@ -1,0 +1,7 @@
+<map id="PA1A.Items.Container.ClearSlots" name="PA1A.Items.Container.ClearSlots">
+<area shape="rect" id="Node000001" title="Clears all the ISlot from the Container" alt="" coords="280,39,466,81"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a79193821182a3c22b2bf23f32e79abad" title=" " alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,48,232,44,233,39,265,43"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_container.html#a166fd9b1fb3bb00c0d99a4b727413589" title=" " alt="" coords="8,72,229,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,77,230,81,229,76,264,72"/>
+</map>

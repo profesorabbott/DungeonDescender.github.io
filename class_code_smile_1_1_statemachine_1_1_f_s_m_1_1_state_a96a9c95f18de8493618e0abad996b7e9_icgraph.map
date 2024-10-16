@@ -1,0 +1,11 @@
+<map id="CodeSmile.Statemachine.FSM.State.AddTransition" name="CodeSmile.Statemachine.FSM.State.AddTransition">
+<area shape="rect" id="Node000001" title="Add an empty transition to this state." alt="" coords="336,137,541,180"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aa410e9960cad8fcfd4804ec766bd5ba7" title=" " alt="" coords="5,5,288,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,131,340,104,287,78,256,67,258,62,289,74,342,99,391,127"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aabd6228e94636d5d5e9171e1e9e99e78" title=" " alt="" coords="25,88,268,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="320,145,268,137,269,132,321,139"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a0bf7d8d2296419acff49a3f8c5592f7d" title=" " alt="" coords="11,171,282,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,178,283,183,282,178,320,173"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a9c637f67eff602e7394b6892b2edfabb" title=" " alt="" coords="22,253,271,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="391,191,342,218,289,244,258,255,256,250,287,239,340,213,388,186"/>
+</map>

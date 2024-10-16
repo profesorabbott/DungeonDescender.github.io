@@ -1,0 +1,5 @@
+<map id="PA1A.Building.PlacementState.PlacementState" name="PA1A.Building.PlacementState.PlacementState">
+<area shape="rect" id="Node000001" title="Initializes a new instance of the PlacementState class." alt="" coords="5,13,211,56"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html#ae7478af04277faad4a4598c8ee255fd0" title="Starts showing a placement preview for a building." alt="" coords="259,5,516,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,32,243,32,243,37,211,37"/>
+</map>

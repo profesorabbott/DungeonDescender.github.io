@@ -1,0 +1,9 @@
+<map id="PA1A.Items.FlexibleSizeContainer.Give" name="PA1A.Items.FlexibleSizeContainer.Give">
+<area shape="rect" id="Node000001" title="Gives the specified ItemStack to the IStackContainer and substracts the given amount from the ItemSta..." alt="" coords="5,56,259,83"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_container.html#a1307c9556d9ea68977203ecdc5aa8049" title="Adds the specified ISlot to the Container" alt="" coords="316,5,518,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,53,323,33,324,38,212,58"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_container.html#a98ff3f63fc221151628a03cd4f31ed79" title=" " alt="" coords="317,56,516,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,67,302,67,302,72,259,72"/>
+<area shape="rect" id="Node000004" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#ac0523b8040d8c4bee0a8e8cf27b0683a" title="Gives the specified ItemStack to the IStackContainer and substracts the given amount from the ItemSta..." alt="" coords="307,107,527,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,81,324,101,323,106,211,86"/>
+</map>

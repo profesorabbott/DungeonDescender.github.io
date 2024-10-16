@@ -1,0 +1,14 @@
+var _generated_input_8cs =
+[
+    [ "CodeSmile.MultiPal.Input.GeneratedInput", "class_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input.html", "class_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.PairingActions", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_pairing_actions.html", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_pairing_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.UIActions", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_u_i_actions.html", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_u_i_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.PlayerKinematicsActions", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_kinematics_actions.html", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_kinematics_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.PlayerInteractionActions", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_interaction_actions.html", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_interaction_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.PlayerUIActions", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_u_i_actions.html", "struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_u_i_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.IPairingActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_pairing_actions.html", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_pairing_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.IUIActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.IPlayerKinematicsActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.IPlayerInteractionActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions" ],
+    [ "CodeSmile.MultiPal.Input.GeneratedInput.IPlayerUIActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions" ]
+];

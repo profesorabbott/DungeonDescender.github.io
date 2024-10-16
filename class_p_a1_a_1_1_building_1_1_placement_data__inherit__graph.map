@@ -1,0 +1,5 @@
+<map id="PA1A.Building.PlacementData" name="PA1A.Building.PlacementData">
+<area shape="rect" id="Node000001" title="Represents the data for object placement in the game." alt="" coords="5,123,195,277"/>
+<area shape="rect" id="Node000002" href="$class_i_network_serializable.html" title=" " alt="" coords="33,5,167,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,90,103,123,97,123,97,90"/>
+</map>

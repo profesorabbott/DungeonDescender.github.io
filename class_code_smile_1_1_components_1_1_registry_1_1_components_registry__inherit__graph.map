@@ -1,0 +1,5 @@
+<map id="CodeSmile.Components.Registry.ComponentsRegistry" name="CodeSmile.Components.Registry.ComponentsRegistry">
+<area shape="rect" id="Node000001" title="Keeps references to components by type to avoid making each individual type a singleton of its own." alt="" coords="5,123,216,251"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="59,5,162,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,89,113,123,108,123,108,89"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Character" name="Character">
+<area shape="rect" id="Node000001" title=" " alt="" coords="65,144,181,235"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="5,16,108,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,98,104,143,100,145,77,100"/>
+<area shape="rect" id="Node000003" href="$interface_i_damageable.html" title=" " alt="" coords="132,5,248,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,110,147,145,142,143,160,108"/>
+</map>

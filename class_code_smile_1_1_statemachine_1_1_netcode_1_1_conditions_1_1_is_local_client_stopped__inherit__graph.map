@@ -1,0 +1,9 @@
+<map id="CodeSmile.Statemachine.Netcode.Conditions.IsLocalClientStopped" name="CodeSmile.Statemachine.Netcode.Conditions.IsLocalClientStopped">
+<area shape="rect" id="Node000001" title="Tests if the client is not in the started state." alt="" coords="5,485,223,571"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_started.html" title="Is true after NetworkManager StartClient has been called until the client stops or a transport failur..." alt="" coords="49,325,179,437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,452,117,486,111,486,111,452"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_statemachine_1_1_i_condition.html" title="Marks a class as a FSM Condition." alt="" coords="55,187,173,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,292,117,325,111,325,111,292"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_statemachine_1_1_i_statemachine_events.html" title="Event methods that the Statemachine calls at specific times." alt="" coords="45,5,183,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="117,153,117,187,111,187,111,153"/>
+</map>

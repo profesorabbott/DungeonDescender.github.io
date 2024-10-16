@@ -1,0 +1,4 @@
+var _relay_create_or_join_allocation_8cs =
+[
+    [ "CodeSmile.Statemachine.Services.Relay.Actions.RelayCreateOrJoinAllocation", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation" ]
+];

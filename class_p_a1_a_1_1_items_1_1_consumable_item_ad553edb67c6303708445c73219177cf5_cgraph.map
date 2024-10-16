@@ -1,0 +1,7 @@
+<map id="PA1A.Items.ConsumableItem.Process" name="PA1A.Items.ConsumableItem.Process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,204,48"/>
+<area shape="rect" id="Node000002" href="$class_character.html#ae86d926040b885b14ecf48cc3b49d521" title=" " alt="" coords="252,13,418,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,24,236,24,236,29,204,29"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_abilities_1_1_ability.html#ad702dbc11d2e3e4e8403462a6179e07c" title="Process the ability on the specified target." alt="" coords="466,13,661,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,24,450,24,450,29,418,29"/>
+</map>

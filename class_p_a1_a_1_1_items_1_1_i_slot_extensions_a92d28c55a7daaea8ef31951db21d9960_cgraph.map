@@ -1,0 +1,7 @@
+<map id="PA1A.Items.ISlotExtensions.Swap" name="PA1A.Items.ISlotExtensions.Swap">
+<area shape="rect" id="Node000001" title="Swaps ItemStack of the two specified ISlot" alt="" coords="5,47,230,73"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#a53cdc70c7f250f8cd3372e053449c0ff" title="Determines if the ItemStack is allowed by the IStackContainer to be given to it &#160;This methods only ac..." alt="" coords="278,5,471,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,43,262,39,262,44,226,49"/>
+<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#aba5e1bdbf73ff89905465bb996027d21" title="Determines if the ItemStack is allowed by the IStackContainer to be taken from it &#160;This methods only ..." alt="" coords="278,72,471,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,71,262,76,262,81,225,77"/>
+</map>

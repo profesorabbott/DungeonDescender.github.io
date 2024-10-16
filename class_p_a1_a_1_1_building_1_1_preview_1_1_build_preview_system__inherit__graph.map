@@ -1,0 +1,5 @@
+<map id="PA1A.Building.Preview.BuildPreviewSystem" name="PA1A.Building.Preview.BuildPreviewSystem">
+<area shape="rect" id="Node000001" title="Represents a system for displaying building placement previews in a game." alt="" coords="5,123,224,272"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="63,5,166,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,90,117,123,112,123,112,90"/>
+</map>

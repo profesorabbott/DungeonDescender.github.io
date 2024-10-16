@@ -1,0 +1,4 @@
+var _is_local_client_disconnected_8cs =
+[
+    [ "CodeSmile.Statemachine.Netcode.Conditions.IsLocalClientDisconnected", "class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_disconnected.html", "class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_disconnected" ]
+];

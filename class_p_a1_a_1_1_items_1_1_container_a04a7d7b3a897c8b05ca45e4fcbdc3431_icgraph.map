@@ -1,0 +1,5 @@
+<map id="PA1A.Items.Container.RemoveSlot" name="PA1A.Items.Container.RemoveSlot">
+<area shape="rect" id="Node000001" title="Removes the ISlot at the specified index from the Container" alt="" coords="280,13,507,40"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a79193821182a3c22b2bf23f32e79abad" title=" " alt="" coords="5,5,232,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,29,232,29,232,24,264,24"/>
+</map>

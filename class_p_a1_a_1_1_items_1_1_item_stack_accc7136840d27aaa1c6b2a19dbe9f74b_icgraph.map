@@ -1,0 +1,7 @@
+<map id="PA1A.Items.ItemStack.IsSameAs" name="PA1A.Items.ItemStack.IsSameAs">
+<area shape="rect" id="Node000001" title="Determines if both the ItemStack are the same (can be combined in a single ItemStack)" alt="" coords="245,47,465,73"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_i_slot_extensions.html#a5cdbce008609f9cd7d94c0f63003a98e" title="Determines the total number of ItemStack that could be taken from the ISlot" alt="" coords="5,5,197,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,47,197,42,197,37,233,41"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_i_slot_extensions.html#a541797198b64cfef90ad4a9f8827467c" title="Determines the remaining space for ItemStack that could be given to the ISlot" alt="" coords="5,72,197,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,79,197,83,197,78,233,73"/>
+</map>

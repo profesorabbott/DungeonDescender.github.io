@@ -1,0 +1,4 @@
+var class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously =
+[
+    [ "ExecuteAsync", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously.html#ade5ed7c2f4d7be24f9b009ad2a5acfe1", null ]
+];

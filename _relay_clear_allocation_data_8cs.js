@@ -1,0 +1,4 @@
+var _relay_clear_allocation_data_8cs =
+[
+    [ "CodeSmile.Statemachine.Services.Relay.Actions.RelayClearAllocationData", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data" ]
+];

@@ -1,0 +1,11 @@
+<map id="PA1A.Building.RemoveState.OnAction" name="PA1A.Building.RemoveState.OnAction">
+<area shape="rect" id="Node000001" title="Performs an action on the building at the specified grid position." alt="" coords="5,105,198,148"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_building_system_network_manager.html#af715a427866505a232626a479e2699dc" title="Checks if an object can be placed at the specified grid position." alt="" coords="262,5,494,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,102,191,79,245,57,267,50,268,55,247,63,194,84,146,107"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_building_1_1_building_system_network_manager.html#a050ea9ad503753e722a94cfd91c4a477" title="Gets the representation index of an object at the specified grid position." alt="" coords="246,72,511,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,112,230,109,231,114,198,118"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_building_1_1_building_system_network_manager.html#a0e27fa1433bc5d2a8afbad528fafb18d" title="Removes an object at the specified grid position." alt="" coords="254,139,502,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,136,239,141,238,146,198,141"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html#ad6d7da9e39b3f1535bc0e59d4f7d12b7" title="Updates the position of the placement preview and applies feedback based on its validity." alt="" coords="275,205,482,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="146,146,194,169,247,191,268,198,267,203,245,196,191,174,143,151"/>
+</map>

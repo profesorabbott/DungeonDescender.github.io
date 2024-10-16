@@ -1,0 +1,5 @@
+<map id="PA1A.Building.BuildingSystemNetworkManager.CanPlaceObjectAt" name="PA1A.Building.BuildingSystemNetworkManager.CanPlaceObjectAt">
+<area shape="rect" id="Node000001" title="Checks if an object can be placed at the specified grid position." alt="" coords="246,5,478,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_remove_state.html#a8c46c1fb6920ee58fd7ea68cf58ff09c" title="Performs an action on the building at the specified grid position." alt="" coords="5,5,198,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,29,198,29,198,24,230,24"/>
+</map>

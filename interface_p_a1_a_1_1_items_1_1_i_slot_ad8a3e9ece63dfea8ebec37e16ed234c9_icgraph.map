@@ -1,0 +1,5 @@
+<map id="PA1A.Items.ISlot.GetMaximumSpace" name="PA1A.Items.ISlot.GetMaximumSpace">
+<area shape="rect" id="Node000001" title="Determines the maximum space available in the ISlot for the specified Sacados.ItemStack &#160;This method ..." alt="" coords="245,5,449,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_i_slot_extensions.html#a541797198b64cfef90ad4a9f8827467c" title="Determines the remaining space for ItemStack that could be given to the ISlot" alt="" coords="5,5,197,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,29,197,29,197,24,229,24"/>
+</map>

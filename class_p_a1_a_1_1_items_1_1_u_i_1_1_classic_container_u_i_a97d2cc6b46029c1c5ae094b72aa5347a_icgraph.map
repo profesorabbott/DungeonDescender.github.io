@@ -1,0 +1,9 @@
+<map id="PA1A.Items.UI.ClassicContainerUI.OnContainerStarted" name="PA1A.Items.UI.ClassicContainerUI.OnContainerStarted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,39,741,81"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#ad64e42f88793cbdad5b678e6b5829314" title=" " alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,47,480,43,481,38,513,42"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#a2bf19e5eea5ea0220806267effe2c80d" title=" " alt="" coords="267,72,480,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="513,78,481,82,480,77,512,73"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#ab83e4db17a3a7c1f81ee269dfd459b7a" title=" " alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
+</map>

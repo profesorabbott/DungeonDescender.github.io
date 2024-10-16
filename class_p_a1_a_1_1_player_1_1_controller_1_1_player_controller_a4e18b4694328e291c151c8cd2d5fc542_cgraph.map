@@ -1,0 +1,19 @@
+<map id="PA1A.Player.Controller.PlayerController.GetMomentum" name="PA1A.Player.Controller.PlayerController.GetMomentum">
+<area shape="rect" id="Node000001" title="Gets the momentum of the player." alt="" coords="5,221,202,264"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_mover.html#a9d3a9284a00f5ef34a557a10004e253f" title=" " alt="" coords="252,105,448,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,218,288,153,291,157,152,223"/>
+<area shape="rect" id="Node000006" href="$class_unity_utils_1_1_state_machine_1_1_state_machine.html#a3d8b3508c1fb26a730bb87dce2441ba7" title=" " alt="" coords="261,188,440,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="202,227,245,221,246,226,202,232"/>
+<area shape="rect" id="Node000008" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_mover.html#a54dca5d1de663a4fa213f373482af131" title=" " alt="" coords="250,255,451,297"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="202,253,235,258,234,263,202,259"/>
+<area shape="rect" id="Node000009" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_mover.html#a03dff5edf5e243cb52f692be9a00aeb3" title=" " alt="" coords="252,321,448,364"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="150,262,251,307,267,313,265,318,249,312,148,267"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ae5faded6088a87b4cc7e82879b6db213" title="Casts a raycast in the specified direction." alt="" coords="499,5,707,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,102,498,58,516,51,518,56,500,62,397,107"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#a7855ea8c8a046a3352fe65059e977d79" title="Gets the distance to the hit point." alt="" coords="499,72,707,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="449,111,483,106,484,112,449,116"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ac4321982308b2b9ec388d93bcea78fc6" title="Checks if a hit has been detected." alt="" coords="499,139,707,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="449,137,484,142,483,147,449,142"/>
+<area shape="rect" id="Node000007" href="$interface_unity_utils_1_1_state_machine_1_1_i_state.html#a992ddc3773119ca9ab30338da056cdd5" title=" " alt="" coords="520,205,687,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="441,213,504,217,504,223,440,218"/>
+</map>

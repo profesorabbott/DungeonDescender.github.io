@@ -1,0 +1,7 @@
+<map id="PA1A.Player.Controller.PlayerController.OnGroundContactLost" name="PA1A.Player.Controller.PlayerController.OnGroundContactLost">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,217,81"/>
+<area shape="rect" id="Node000002" href="$class_unity_utils_1_1_vector_math.html#a13e8deb7cb5425407443e9decb1187ea" title="Calculates the dot product of a vector and a normalized direction." alt="" coords="282,5,456,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,44,267,37,267,42,217,49"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#a795b77591d61211b5a35ac8010774b0e" title=" " alt="" coords="265,72,474,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,71,250,75,249,80,217,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PA1A.Items.Rarity" name="PA1A.Items.Rarity">
+<area shape="rect" id="Node000001" title="Represents the rarity of an item." alt="" coords="5,123,127,235"/>
+<area shape="rect" id="Node000002" href="$class_scriptable_object.html" title=" " alt="" coords="11,5,121,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,90,69,123,63,123,63,90"/>
+</map>

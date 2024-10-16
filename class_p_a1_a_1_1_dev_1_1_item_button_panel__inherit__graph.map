@@ -1,0 +1,5 @@
+<map id="PA1A.Dev.ItemButtonPanel" name="PA1A.Dev.ItemButtonPanel">
+<area shape="rect" id="Node000001" title="Represents a panel that contains item buttons." alt="" coords="5,123,179,192"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="41,5,143,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,90,95,123,89,123,89,90"/>
+</map>

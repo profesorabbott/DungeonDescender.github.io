@@ -1,0 +1,5 @@
+<map id="CodeSmile.Statemachine.FSM.OR" name="CodeSmile.Statemachine.FSM.OR">
+<area shape="rect" id="Node000001" title="Logical OR condition will be true if one or more of the containing conditions are true." alt="" coords="336,21,561,48"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aa410e9960cad8fcfd4804ec766bd5ba7" title=" " alt="" coords="5,5,288,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,37,288,37,288,32,320,32"/>
+</map>

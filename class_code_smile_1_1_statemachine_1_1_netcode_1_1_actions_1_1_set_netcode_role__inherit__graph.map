@@ -1,0 +1,7 @@
+<map id="CodeSmile.Statemachine.Netcode.Actions.SetNetcodeRole" name="CodeSmile.Statemachine.Netcode.Actions.SetNetcodeRole">
+<area shape="rect" id="Node000001" title="Sets the role in the NetcodeConfig var to the given value (Server, Host, Client or None)." alt="" coords="5,325,223,453"/>
+<area shape="rect" id="Node000002" href="$interface_code_smile_1_1_statemachine_1_1_i_action.html" title="Marks a class as a FSM Action." alt="" coords="55,187,173,277"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,293,117,326,111,326,111,293"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_statemachine_1_1_i_statemachine_events.html" title="Event methods that the Statemachine calls at specific times." alt="" coords="45,5,183,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,153,117,187,111,187,111,153"/>
+</map>

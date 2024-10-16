@@ -1,0 +1,15 @@
+<map id="CodeSmile.MultiPal.Input.GeneratedInput.PlayerKinematicsActions.SetCallbacks" name="CodeSmile.MultiPal.Input.GeneratedInput.PlayerKinematicsActions.SetCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,222,229"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_kinematics_actions.html#a0c6e893b79a709fc0412cfa7037f7ac7" title=" " alt="" coords="270,171,486,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,197,254,197,254,203,222,203"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html#ad57e88c0b4571ced60e549ad988eefad" title=" " alt="" coords="534,5,754,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,168,464,121,533,74,542,69,544,73,535,78,467,125,412,172"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html#ae2e6ad4e2908ef910f4d82f82dbe585d" title=" " alt="" coords="534,88,754,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="474,167,532,149,533,154,476,173"/>
+<area shape="rect" id="Node000005" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html#a4945df2915a9322987dfa1daadfa1343" title=" " alt="" coords="534,171,754,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="486,197,518,197,518,203,486,203"/>
+<area shape="rect" id="Node000006" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html#a28d1ac31e43a00e8747f137496a9c5f2" title=" " alt="" coords="534,253,754,312"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="476,227,533,246,532,251,474,233"/>
+<area shape="rect" id="Node000007" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html#a1967bb3f318d22453f8a28dde9a3d68c" title=" " alt="" coords="534,336,754,395"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="412,228,467,275,535,322,544,327,542,331,533,326,464,279,409,232"/>
+</map>

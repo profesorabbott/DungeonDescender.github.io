@@ -1,0 +1,5 @@
+<map id="CodeSmile.Statemachine.Netcode.TransportConfig.FromNetworkManager" name="CodeSmile.Statemachine.Netcode.TransportConfig.FromNetworkManager">
+<area shape="rect" id="Node000001" title="Creates a TransportConfig instance from current NetworkManager Transport settings." alt="" coords="301,13,548,56"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_statemachine_1_1_netcode_1_1_transport_config.html#a8da8f22d2523c4486fca3c9dbab275c7" title="Creates a TransportConfig instance from current NetworkManager Transport settings and then have comma..." alt="" coords="5,5,253,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="285,37,253,37,253,32,285,32"/>
+</map>

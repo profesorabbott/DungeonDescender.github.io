@@ -1,0 +1,25 @@
+<map id="CodeSmile.MultiPal.Input.GeneratedInput.UIActions.SetCallbacks" name="CodeSmile.MultiPal.Input.GeneratedInput.UIActions.SetCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,305,260,348"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_u_i_actions.html#a38490ef5020d53210b430c7a12436ece" title=" " alt="" coords="308,305,565,348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,324,292,324,292,329,260,329"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a685a6b805e06d93182b4c9b7a41b2e9c" title=" " alt="" coords="628,5,866,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,304,465,253,500,186,549,117,579,85,611,58,618,53,621,58,615,62,582,89,553,120,505,189,470,255,448,306"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a75e0796051a27c50b054a544fa38c52e" title=" " alt="" coords="633,72,860,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="448,303,474,264,511,216,557,166,612,124,621,119,623,124,614,129,561,170,515,219,478,267,453,306"/>
+<area shape="rect" id="Node000005" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#ab7666ffd40bb227df59f92f80a31c5bf" title=" " alt="" coords="614,139,879,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="458,303,524,247,566,217,612,191,626,185,628,190,614,196,569,221,527,251,462,307"/>
+<area shape="rect" id="Node000006" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a18d5776079277023ef6020bb3eb8eb58" title=" " alt="" coords="622,205,871,248"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="490,302,612,257,637,250,639,255,614,263,491,307"/>
+<area shape="rect" id="Node000007" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#afc04af1e636495daabd0d3cd85a9f1d9" title=" " alt="" coords="633,272,860,315"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="565,310,617,305,618,310,566,315"/>
+<area shape="rect" id="Node000008" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#ae7caf26f6c4f99efe539ceb305c29dd5" title=" " alt="" coords="618,339,876,381"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="566,338,602,342,601,347,565,343"/>
+<area shape="rect" id="Node000009" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a73d728192cd38d9e546193f767bbc07a" title=" " alt="" coords="613,405,880,448"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="491,346,614,391,639,398,637,403,612,396,490,351"/>
+<area shape="rect" id="Node000010" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a652c0662a7319c4b7b42aa383696be9d" title=" " alt="" coords="628,472,866,515"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="462,347,527,402,569,432,614,458,628,464,626,469,612,462,566,437,524,406,458,351"/>
+<area shape="rect" id="Node000011" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a67abfd7a8371ceffcfd87237d0be74fc" title=" " alt="" coords="624,539,869,597"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="453,347,479,385,516,433,562,482,615,524,622,529,619,533,611,529,558,486,512,436,474,388,449,350"/>
+<area shape="rect" id="Node000012" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html#a1df224fbb123435fd0c2819dee76315b" title=" " alt="" coords="624,621,869,680"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="448,347,469,400,504,470,552,544,582,578,615,607,619,611,616,615,611,611,578,581,548,547,499,473,464,402,443,349"/>
+</map>

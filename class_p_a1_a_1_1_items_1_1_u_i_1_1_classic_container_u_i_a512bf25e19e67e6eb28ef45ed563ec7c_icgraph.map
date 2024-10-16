@@ -1,0 +1,7 @@
+<map id="PA1A.Items.UI.ClassicContainerUI.UnbuildSlots" name="PA1A.Items.UI.ClassicContainerUI.UnbuildSlots">
+<area shape="rect" id="Node000001" title="Unbuilds the ISlotUI of the IContainer" alt="" coords="528,5,741,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#af9a7d16e628b37ca94c3aaf01a97986e" title="Unbuilds the IContainerUI" alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="512,29,480,29,480,24,512,24"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#ab15bc2bace0f02220bf0a8495dfa81a4" title="Toggles the build state of the IContainer" alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
+</map>

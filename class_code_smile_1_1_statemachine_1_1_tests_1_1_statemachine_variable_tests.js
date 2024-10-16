@@ -1,0 +1,28 @@
+var class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests =
+[
+    [ "BoolVar_IsVarEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a13d6b57e8534bc4f84ce85f91b5960dd", null ],
+    [ "BoolVar_IsVarFalse_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a228fb420f002dc8d916477289900c6cd", null ],
+    [ "BoolVar_IsVarNotEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a74ce0c36c863e831202b82c936826548", null ],
+    [ "BoolVar_IsVarTrue_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a9371817e808537f8dd440f73b28f99a8", null ],
+    [ "BoolVar_SetVarFalse_IsFalse", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#ae7a6fa4d464275f8fcc9a77b649c3dd0", null ],
+    [ "BoolVar_SetVarTrue_IsTrue", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a63f75db5484143557ada96eec84be1dd", null ],
+    [ "FloatVar_IsGreater_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#aefcfd347125fbd50de0cba1367910cac", null ],
+    [ "FloatVar_IsGreaterOrEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a44c0482caf72970544c510b8b6d8ada1", null ],
+    [ "FloatVar_IsLess_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a68fd90c06204f8cdc1034e734be18795", null ],
+    [ "FloatVar_IsLessOrEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a0f0eb4dc0e2b968ba6b2907d79bbc64c", null ],
+    [ "FloatVar_IsVarEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#aa45867953abde4e5e7319b3b650d4a2a", null ],
+    [ "FloatVar_IsVarNotEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a1a3784fde1b59b07657d5e4bcf9b0cb4", null ],
+    [ "FloatVar_SetVarValue_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#aede1879d6c976f5e4b4125c96106a3f9", null ],
+    [ "FSM_DefineBool_ReturnsExpectedValue", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#acabd68955f827f2303d7b74fc9b8b2a3", null ],
+    [ "FSM_DefineFloat_ReturnsExpectedValue", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a13aaf1dea7d4f26558a160e09550717d", null ],
+    [ "FSM_DefineInt_ReturnsExpectedValue", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a0ac3edd62ba939ec2d0957610e50395f", null ],
+    [ "FSM_DefineStruct_ReturnsExpectedValue", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a1fe93399c1dcb7a357d693bac0863756", null ],
+    [ "IntVar_IsGreater_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a071172640732a75add77c3e81732b39a", null ],
+    [ "IntVar_IsGreaterOrEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a1dbcc8f4cf95876a69c9fe9b94a217ba", null ],
+    [ "IntVar_IsLess_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a4a0a9c2a2fdeb307334b532abbcbb24b", null ],
+    [ "IntVar_IsLessOrEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a1c9f61fcd27edd05f9b8a3d4786c1551", null ],
+    [ "IntVar_IsVarEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#a708c321a8d30af3270c7d4b86d2c9d0d", null ],
+    [ "IntVar_IsVarNotEqual_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#aab11818c16eb3fbe910a95997276187c", null ],
+    [ "IntVar_SetVarValue_AsExpected", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#ac1593b58d706c372ef60c5115f78febb", null ],
+    [ "SetUp", "class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#ab28d842258bb36609eee5a397447f817", null ]
+];

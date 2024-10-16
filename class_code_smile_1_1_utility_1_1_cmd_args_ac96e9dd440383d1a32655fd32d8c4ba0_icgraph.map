@@ -1,0 +1,9 @@
+<map id="CodeSmile.Utility.CmdArgs.GetInt" name="CodeSmile.Utility.CmdArgs.GetInt">
+<area shape="rect" id="Node000001" title="Gets the argument&#39;s value." alt="" coords="301,72,486,115"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_statemachine_1_1_netcode_1_1_netcode_config.html#ad201b3f117a79215d44e73fd04a62d24" title="Create a NetcodeConfig from command line parameters." alt="" coords="16,5,242,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,70,216,51,217,46,292,65"/>
+<area shape="rect" id="Node000003" href="$struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#a5170f1484af29b912adb244775d69a8d" title="Creates a RelayConfig from command line arguments." alt="" coords="16,72,242,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,96,243,96,243,91,285,91"/>
+<area shape="rect" id="Node000004" href="$struct_code_smile_1_1_statemachine_1_1_netcode_1_1_transport_config.html#a8da8f22d2523c4486fca3c9dbab275c7" title="Creates a TransportConfig instance from current NetworkManager Transport settings and then have comma..." alt="" coords="5,139,253,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,122,236,141,234,136,300,117"/>
+</map>

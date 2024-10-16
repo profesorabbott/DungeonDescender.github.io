@@ -1,0 +1,5 @@
+<map id="PA1A.Items.Container.OnNetworkDespawn" name="PA1A.Items.Container.OnNetworkDespawn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,227,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_container.html#a9e1cc2a7589e7b0d8e1d97fd7d94b808" title="Clears all the ISlot from the Container" alt="" coords="275,5,461,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,24,259,24,259,29,227,29"/>
+</map>

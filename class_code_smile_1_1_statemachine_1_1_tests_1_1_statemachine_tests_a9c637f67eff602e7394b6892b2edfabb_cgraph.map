@@ -1,0 +1,12 @@
+<map id="CodeSmile.Statemachine.Tests.StatemachineTests.FSM_StateChange_InvokesStateChangeEvent" name="CodeSmile.Statemachine.Tests.StatemachineTests.FSM_StateChange_InvokesStateChangeEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,254,123"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state.html#a96a9c95f18de8493618e0abad996b7e9" title="Add an empty transition to this state." alt="" coords="302,5,507,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,61,298,50,299,55,254,66"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_transition.html#ab9fb188b612b1cdce16bda80e8936177" title="Sets the destination state." alt="" coords="302,72,507,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,91,286,91,286,96,254,96"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#a7c1626a5062b29a369553aaf59efb720" title="Creates several named States." alt="" coords="302,163,507,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,121,324,155,322,160,220,126"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="357,163,355,153,363,144,379,138,404,136,431,138,448,145,446,150,430,144,404,141,380,143,366,148,360,154,362,162"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#add395acb7b110b2d190c0070cfe00152" title="Creates multiple States from strings." alt="" coords="555,163,760,205"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,181,539,181,539,187,508,187"/>
+</map>

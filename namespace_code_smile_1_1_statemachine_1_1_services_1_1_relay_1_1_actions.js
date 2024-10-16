@@ -1,0 +1,5 @@
+var namespace_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions =
+[
+    [ "RelayClearAllocationData", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data" ],
+    [ "RelayCreateOrJoinAllocation", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation" ]
+];

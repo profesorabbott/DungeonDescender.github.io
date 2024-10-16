@@ -1,0 +1,9 @@
+<map id="PA1A.Items.UI.ClassicContainerUI.CreateSlot" name="PA1A.Items.UI.ClassicContainerUI.CreateSlot">
+<area shape="rect" id="Node000001" title="Instantiates a ISlotUI for the specified ISlot.Index" alt="" coords="789,5,1003,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#ac896e7b6187fb41feb9567ef801b7527" title="Builds the ISlotUI for the IContainer" alt="" coords="528,5,741,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="774,29,742,29,742,24,774,24"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#a96ebb0047f59391770661c090ccb861c" title="Builds the IContainerUI" alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,29,480,29,480,24,512,24"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#ab15bc2bace0f02220bf0a8495dfa81a4" title="Toggles the build state of the IContainer" alt="" coords="5,5,219,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,29,219,29,219,24,251,24"/>
+</map>

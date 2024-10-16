@@ -1,0 +1,5 @@
+<map id="CodeSmile.Utility.SceneReference" name="CodeSmile.Utility.SceneReference">
+<area shape="rect" id="Node000001" title="Represents a SceneAsset at runtime by serializing only the scene name and path at runtime,..." alt="" coords="5,123,220,427"/>
+<area shape="rect" id="Node000002" href="$class_i_equatable.html" title=" " alt="" coords="15,5,211,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,90,115,123,110,123,110,90"/>
+</map>

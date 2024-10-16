@@ -1,0 +1,6 @@
+<map id="CodeSmile.Statemachine.FSM.WithStates" name="CodeSmile.Statemachine.FSM.WithStates">
+<area shape="rect" id="Node000001" title="Creates several named States." alt="" coords="5,29,211,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="60,29,58,19,66,10,83,5,108,3,135,5,151,11,149,16,134,10,108,8,84,10,69,15,63,21,65,28"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#add395acb7b110b2d190c0070cfe00152" title="Creates multiple States from strings." alt="" coords="259,29,464,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,48,243,48,243,53,211,53"/>
+</map>

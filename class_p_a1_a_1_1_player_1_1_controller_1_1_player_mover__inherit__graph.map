@@ -1,0 +1,5 @@
+<map id="PA1A.Player.Controller.PlayerMover" name="PA1A.Player.Controller.PlayerMover">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,193,293"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="48,5,151,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,90,102,123,97,123,97,90"/>
+</map>

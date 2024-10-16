@@ -1,0 +1,7 @@
+<map id="PA1A.Items.PlayerInventory.Clear" name="PA1A.Items.PlayerInventory.Clear">
+<area shape="rect" id="Node000001" title="Clears the IStackContainer contained ItemStack" alt="" coords="5,35,195,77"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#ad737e4e96c788541f085230d52a858b3" title="Clears the IStackContainer contained ItemStack" alt="" coords="246,5,439,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,42,229,38,230,43,195,47"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_container.html#a98ff3f63fc221151628a03cd4f31ed79" title=" " alt="" coords="243,72,442,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,65,227,69,227,74,195,70"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="PA1A.Player.Controller.PlayerMover.CheckForGround" name="PA1A.Player.Controller.PlayerMover.CheckForGround">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,202,115"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ae5faded6088a87b4cc7e82879b6db213" title="Casts a raycast in the specified direction." alt="" coords="250,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,69,256,50,257,55,187,74"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#a7855ea8c8a046a3352fe65059e977d79" title="Gets the distance to the hit point." alt="" coords="250,72,458,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,91,234,91,234,96,202,96"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ac4321982308b2b9ec388d93bcea78fc6" title="Checks if a hit has been detected." alt="" coords="250,139,458,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,113,257,132,256,137,186,118"/>
+</map>

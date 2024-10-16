@@ -1,0 +1,15 @@
+<map id="CodeSmile.MultiPal.Input.GeneratedInput.PlayerUIActions.SetCallbacks" name="CodeSmile.MultiPal.Input.GeneratedInput.PlayerUIActions.SetCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,219,229"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_u_i_actions.html#a439a4f17dd76d936f969b7491c16b467" title=" " alt="" coords="267,171,480,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,197,251,197,251,203,219,203"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html#a64f8dfb73938e746900acbf41ae558fc" title=" " alt="" coords="545,5,762,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,168,458,120,527,74,537,68,539,73,529,78,461,125,406,172"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html#a12798e42e1a57bda9302b0f0f5696a13" title=" " alt="" coords="545,88,762,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,167,537,149,538,154,476,173"/>
+<area shape="rect" id="Node000005" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html#a6cc8769453766a62b52e4f6c928013fc" title=" " alt="" coords="545,171,762,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="480,197,530,197,530,203,480,203"/>
+<area shape="rect" id="Node000006" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html#a577f6c779ac0e0735480b63bbd8332e4" title=" " alt="" coords="545,253,762,312"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="476,227,538,246,537,251,475,233"/>
+<area shape="rect" id="Node000007" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html#a5a49f3395be2e03529c07bd616b5b0a4" title=" " alt="" coords="528,336,779,379"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="405,228,460,276,494,301,529,322,542,328,540,332,527,326,491,305,457,280,402,232"/>
+</map>

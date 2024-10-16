@@ -1,0 +1,5 @@
+<map id="PA1A.Items.Item.GetNameDisplayText" name="PA1A.Items.Item.GetNameDisplayText">
+<area shape="rect" id="Node000001" title="Gets the display text for the item name." alt="" coords="234,13,484,40"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html#a902a484e37acfa4c61a104d95dc59731" title="Refreshes the ISlotUI after a change of its ItemStack" alt="" coords="5,5,186,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,29,186,29,186,24,218,24"/>
+</map>

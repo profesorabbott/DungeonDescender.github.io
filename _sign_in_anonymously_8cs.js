@@ -1,0 +1,4 @@
+var _sign_in_anonymously_8cs =
+[
+    [ "CodeSmile.Statemachine.Services.Authentication.Actions.SignInAnonymously", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously" ]
+];

@@ -1,0 +1,5 @@
+<map id="PA1A.Items.IContainerExtensions.GiveUnchanged" name="PA1A.Items.IContainerExtensions.GiveUnchanged">
+<area shape="rect" id="Node000001" title="Gives the specified ItemStack to the IStackContainer without making any change to the ItemStack...." alt="" coords="5,5,230,48"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#ac0523b8040d8c4bee0a8e8cf27b0683a" title="Gives the specified ItemStack to the IStackContainer and substracts the given amount from the ItemSta..." alt="" coords="278,13,498,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,24,262,24,262,29,230,29"/>
+</map>

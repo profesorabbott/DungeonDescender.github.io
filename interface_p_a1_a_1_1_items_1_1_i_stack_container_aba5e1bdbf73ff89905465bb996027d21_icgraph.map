@@ -1,0 +1,9 @@
+<map id="PA1A.Items.IStackContainer.CanBeTaken" name="PA1A.Items.IStackContainer.CanBeTaken">
+<area shape="rect" id="Node000001" title="Determines if the ItemStack is allowed by the IStackContainer to be taken from it &#160;This methods only ..." alt="" coords="278,72,471,115"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_i_container_extensions.html#aad4c781ba082124495033e8f685b2414" title="Determines the total number of ItemStack that could be taken from the IContainer" alt="" coords="5,5,230,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,70,202,51,203,46,275,65"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_i_slot_extensions.html#a5cdbce008609f9cd7d94c0f63003a98e" title="Determines the total number of ItemStack that could be taken from the ISlot" alt="" coords="22,72,213,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,96,214,96,214,91,262,91"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_i_slot_extensions.html#a92d28c55a7daaea8ef31951db21d9960" title="Swaps ItemStack of the two specified ISlot" alt="" coords="5,139,230,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="265,121,230,129,180,141,179,136,229,124,264,116"/>
+</map>

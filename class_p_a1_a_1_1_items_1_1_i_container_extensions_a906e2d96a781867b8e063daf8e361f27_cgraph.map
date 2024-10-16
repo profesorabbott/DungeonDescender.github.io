@@ -1,0 +1,7 @@
+<map id="PA1A.Items.IContainerExtensions.GetSpace" name="PA1A.Items.IContainerExtensions.GetSpace">
+<area shape="rect" id="Node000001" title="Determines the remaining space for ItemStack that could be given to the IContainer" alt="" coords="5,35,230,77"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#a53cdc70c7f250f8cd3372e053449c0ff" title="Determines if the ItemStack is allowed by the IStackContainer to be given to it &#160;This methods only ac..." alt="" coords="283,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,41,267,37,267,42,231,46"/>
+<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_i_container.html#aedad92708735e6706254350491c006f2" title=" " alt="" coords="278,72,481,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,66,263,70,262,75,230,71"/>
+</map>

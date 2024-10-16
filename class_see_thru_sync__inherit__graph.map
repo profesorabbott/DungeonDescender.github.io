@@ -1,0 +1,5 @@
+<map id="SeeThruSync" name="SeeThruSync">
+<area shape="rect" id="Node000001" title="This class controls the see&#45;through effect of a wall material based on the visibility of the camera." alt="" coords="11,123,103,213"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="5,5,108,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="59,89,59,123,54,123,54,89"/>
+</map>

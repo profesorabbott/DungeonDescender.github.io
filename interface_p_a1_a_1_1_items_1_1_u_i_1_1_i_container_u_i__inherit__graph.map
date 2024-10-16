@@ -1,0 +1,5 @@
+<map id="PA1A.Items.UI.IContainerUI" name="PA1A.Items.UI.IContainerUI">
+<area shape="rect" id="Node000001" title="Represents a IContainerUI that will handle the display of an IContainer" alt="" coords="25,5,204,117"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html" title="Classic implementation of IContainerUI &#160;(Supports fixed and flexible sized containers)" alt="" coords="5,165,224,555"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,133,117,166,112,166,112,133"/>
+</map>

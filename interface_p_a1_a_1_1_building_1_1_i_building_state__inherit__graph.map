@@ -1,0 +1,7 @@
+<map id="PA1A.Building.IBuildingState" name="PA1A.Building.IBuildingState">
+<area shape="rect" id="Node000001" title="Represents the state of a building." alt="" coords="117,5,298,117"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_placement_state.html" title="Represents the state of object placement in the building system." alt="" coords="5,165,199,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,131,145,167,140,164,163,128"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_building_1_1_remove_state.html" title="Represents the state of removing a building." alt="" coords="223,165,403,299"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,128,274,164,270,167,247,131"/>
+</map>

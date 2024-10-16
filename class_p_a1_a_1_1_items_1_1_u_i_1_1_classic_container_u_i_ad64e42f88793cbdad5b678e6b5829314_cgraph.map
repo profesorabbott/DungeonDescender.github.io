@@ -1,0 +1,7 @@
+<map id="PA1A.Items.UI.ClassicContainerUI.AwaitPlayerInventoryLoad" name="PA1A.Items.UI.ClassicContainerUI.AwaitPlayerInventoryLoad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,219,81"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#a97d2cc6b46029c1c5ae094b72aa5347a" title=" " alt="" coords="267,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,44,251,40,252,45,220,49"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#a0503e8d20d17157d75c91a43b5ee0213" title=" " alt="" coords="267,72,480,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,71,252,75,251,80,219,76"/>
+</map>

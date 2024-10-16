@@ -1,0 +1,5 @@
+var namespace_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions =
+[
+    [ "IsNotSignedIn", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_not_signed_in.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_not_signed_in" ],
+    [ "IsSignedIn", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_signed_in.html", "class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_signed_in" ]
+];

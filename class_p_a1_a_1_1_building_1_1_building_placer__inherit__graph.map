@@ -1,0 +1,5 @@
+<map id="PA1A.Building.BuildingPlacer" name="PA1A.Building.BuildingPlacer">
+<area shape="rect" id="Node000001" title="Represents a class responsible for placing and removing objects in the game." alt="" coords="5,160,188,272"/>
+<area shape="rect" id="Node000002" href="$class_network_singleton.html" title=" " alt="" coords="10,5,183,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,127,99,160,94,160,94,127"/>
+</map>

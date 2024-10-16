@@ -1,0 +1,10 @@
+<map id="PA1A.Building.IBuildingState.EndState" name="PA1A.Building.IBuildingState.EndState">
+<area shape="rect" id="Node000001" title="Ends the current state of the building." alt="" coords="540,39,733,81"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_placement_system.html#ae762a90199bf3b51302b9eeb0a02fa4a" title="Stops the placement of buildings." alt="" coords="273,39,492,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,63,492,63,492,57,524,57"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="424,26,408,20,382,17,358,19,343,24,338,30,340,38,334,39,332,29,340,20,357,14,382,12,409,14,426,21"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_building_1_1_placement_system.html#a056866139acd56dabcc6e27f5823e2a4" title="Starts the placement of a building with the specified ID." alt="" coords="5,5,225,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,47,225,43,225,38,257,42"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_building_1_1_placement_system.html#a38c6c54f58d900665185f8a14c0fba3a" title="Starts the removal of a building." alt="" coords="5,72,225,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,78,225,82,225,77,257,73"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CodeSmile.Statemachine.Tests.StatemachineTests.FSM_InvalidStatemachineName_Throws" name="CodeSmile.Statemachine.Tests.StatemachineTests.FSM_InvalidStatemachineName_Throws">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,296,101"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#af2d28ec284f5b6e2d32e3f4fbc6f2fc1" title="Initializes (starts) the statemachine." alt="" coords="344,5,549,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,47,328,42,329,47,297,52"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#a7c1626a5062b29a369553aaf59efb720" title="Creates several named States." alt="" coords="344,96,549,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,92,329,97,328,102,296,97"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="399,96,397,86,405,77,421,71,446,69,473,72,490,78,488,83,472,77,446,75,422,77,408,81,402,87,404,95"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_statemachine_1_1_f_s_m.html#add395acb7b110b2d190c0070cfe00152" title="Creates multiple States from strings." alt="" coords="597,96,802,139"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="550,115,581,115,581,120,550,120"/>
+</map>

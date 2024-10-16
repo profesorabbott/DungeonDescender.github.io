@@ -1,0 +1,11 @@
+<map id="PA1A.Building.Preview.BuildPreviewSystem.UpdatePosition" name="PA1A.Building.Preview.BuildPreviewSystem.UpdatePosition">
+<area shape="rect" id="Node000001" title="Updates the position of the placement preview and applies feedback based on its validity." alt="" coords="259,105,465,148"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_placement_state.html#a49981f2f206ffa3eff035f136dedaadd" title="Performs an action on the specified grid position." alt="" coords="5,5,211,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,101,210,62,178,51,180,46,212,58,302,96"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_building_1_1_remove_state.html#a8c46c1fb6920ee58fd7ea68cf58ff09c" title="Performs an action on the building at the specified grid position." alt="" coords="12,72,204,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,114,204,109,205,103,244,108"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_building_1_1_placement_state.html#a547a482412820f0ac8fa1422c7a9849f" title="Updates the state based on the specified grid position." alt="" coords="5,139,211,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,145,211,149,211,144,243,140"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_building_1_1_remove_state.html#a75d8f2656da29785d04341795ffe13e0" title="Updates the state of removing a building based on the specified grid position." alt="" coords="12,205,204,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="302,157,212,196,180,207,178,202,210,191,300,152"/>
+</map>

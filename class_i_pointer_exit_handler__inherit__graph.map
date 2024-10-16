@@ -1,0 +1,5 @@
+<map id="IPointerExitHandler" name="IPointerExitHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,131,75"/>
+<area shape="rect" id="Node000002" href="$class_tooltip_trigger.html" title="Represents a trigger for displaying tooltips." alt="" coords="8,123,128,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,90,71,123,65,123,65,90"/>
+</map>

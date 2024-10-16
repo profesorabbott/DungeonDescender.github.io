@@ -1,0 +1,7 @@
+<map id="PA1A.Items.ISlotExtensions.GetCount" name="PA1A.Items.ISlotExtensions.GetCount">
+<area shape="rect" id="Node000001" title="Determines the total number of ItemStack that could be taken from the ISlot" alt="" coords="5,35,197,77"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#aba5e1bdbf73ff89905465bb996027d21" title="Determines if the ItemStack is allowed by the IStackContainer to be taken from it &#160;This methods only ..." alt="" coords="258,5,452,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,42,242,37,243,42,198,48"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_item_stack.html#accc7136840d27aaa1c6b2a19dbe9f74b" title="Determines if both the ItemStack are the same (can be combined in a single ItemStack)" alt="" coords="245,72,465,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,64,229,68,229,73,197,70"/>
+</map>

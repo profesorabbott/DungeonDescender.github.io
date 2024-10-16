@@ -1,0 +1,21 @@
+<map id="PA1A.Items.Item" name="PA1A.Items.Item">
+<area shape="rect" id="Node000001" title="Represents an abstract base class for items in the game." alt="" coords="208,123,396,427"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="103,475,291,672"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="246,442,234,476,229,474,241,440"/>
+<area shape="rect" id="Node000010" href="$class_p_a1_a_1_1_items_1_1_resource_item.html" title="Represents a resource item in the game." alt="" coords="315,528,503,619"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="364,440,396,528,391,530,359,442"/>
+<area shape="rect" id="Node000002" href="$class_scriptable_object.html" title=" " alt="" coords="73,5,182,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,85,210,147,206,150,159,88"/>
+<area shape="rect" id="Node000003" href="$class_i_serialization_callback_receiver.html" title=" " alt="" coords="207,5,397,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="305,90,305,123,299,123,299,90"/>
+<area shape="rect" id="Node000004" href="$class_i_equatable.html" title=" " alt="" coords="422,5,547,75"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="451,88,398,156,394,153,447,85"/>
+<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_items_1_1_consumable_item.html" title=" " alt="" coords="5,720,191,789"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="138,686,119,721,114,719,133,684"/>
+<area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_items_1_1_weapon_item.html" title="Represents an abstract base class for weapon items in the game." alt="" coords="215,720,375,789"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="260,684,279,719,275,721,255,686"/>
+<area shape="rect" id="Node000008" href="$class_p_a1_a_1_1_items_1_1_melee_item.html" title="Represents a melee weapon item in the game." alt="" coords="132,837,280,928"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="265,803,239,839,235,836,261,800"/>
+<area shape="rect" id="Node000009" href="$class_p_a1_a_1_1_items_1_1_ranged_item.html" title="Represents a ranged weapon item in the game." alt="" coords="305,848,462,917"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="329,800,362,847,358,850,325,803"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PA1A.Items.Slot.Give" name="PA1A.Items.Slot.Give">
+<area shape="rect" id="Node000001" title="Gives the specified ItemStack to the IStackContainer and substracts the given amount from the ItemSta..." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_item_stack.html#a9ceeb592ba1878b5fefee74d10b5606e" title="Clones the ItemStack" alt="" coords="203,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,16,187,16,187,21,155,21"/>
+</map>

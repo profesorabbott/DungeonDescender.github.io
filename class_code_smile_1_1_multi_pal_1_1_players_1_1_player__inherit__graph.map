@@ -1,0 +1,7 @@
+<map id="CodeSmile.MultiPal.Players.Player" name="CodeSmile.MultiPal.Players.Player">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,187,239,528"/>
+<area shape="rect" id="Node000002" href="$class_network_behaviour.html" title=" " alt="" coords="5,37,125,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,120,99,186,94,188,76,121"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_players_1_1_i_player_component.html" title=" " alt="" coords="150,5,290,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,154,192,188,186,186,196,153"/>
+</map>

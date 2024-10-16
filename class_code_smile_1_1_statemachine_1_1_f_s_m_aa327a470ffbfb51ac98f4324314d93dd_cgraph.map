@@ -1,0 +1,7 @@
+<map id="CodeSmile.Statemachine.FSM.Update" name="CodeSmile.Statemachine.FSM.Update">
+<area shape="rect" id="Node000001" title="Evaluates the statemachine&#39;s states and their transitions." alt="" coords="5,39,211,81"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state.html#a95a7bd3bf1c48ed632799bd543e204a8" title="Is true if the State has no conditions." alt="" coords="259,5,464,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,44,243,40,244,45,212,49"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state.html#ac5ce13e42857e61bcf520c88f25ea336" title="Updating the state will update all its transitions." alt="" coords="259,72,464,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,71,244,75,243,80,211,76"/>
+</map>

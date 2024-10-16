@@ -1,0 +1,9 @@
+<map id="CodeSmile.MultiPal.Input.GeneratedInput.PlayerInteractionActions.SetCallbacks" name="CodeSmile.MultiPal.Input.GeneratedInput.PlayerInteractionActions.SetCallbacks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,218,105"/>
+<area shape="rect" id="Node000002" href="$struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_interaction_actions.html#aa06e4999c213bd96fcb7c02db759a0de" title=" " alt="" coords="266,47,478,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,73,250,73,250,79,218,79"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html#a9ad97047665e22ee618de3b40107ec2b" title=" " alt="" coords="526,5,742,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,57,510,51,511,57,479,62"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html#a51295f97094a74346db455294a74b457" title=" " alt="" coords="526,88,742,147"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,90,511,95,510,101,478,95"/>
+</map>

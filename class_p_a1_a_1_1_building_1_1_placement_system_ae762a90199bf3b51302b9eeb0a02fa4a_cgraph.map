@@ -1,0 +1,6 @@
+<map id="PA1A.Building.PlacementSystem.StopPlacement" name="PA1A.Building.PlacementSystem.StopPlacement">
+<area shape="rect" id="Node000001" title="Stops the placement of buildings." alt="" coords="5,29,225,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="67,29,65,19,73,10,90,5,115,3,142,5,158,11,156,16,141,10,115,8,91,10,76,15,70,21,72,28"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_building_1_1_i_building_state.html#afba2b96975fe9a003c491007beff1237" title="Ends the current state of the building." alt="" coords="273,29,466,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,257,48,257,53,225,53"/>
+</map>

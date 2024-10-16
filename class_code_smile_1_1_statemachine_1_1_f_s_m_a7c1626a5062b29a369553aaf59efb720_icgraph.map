@@ -1,0 +1,18 @@
+<map id="CodeSmile.Statemachine.FSM.WithStates" name="CodeSmile.Statemachine.FSM.WithStates">
+<area shape="rect" id="Node000001" title="Creates several named States." alt="" coords="344,261,549,304"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="495,248,477,242,446,240,418,242,401,247,394,253,396,260,391,261,389,251,398,242,417,237,446,235,478,237,497,243"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a8ab4bb426e356b205976b74c5aca0dbb" title=" " alt="" coords="5,5,296,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="426,248,405,208,375,162,338,117,294,78,275,67,278,62,297,74,342,113,379,159,409,206,431,246"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aca3f68fbd8e276e7c7ee5c7802defc43" title=" " alt="" coords="30,88,271,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,252,360,205,328,181,294,161,270,150,272,145,297,156,331,177,363,201,416,248"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aa410e9960cad8fcfd4804ec766bd5ba7" title=" " alt="" coords="9,171,292,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="352,259,257,233,259,227,353,254"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#aabd6228e94636d5d5e9171e1e9e99e78" title=" " alt="" coords="29,253,272,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="328,285,273,285,273,280,328,280"/>
+<area shape="rect" id="Node000006" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a0bf7d8d2296419acff49a3f8c5592f7d" title=" " alt="" coords="15,336,286,395"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="353,311,259,338,257,333,352,306"/>
+<area shape="rect" id="Node000007" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a3882d30482dc6b250d69e362bf86cec4" title=" " alt="" coords="21,419,280,477"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="416,317,363,364,331,388,297,409,272,421,270,416,294,404,328,384,360,360,412,313"/>
+<area shape="rect" id="Node000008" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_tests.html#a9c637f67eff602e7394b6892b2edfabb" title=" " alt="" coords="26,501,275,560"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="431,319,409,360,379,406,342,452,297,491,277,504,274,499,294,487,338,448,375,403,405,357,426,317"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="PA1A.Building.PlacementSystem.StartRemoving" name="PA1A.Building.PlacementSystem.StartRemoving">
+<area shape="rect" id="Node000001" title="Starts the removal of a building." alt="" coords="5,29,225,72"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_placement_system.html#ae762a90199bf3b51302b9eeb0a02fa4a" title="Stops the placement of buildings." alt="" coords="273,29,492,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,48,257,48,257,53,225,53"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="334,29,332,19,340,10,357,5,382,3,409,5,426,11,424,16,408,10,382,8,358,10,343,15,338,21,340,28"/>
+<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_building_1_1_i_building_state.html#afba2b96975fe9a003c491007beff1237" title="Ends the current state of the building." alt="" coords="540,29,733,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,48,524,48,524,53,493,53"/>
+</map>

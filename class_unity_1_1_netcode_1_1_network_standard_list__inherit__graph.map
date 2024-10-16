@@ -1,0 +1,11 @@
+<map id="Unity.Netcode.NetworkStandardList&lt; TOriginal, TCast &gt;" name="Unity.Netcode.NetworkStandardList&lt; TOriginal, TCast &gt;">
+<area shape="rect" id="Node000001" title="Represents a List&lt;T&gt; that is synchronized as a List&lt;T&gt; &#160;This allows you to synchronize managed types ..." alt="" coords="246,459,447,864"/>
+<area shape="rect" id="Node000002" href="$class_unity_1_1_netcode_1_1_network_standard_list.html" title=" " alt="" coords="5,5,179,411"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,400,193,409,248,504,244,506,188,412,183,403"/>
+<area shape="rect" id="Node000003" href="$class_network_variable_base.html" title=" " alt="" coords="203,173,341,243"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,257,316,458,311,459,277,258"/>
+<area shape="rect" id="Node000004" href="$class_i_list.html" title=" " alt="" coords="365,173,478,243"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,258,383,459,377,458,411,257"/>
+<area shape="rect" id="Node000005" href="$class_i_read_only_list.html" title=" " alt="" coords="503,173,673,243"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="569,257,493,412,450,491,445,488,488,409,564,255"/>
+</map>

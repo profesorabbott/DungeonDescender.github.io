@@ -1,0 +1,7 @@
+<map id="CodeSmile.Statemachine.Variable.Actions.SetValue.Execute" name="CodeSmile.Statemachine.Variable.Actions.SetValue.Execute">
+<area shape="rect" id="Node000001" title="Executes the action." alt="" coords="285,55,508,97"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#aede1879d6c976f5e4b4125c96106a3f9" title=" " alt="" coords="5,5,237,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,60,237,55,238,49,270,54"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_tests_1_1_statemachine_variable_tests.html#ac1593b58d706c372ef60c5115f78febb" title=" " alt="" coords="12,88,230,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,98,230,104,230,98,269,92"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CodeSmile.Components.Utility.MonoSingleton.Awake" name="CodeSmile.Components.Utility.MonoSingleton.Awake">
+<area shape="rect" id="Node000001" title="Call base.Awake() to automatically assign &#39;this&#39; as the singleton instance." alt="" coords="5,5,210,48"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_components_1_1_utility_1_1_mono_singleton.html#ad86861d51cb7573ba68a8b5c3c4e3b34" title="Assigns the singleton instance." alt="" coords="258,5,493,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,24,242,24,242,29,210,29"/>
+</map>

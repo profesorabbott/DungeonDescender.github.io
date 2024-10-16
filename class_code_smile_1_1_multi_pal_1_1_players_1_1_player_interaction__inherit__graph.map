@@ -1,0 +1,9 @@
+<map id="CodeSmile.MultiPal.Players.PlayerInteraction" name="CodeSmile.MultiPal.Players.PlayerInteraction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,187,292,336"/>
+<area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="5,37,108,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,116,147,185,143,188,89,119"/>
+<area shape="rect" id="Node000003" href="$interface_code_smile_1_1_multi_pal_1_1_players_1_1_i_player_component.html" title=" " alt="" coords="132,5,272,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,154,205,187,199,187,199,154"/>
+<area shape="rect" id="Node000004" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html" title=" " alt="" coords="296,19,508,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="337,137,282,189,278,185,334,133"/>
+</map>

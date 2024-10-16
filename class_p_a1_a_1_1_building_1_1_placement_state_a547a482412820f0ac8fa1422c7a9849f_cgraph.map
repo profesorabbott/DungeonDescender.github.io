@@ -1,0 +1,5 @@
+<map id="PA1A.Building.PlacementState.UpdateState" name="PA1A.Building.PlacementState.UpdateState">
+<area shape="rect" id="Node000001" title="Updates the state based on the specified grid position." alt="" coords="5,5,211,48"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html#ad6d7da9e39b3f1535bc0e59d4f7d12b7" title="Updates the position of the placement preview and applies feedback based on its validity." alt="" coords="259,5,465,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,24,243,24,243,29,211,29"/>
+</map>

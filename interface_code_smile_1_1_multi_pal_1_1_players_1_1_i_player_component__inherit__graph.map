@@ -1,0 +1,15 @@
+<map id="CodeSmile.MultiPal.Players.IPlayerComponent" name="CodeSmile.MultiPal.Players.IPlayerComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="528,5,708,155"/>
+<area shape="rect" id="Node000002" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player.html" title=" " alt="" coords="5,203,199,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="514,95,442,108,363,130,284,161,246,181,212,205,200,214,197,210,208,201,244,177,281,156,361,125,441,103,513,89"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="223,267,403,480"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="517,132,464,165,416,205,390,235,367,268,362,265,385,232,412,201,461,160,514,127"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_camera.html" title=" " alt="" coords="427,309,607,437"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="590,170,541,310,536,308,585,168"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_interaction.html" title=" " alt="" coords="631,299,811,448"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="651,168,697,298,692,300,646,170"/>
+<area shape="rect" id="Node000006" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_ui.html" title=" " alt="" coords="835,267,1015,480"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="722,127,776,160,825,201,852,232,875,265,871,268,848,235,821,205,773,164,719,131"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1039,299,1219,448"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="724,89,796,102,876,123,956,156,994,176,1029,201,1052,222,1072,246,1102,298,1098,300,1067,249,1048,225,1026,205,991,181,954,160,874,129,795,107,723,94"/>
+</map>

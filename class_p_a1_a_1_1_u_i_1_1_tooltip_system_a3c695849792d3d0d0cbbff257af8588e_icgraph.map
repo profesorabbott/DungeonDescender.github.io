@@ -1,0 +1,5 @@
+<map id="PA1A.UI.TooltipSystem.Show" name="PA1A.UI.TooltipSystem.Show">
+<area shape="rect" id="Node000001" title="Shows the tooltip with the specified content and header." alt="" coords="215,13,411,40"/>
+<area shape="rect" id="Node000002" href="$class_tooltip_trigger.html#a45a70929c47ac6081f7c83c71759dc71" title="Called when the pointer enters the trigger area." alt="" coords="5,5,167,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,29,167,29,167,24,199,24"/>
+</map>

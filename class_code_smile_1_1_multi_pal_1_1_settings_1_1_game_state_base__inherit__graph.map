@@ -1,0 +1,11 @@
+<map id="CodeSmile.MultiPal.Settings.GameStateBase" name="CodeSmile.MultiPal.Settings.GameStateBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,123,422,400"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_launch_screen_state.html" title=" " alt="" coords="5,448,209,533"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,369,149,450,146,447,226,365"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_menu_screen_state.html" title=" " alt="" coords="233,448,427,533"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,415,333,448,327,448,327,415"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_title_screen_state.html" title=" " alt="" coords="451,448,638,533"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,369,508,446,504,450,430,372"/>
+<area shape="rect" id="Node000002" href="$class_scriptable_object.html" title=" " alt="" coords="275,5,385,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,90,333,123,327,123,327,90"/>
+</map>

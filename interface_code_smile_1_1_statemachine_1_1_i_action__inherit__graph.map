@@ -1,0 +1,45 @@
+<map id="CodeSmile.Statemachine.IAction" name="CodeSmile.Statemachine.IAction">
+<area shape="rect" id="Node000001" title="Marks a class as a FSM Action." alt="" coords="1953,187,2159,277"/>
+<area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_actions_1_1_compound_action.html" title="Used to combine multiple FSM actions into a single, named action." alt="" coords="5,368,219,517"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1938,237,1533,244,1001,259,739,270,510,286,334,305,272,316,232,328,200,346,172,370,168,366,197,342,230,323,271,311,333,299,510,280,739,265,1000,253,1533,238,1938,232"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_statemachine_1_1_actions_1_1_lambda_action.html" title="Generic Action that executes a lambda (System.Action)." alt="" coords="243,368,456,517"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1939,238,1583,247,1124,263,901,275,706,290,556,307,503,317,469,328,437,346,409,370,406,366,434,342,467,323,502,312,555,302,705,285,901,270,1124,258,1583,241,1939,233"/>
+<area shape="rect" id="Node000005" href="$interface_code_smile_1_1_statemachine_1_1_i_async_action.html" title="Marks a class as an asynchronous (awaitable) FSM Action." alt="" coords="480,400,685,485"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1939,239,1630,250,1244,268,1058,280,895,294,770,310,727,319,698,328,673,342,650,361,613,402,609,399,647,357,670,338,696,323,726,313,770,305,894,289,1057,275,1244,263,1630,244,1938,234"/>
+<area shape="rect" id="Node000009" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_network_start.html" title="Calls NetworkManager StartClient/StartHost/StartServer based on the provided config variable." alt="" coords="710,389,927,496"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1938,236,1702,239,1411,252,1267,264,1134,280,1022,301,977,314,940,328,896,356,860,391,856,388,893,352,937,323,975,309,1021,296,1134,275,1266,259,1411,247,1701,234,1938,230"/>
+<area shape="rect" id="Node000010" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_network_stop.html" title="Stops networking, ie calls NetworkManager Shutdown()." alt="" coords="951,389,1169,496"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1938,239,1751,247,1531,263,1424,275,1325,289,1243,307,1181,328,1138,356,1101,392,1098,388,1134,352,1179,323,1241,302,1325,284,1423,269,1531,258,1751,242,1938,234"/>
+<area shape="rect" id="Node000011" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_set_netcode_role.html" title="Sets the role in the NetcodeConfig var to the given value (Server, Host, Client or None)." alt="" coords="1193,379,1410,507"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1939,244,1804,257,1654,275,1518,298,1463,312,1423,328,1386,351,1354,381,1350,377,1382,347,1420,323,1462,307,1517,293,1654,269,1803,251,1938,239"/>
+<area shape="rect" id="Node000012" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_transport_setup.html" title="Configures NetworkManager&#39;s Transport from config variables." alt="" coords="1434,389,1651,496"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1939,247,1874,258,1804,274,1733,297,1665,328,1623,357,1587,392,1583,388,1620,353,1663,323,1731,292,1802,269,1873,253,1938,242"/>
+<area shape="rect" id="Node000013" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data.html" title="Clears the allocations from the RelayConfig variable." alt="" coords="1676,389,1924,496"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1987,288,1938,327,1861,392,1858,388,1934,323,1984,284"/>
+<area shape="rect" id="Node000014" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_add_value.html" title="Adds a value to a variable." alt="" coords="1949,336,2163,549"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2059,292,2059,336,2053,336,2053,292"/>
+<area shape="rect" id="Node000015" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_dec_value.html" title="Decrements an integer variable by 1." alt="" coords="2187,389,2402,496"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2130,284,2178,323,2246,388,2243,392,2174,327,2126,288"/>
+<area shape="rect" id="Node000016" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_div_value.html" title="Divides the variable by a value." alt="" coords="2426,336,2641,549"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2174,245,2232,257,2294,273,2357,295,2416,323,2433,334,2430,338,2413,328,2355,300,2293,278,2231,262,2173,250"/>
+<area shape="rect" id="Node000017" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_inc_value.html" title="Increments an integer value by 1." alt="" coords="2665,389,2879,496"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2174,240,2300,253,2439,271,2565,294,2616,308,2655,323,2698,352,2734,388,2730,392,2695,357,2652,328,2614,313,2564,300,2438,276,2300,258,2173,246"/>
+<area shape="rect" id="Node000018" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_mul_value.html" title="Multiplies variable by a value." alt="" coords="2903,336,3118,549"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2174,234,2352,243,2561,259,2663,271,2756,285,2834,302,2893,323,2913,334,2910,339,2891,328,2833,308,2755,290,2662,276,2561,265,2352,248,2173,240"/>
+<area shape="rect" id="Node000019" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_false.html" title="Sets a bool variable to false." alt="" coords="3142,379,3357,507"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2174,231,2402,235,2680,249,2818,260,2945,276,3052,297,3132,323,3170,347,3203,377,3199,381,3167,351,3130,328,3051,302,2944,281,2818,266,2680,254,2402,241,2174,236"/>
+<area shape="rect" id="Node000020" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_true.html" title="Sets a bool variable to true." alt="" coords="3381,379,3595,507"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2174,234,2473,245,2845,264,3180,290,3300,305,3370,323,3409,347,3442,377,3438,381,3406,351,3368,328,3299,311,3179,295,2844,269,2473,251,2174,240"/>
+<area shape="rect" id="Node000021" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_value.html" title="Assigns a value to the variable." alt="" coords="3619,325,3834,560"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2174,233,2523,242,2970,259,3187,271,3377,285,3523,303,3575,312,3609,323,3621,329,3618,334,3607,328,3574,318,3523,308,3377,291,3187,276,2969,264,2523,247,2174,238"/>
+<area shape="rect" id="Node000022" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_sub_value.html" title="Subtracts variable by a value." alt="" coords="3858,336,4073,549"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="2174,232,2571,239,3093,254,3349,266,3574,281,3747,300,3807,311,3848,323,3868,334,3866,339,3846,328,3806,316,3746,305,3573,286,3349,271,3093,259,2571,244,2174,237"/>
+<area shape="rect" id="Node000002" href="$interface_code_smile_1_1_statemachine_1_1_i_statemachine_events.html" title="Event methods that the Statemachine calls at specific times." alt="" coords="1987,5,2125,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2059,153,2059,187,2053,187,2053,153"/>
+<area shape="rect" id="Node000006" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously.html" title="Calls SignInAnonymouslyAsync." alt="" coords="184,619,448,704"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="538,498,470,562,387,621,384,617,466,558,534,494"/>
+<area shape="rect" id="Node000007" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_core_1_1_actions_1_1_unity_services_init.html" title="Initialize Unity Gaming Services." alt="" coords="473,619,693,704"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="585,500,585,619,580,619,580,500"/>
+<area shape="rect" id="Node000008" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation.html" title="Initializes Relay." alt="" coords="717,608,982,715"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="631,494,699,558,765,606,762,610,696,562,628,498"/>
+</map>
