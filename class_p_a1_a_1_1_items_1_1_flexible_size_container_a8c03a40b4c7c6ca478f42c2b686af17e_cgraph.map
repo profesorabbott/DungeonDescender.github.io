@@ -1,0 +1,7 @@
+<map id="PA1A.Items.FlexibleSizeContainer.Take" name="PA1A.Items.FlexibleSizeContainer.Take">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,260,57"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_container.html#a98ff3f63fc221151628a03cd4f31ed79" title=" " alt="" coords="319,5,518,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,30,303,26,303,32,260,35"/>
+<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html#af918b0b1d80a1e4d9aa1e42e12c6b7c2" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="308,56,529,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,53,293,56,292,61,260,58"/>
+</map>

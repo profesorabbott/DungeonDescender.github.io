@@ -29,7 +29,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.1</span>
+   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.2</span>
    </div>
    <div id="projectbrief">Dungeon Descender is a 4 player co-op dungeon crawler tower defense game.</div>
   </td>
@@ -117,6 +117,10 @@ Inheritance diagram for PA1A.Items.ISlot:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a2bd8350f765a7d52e9914fce154d311c" id="r_a2bd8350f765a7d52e9914fce154d311c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a2bd8350f765a7d52e9914fce154d311c">ContainsItem</a> ()</td></tr>
+<tr class="separator:a2bd8350f765a7d52e9914fce154d311c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a256d918afab40325b5b86a496f3ed5d0" id="r_a256d918afab40325b5b86a496f3ed5d0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a256d918afab40325b5b86a496f3ed5d0">ContainsItem</a> (<a class="el" href="class_p_a1_a_1_1_items_1_1_item.html">Item</a> item)</td></tr>
+<tr class="separator:a256d918afab40325b5b86a496f3ed5d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad8a3e9ece63dfea8ebec37e16ed234c9" id="r_ad8a3e9ece63dfea8ebec37e16ed234c9"><td class="memItemLeft" align="right" valign="top">uint&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad8a3e9ece63dfea8ebec37e16ed234c9">GetMaximumSpace</a> (<a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html">ItemStack</a> itemStack)</td></tr>
 <tr class="memdesc:ad8a3e9ece63dfea8ebec37e16ed234c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines the maximum space available in the <a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack">ISlot</a> for the specified Sacados.ItemStack<br  />
  This method doesn't act as a filter and can give a maximum space even if the Sacados.ItemStack cannot be given to the slot.  <br /></td></tr>
@@ -131,6 +135,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af918b0b1d80a1e4d9aa1e42e12c6b7c2 inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container" id="r_af918b0b1d80a1e4d9aa1e42e12c6b7c2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_stack_container.html#af918b0b1d80a1e4d9aa1e42e12c6b7c2">Take</a> (<a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html">ItemStack</a> itemStack)</td></tr>
 <tr class="memdesc:af918b0b1d80a1e4d9aa1e42e12c6b7c2 inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container"><td class="mdescLeft">&#160;</td><td class="mdescRight">Takes the specified <a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item">ItemStack</a> from the <a class="el" href="interface_p_a1_a_1_1_items_1_1_i_stack_container.html">IStackContainer</a> and substracts the taken amount from the <a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html#a36de2dd18b18f349bf9190ae5e9384c6" title="StackSize of the ItemStack">ItemStack.StackSize</a>  <br /></td></tr>
 <tr class="separator:af918b0b1d80a1e4d9aa1e42e12c6b7c2 inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbc803985578fad2b3e94a036785d99d inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container" id="r_abbc803985578fad2b3e94a036785d99d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_stack_container.html#abbc803985578fad2b3e94a036785d99d">Take</a> (<a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html">ItemStack</a> itemStack, int preferedIndex)</td></tr>
+<tr class="separator:abbc803985578fad2b3e94a036785d99d inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a53cdc70c7f250f8cd3372e053449c0ff inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container" id="r_a53cdc70c7f250f8cd3372e053449c0ff"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_stack_container.html#a53cdc70c7f250f8cd3372e053449c0ff">CanBeGiven</a> (<a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html">ItemStack</a> itemStack)</td></tr>
 <tr class="memdesc:a53cdc70c7f250f8cd3372e053449c0ff inherit pub_methods_interface_p_a1_a_1_1_items_1_1_i_stack_container"><td class="mdescLeft">&#160;</td><td class="mdescRight">Determines if the <a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item">ItemStack</a> is allowed by the <a class="el" href="interface_p_a1_a_1_1_items_1_1_i_stack_container.html">IStackContainer</a> to be given to it<br  />
  This methods only acts as a filter and doesn't check if there is enough space for the <a class="el" href="class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item">ItemStack</a> to be given.  <br /></td></tr>
@@ -156,6 +162,45 @@ Properties</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Represents a <a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack">ISlot</a> that contains a single Sacados.ItemStack </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a2bd8350f765a7d52e9914fce154d311c" name="a2bd8350f765a7d52e9914fce154d311c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2bd8350f765a7d52e9914fce154d311c">&#9670;&#160;</a></span>ContainsItem() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PA1A.Items.ISlot.ContainsItem </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="interface_p_a1_a_1_1_items_1_1_i_slot_a2bd8350f765a7d52e9914fce154d311c_icgraph.svg" width="476" height="54"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<a id="a256d918afab40325b5b86a496f3ed5d0" name="a256d918afab40325b5b86a496f3ed5d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a256d918afab40325b5b86a496f3ed5d0">&#9670;&#160;</a></span>ContainsItem() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PA1A.Items.ISlot.ContainsItem </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_p_a1_a_1_1_items_1_1_item.html">Item</a></td>          <td class="paramname"><span class="paramname"><em>item</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ad8a3e9ece63dfea8ebec37e16ed234c9" name="ad8a3e9ece63dfea8ebec37e16ed234c9"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ad8a3e9ece63dfea8ebec37e16ed234c9">&#9670;&#160;</a></span>GetMaximumSpace()</h2>
 
@@ -274,7 +319,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_p_a1_a.html">PA1A</a></li><li class="navelem"><a class="el" href="namespace_p_a1_a_1_1_items.html">Items</a></li><li class="navelem"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html">ISlot</a></li>
-    <li class="footer">Generated on Mon Oct 14 2024 17:01:44 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Sun Oct 20 2024 17:37:32 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

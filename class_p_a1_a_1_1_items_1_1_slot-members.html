@@ -29,7 +29,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.1</span>
+   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.2</span>
    </div>
    <div id="projectbrief">Dungeon Descender is a 4 player co-op dungeon crawler tower defense game.</div>
   </td>
@@ -108,6 +108,8 @@ $(function(){initNavTree('class_p_a1_a_1_1_items_1_1_slot.html',''); initResizab
   <tr class="even"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a8a43f930069ec59c9f75a47188821029">CanBeGiven</a>(ItemStack itemStack)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a63151f184a3c93aa273b95c7661c0d74">CanBeTaken</a>(ItemStack itemStack)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#af3e80375b2dba3af54ffb122200f5a15">Clear</a>()</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html#a2bd8350f765a7d52e9914fce154d311c">ContainsItem</a>()</td><td class="entry"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html">PA1A.Items.ISlot</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html#a256d918afab40325b5b86a496f3ed5d0">ContainsItem</a>(Item item)</td><td class="entry"><a class="el" href="interface_p_a1_a_1_1_items_1_1_i_slot.html">PA1A.Items.ISlot</a></td><td class="entry"></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a094edbabf5817bd9536b6cf8b9e6acfd">GetMaximumSpace</a>(ItemStack itemStack)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#ae572170f86001cf8979b89fb2b20c626">Give</a>(ItemStack itemStack)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a70f945835e180cd28504045ddbd2b28a">Index</a></td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"></td></tr>
@@ -115,12 +117,13 @@ $(function(){initNavTree('class_p_a1_a_1_1_items_1_1_slot.html',''); initResizab
   <tr class="odd"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a219593417df9c6d665ad62b37d5e8e64">Slot</a>(IContainer container, int index, uint maxStackSize=0)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a110a89b0d12579522ca21a0e5d99765d">Synchronize</a>()</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"></td></tr>
   <tr class="odd"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#adbcf6486caefdad0067155349ee77e70">Take</a>(ItemStack itemStack)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html#a2d79010e6be6644b0ddc9cd190ffa3f3">Take</a>(ItemStack itemStack, int preferedIndex)</td><td class="entry"><a class="el" href="class_p_a1_a_1_1_items_1_1_slot.html">PA1A.Items.Slot</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Oct 14 2024 17:01:44 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Sun Oct 20 2024 17:37:33 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

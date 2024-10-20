@@ -29,7 +29,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.1</span>
+   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.2</span>
    </div>
    <div id="projectbrief">Dungeon Descender is a 4 player co-op dungeon crawler tower defense game.</div>
   </td>
@@ -112,14 +112,20 @@ $(function(){initNavTree('class_p_a1_a_1_1_abilities_1_1_ability.html',''); init
 <div class="dynheader">
 Inheritance diagram for PA1A.Abilities.Ability:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_p_a1_a_1_1_abilities_1_1_ability__inherit__graph.svg" width="564" height="422"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="class_p_a1_a_1_1_abilities_1_1_ability__inherit__graph.svg" width="564" height="550"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad702dbc11d2e3e4e8403462a6179e07c" id="r_ad702dbc11d2e3e4e8403462a6179e07c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad702dbc11d2e3e4e8403462a6179e07c">Process</a> (<a class="el" href="interface_i_damageable.html">IDamageable</a> idamageable)</td></tr>
-<tr class="memdesc:ad702dbc11d2e3e4e8403462a6179e07c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Process the ability on the specified target.  <br /></td></tr>
-<tr class="separator:ad702dbc11d2e3e4e8403462a6179e07c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4086554c42d7dd6b4aeef68107b9517" id="r_ac4086554c42d7dd6b4aeef68107b9517"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ac4086554c42d7dd6b4aeef68107b9517">Apply</a> (<a class="el" href="interface_i_damageable.html">IDamageable</a> idamageable)</td></tr>
+<tr class="memdesc:ac4086554c42d7dd6b4aeef68107b9517"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the ability is first applied to the target.  <br /></td></tr>
+<tr class="separator:ac4086554c42d7dd6b4aeef68107b9517"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a11c29a82b4915cd91db061c7b042c5" id="r_a5a11c29a82b4915cd91db061c7b042c5"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5a11c29a82b4915cd91db061c7b042c5">Process</a> (<a class="el" href="interface_i_damageable.html">IDamageable</a> idamageable)</td></tr>
+<tr class="memdesc:a5a11c29a82b4915cd91db061c7b042c5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Process the ability on the specified target.  <br /></td></tr>
+<tr class="separator:a5a11c29a82b4915cd91db061c7b042c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a735a9b8cbfdae12d8c8cfebc1e5fca1b" id="r_a735a9b8cbfdae12d8c8cfebc1e5fca1b"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a735a9b8cbfdae12d8c8cfebc1e5fca1b">UnApply</a> (<a class="el" href="interface_i_damageable.html">IDamageable</a> damageable)</td></tr>
+<tr class="memdesc:a735a9b8cbfdae12d8c8cfebc1e5fca1b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called when the ability is last applied to the target.  <br /></td></tr>
+<tr class="separator:a735a9b8cbfdae12d8c8cfebc1e5fca1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3d08c6a2f9fa16de613f7aedd82d5ab8" id="r_a3d08c6a2f9fa16de613f7aedd82d5ab8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3d08c6a2f9fa16de613f7aedd82d5ab8">OnAfterDeserialize</a> ()</td></tr>
 <tr class="separator:a3d08c6a2f9fa16de613f7aedd82d5ab8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aefe76c5009a0c2c3fed2ea5f91ea87fb" id="r_aefe76c5009a0c2c3fed2ea5f91ea87fb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#aefe76c5009a0c2c3fed2ea5f91ea87fb">OnBeforeSerialize</a> ()</td></tr>
@@ -138,10 +144,51 @@ Properties</h2></td></tr>
 <tr class="memitem:a3749cad3e8e7c1235b76f7ddcbf7db94" id="r_a3749cad3e8e7c1235b76f7ddcbf7db94"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3749cad3e8e7c1235b76f7ddcbf7db94">Name</a><code> [get]</code></td></tr>
 <tr class="memdesc:a3749cad3e8e7c1235b76f7ddcbf7db94"><td class="mdescLeft">&#160;</td><td class="mdescRight">The name of the ability.  <br /></td></tr>
 <tr class="separator:a3749cad3e8e7c1235b76f7ddcbf7db94"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5d6cfbc251ceccc7f4a31791e5dba3b" id="r_ad5d6cfbc251ceccc7f4a31791e5dba3b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad5d6cfbc251ceccc7f4a31791e5dba3b">IsInstant</a><code> [get]</code></td></tr>
+<tr class="memdesc:ad5d6cfbc251ceccc7f4a31791e5dba3b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wether the effect should be applied once or processed over time.  <br /></td></tr>
+<tr class="separator:ad5d6cfbc251ceccc7f4a31791e5dba3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e08a44048b460a91af0e4776a96ed0c" id="r_a3e08a44048b460a91af0e4776a96ed0c"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3e08a44048b460a91af0e4776a96ed0c">Duration</a><code> [get]</code></td></tr>
+<tr class="memdesc:a3e08a44048b460a91af0e4776a96ed0c"><td class="mdescLeft">&#160;</td><td class="mdescRight">The duration the effect should be applied in seconds.  <br /></td></tr>
+<tr class="separator:a3e08a44048b460a91af0e4776a96ed0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Base class for all abilities. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac4086554c42d7dd6b4aeef68107b9517" name="ac4086554c42d7dd6b4aeef68107b9517"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4086554c42d7dd6b4aeef68107b9517">&#9670;&#160;</a></span>Apply()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void PA1A.Abilities.Ability.Apply </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interface_i_damageable.html">IDamageable</a></td>          <td class="paramname"><span class="paramname"><em>idamageable</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Called when the ability is first applied to the target. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">idamageable</td><td>The target to apply the ability on.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Reimplemented in <a class="el" href="class_p_a1_a_1_1_abilities_1_1_damage_ability.html#a927e614f76232abb761c1e024919cbde">PA1A.Abilities.DamageAbility</a>, <a class="el" href="class_p_a1_a_1_1_abilities_1_1_fireability.html#a06274f6938860e08870e6b6661780c45">PA1A.Abilities.Fireability</a>, and <a class="el" href="class_p_a1_a_1_1_abilities_1_1_heal_ability.html#ab0271b8861262f5588d8b369f257d7f9">PA1A.Abilities.HealAbility</a>.</p>
+
+</div>
+</div>
 <a id="afac7ea9e1d353c9c8f5b9e79fd94f036" name="afac7ea9e1d353c9c8f5b9e79fd94f036"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afac7ea9e1d353c9c8f5b9e79fd94f036">&#9670;&#160;</a></span>Equals()</h2>
 
@@ -193,8 +240,8 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a id="ad702dbc11d2e3e4e8403462a6179e07c" name="ad702dbc11d2e3e4e8403462a6179e07c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad702dbc11d2e3e4e8403462a6179e07c">&#9670;&#160;</a></span>Process()</h2>
+<a id="a5a11c29a82b4915cd91db061c7b042c5" name="a5a11c29a82b4915cd91db061c7b042c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5a11c29a82b4915cd91db061c7b042c5">&#9670;&#160;</a></span>Process()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -203,7 +250,7 @@ Properties</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void PA1A.Abilities.Ability.Process </td>
+          <td class="memname">virtual void PA1A.Abilities.Ability.Process </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="interface_i_damageable.html">IDamageable</a></td>          <td class="paramname"><span class="paramname"><em>idamageable</em></span></td><td>)</td>
           <td></td>
@@ -211,7 +258,7 @@ Properties</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">abstract</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -223,15 +270,81 @@ Properties</h2></td></tr>
   </table>
   </dd>
 </dl>
+
+<p>Reimplemented in <a class="el" href="class_p_a1_a_1_1_abilities_1_1_fireability.html#a47b38ed02118fb5876edb4dbf771c256">PA1A.Abilities.Fireability</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="class_p_a1_a_1_1_abilities_1_1_ability_ad702dbc11d2e3e4e8403462a6179e07c_icgraph.svg" width="667" height="54"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_p_a1_a_1_1_abilities_1_1_ability_a5a11c29a82b4915cd91db061c7b042c5_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+
+</div>
+</div>
+<a id="a735a9b8cbfdae12d8c8cfebc1e5fca1b" name="a735a9b8cbfdae12d8c8cfebc1e5fca1b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a735a9b8cbfdae12d8c8cfebc1e5fca1b">&#9670;&#160;</a></span>UnApply()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void PA1A.Abilities.Ability.UnApply </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="interface_i_damageable.html">IDamageable</a></td>          <td class="paramname"><span class="paramname"><em>damageable</em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Called when the ability is last applied to the target. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">damageable</td><td>The target to Unapply the ability on.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Reimplemented in <a class="el" href="class_p_a1_a_1_1_abilities_1_1_fireability.html#a5a0193ea790122209ca39fd6586bdbb1">PA1A.Abilities.Fireability</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="class_p_a1_a_1_1_abilities_1_1_ability_a735a9b8cbfdae12d8c8cfebc1e5fca1b_icgraph.svg" width="100%" height="390"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 
 </div>
 </div>
 <h2 class="groupheader">Property Documentation</h2>
+<a id="a3e08a44048b460a91af0e4776a96ed0c" name="a3e08a44048b460a91af0e4776a96ed0c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e08a44048b460a91af0e4776a96ed0c">&#9670;&#160;</a></span>Duration</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int PA1A.Abilities.Ability.Duration</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>The duration the effect should be applied in seconds. </p>
+
+</div>
+</div>
 <a id="adef0cf9d0c681cf62c553a804bd4caea" name="adef0cf9d0c681cf62c553a804bd4caea"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adef0cf9d0c681cf62c553a804bd4caea">&#9670;&#160;</a></span>FileID</h2>
 
@@ -280,6 +393,30 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a id="ad5d6cfbc251ceccc7f4a31791e5dba3b" name="ad5d6cfbc251ceccc7f4a31791e5dba3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5d6cfbc251ceccc7f4a31791e5dba3b">&#9670;&#160;</a></span>IsInstant</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PA1A.Abilities.Ability.IsInstant</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Wether the effect should be applied once or processed over time. </p>
+
+</div>
+</div>
 <a id="a3749cad3e8e7c1235b76f7ddcbf7db94" name="a3749cad3e8e7c1235b76f7ddcbf7db94"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3749cad3e8e7c1235b76f7ddcbf7db94">&#9670;&#160;</a></span>Name</h2>
 
@@ -313,7 +450,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_p_a1_a.html">PA1A</a></li><li class="navelem"><a class="el" href="namespace_p_a1_a_1_1_abilities.html">Abilities</a></li><li class="navelem"><a class="el" href="class_p_a1_a_1_1_abilities_1_1_ability.html">Ability</a></li>
-    <li class="footer">Generated on Mon Oct 14 2024 17:01:43 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Sun Oct 20 2024 17:37:31 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

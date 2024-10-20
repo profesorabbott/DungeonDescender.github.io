@@ -1,9 +1,11 @@
 <map id="PA1A.Items.UI.SlotUI" name="PA1A.Items.UI.SlotUI">
-<area shape="rect" id="Node000001" title="Base implementation of ISlotUI that is linked to an IContainer" alt="" coords="46,165,187,299"/>
-<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html" title="Classic ISlotUI that only displays the Item.Sprite and ItemStack.StackSize" alt="" coords="24,347,209,437"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="119,313,119,347,114,347,114,313"/>
+<area shape="rect" id="Node000001" title="Base implementation of ISlotUI that is linked to an IContainer" alt="" coords="106,165,247,320"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html" title="Classic ISlotUI that only displays the Item.Sprite and ItemStack.StackSize" alt="" coords="84,368,269,459"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,335,179,368,174,368,174,335"/>
 <area shape="rect" id="Node000002" href="$class_mono_behaviour.html" title=" " alt="" coords="5,27,108,96"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,109,96,165,91,166,71,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,107,128,164,123,167,85,110"/>
 <area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_slot_u_i.html" title="Represents a ISlotUI that will display a specific ItemStack" alt="" coords="133,5,221,117"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,132,142,167,137,165,150,130"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,132,179,165,174,165,174,132"/>
+<area shape="rect" id="Node000004" href="$class_i_pointer_click_handler.html" title=" " alt="" coords="245,27,378,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="279,110,236,167,232,164,275,106"/>
 </map>

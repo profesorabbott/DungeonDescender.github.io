@@ -1,0 +1,7 @@
+<map id="PA1A.Abilities.Ability.Process" name="PA1A.Abilities.Ability.Process">
+<area shape="rect" id="Node000001" title="Process the ability on the specified target." alt="" coords="476,13,671,40"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_characters_1_1_character.html#a14a55dfadfa0965134c0fa8a33d81113" title=" " alt="" coords="241,5,428,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,29,429,29,429,24,460,24"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_characters_1_1_character.html#a7a64aea4280cdea1c8cc59fbd7ae510b" title=" " alt="" coords="5,5,193,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,29,193,29,193,24,225,24"/>
+</map>

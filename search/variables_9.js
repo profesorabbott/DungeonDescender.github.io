@@ -14,7 +14,9 @@ var searchData=
   ['m_5fvertical_11',['m_Vertical',['../class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#aaf0ccc9b1fbe10dfa680155fe9571d32',1,'CodeSmile::MultiPal::PlayerController::PlayerControllerBase']]],
   ['maxconnections_12',['MaxConnections',['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_netcode_config.html#a4e41db5ac6c44a3d65797729655c0c02',1,'CodeSmile.Statemachine.Netcode.NetcodeConfig.MaxConnections'],['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#ad826abee842add812605429c802f7622',1,'CodeSmile.Statemachine.Netcode.RelayConfig.MaxConnections']]],
   ['maxcouchplayers_13',['MaxCouchPlayers',['../class_code_smile_1_1_multi_pal_1_1_settings_1_1_constants.html#a011918c0b3cd12b7bcdb2445981f93c9',1,'CodeSmile::MultiPal::Settings::Constants']]],
-  ['maxrelayconnections_14',['MaxRelayConnections',['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#a992e6ee6d224fc26bb70195d799fd780',1,'CodeSmile::Statemachine::Netcode::RelayConfig']]],
-  ['menuroot_15',['MenuRoot',['../class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_base.html#a4425e53ffd07073168d377c819fec407',1,'CodeSmile::MultiPal::Settings::GameStateBase']]],
-  ['movementspeed_16',['movementSpeed',['../class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#af0ac4d913270bb4ffe2c9f020f4d9b8c',1,'PA1A::Player::Controller::PlayerController']]]
+  ['maxhealth_14',['maxHealth',['../class_p_a1_a_1_1_characters_1_1_character_stats.html#ab61263ec062de94f4e64894a78cebe9b',1,'PA1A::Characters::CharacterStats']]],
+  ['maxrelayconnections_15',['MaxRelayConnections',['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#a992e6ee6d224fc26bb70195d799fd780',1,'CodeSmile::Statemachine::Netcode::RelayConfig']]],
+  ['maxstamina_16',['maxStamina',['../class_p_a1_a_1_1_characters_1_1_character_stats.html#abd786508398625a399044d47f0fecf31',1,'PA1A::Characters::CharacterStats']]],
+  ['menuroot_17',['MenuRoot',['../class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_base.html#a4425e53ffd07073168d377c819fec407',1,'CodeSmile::MultiPal::Settings::GameStateBase']]],
+  ['movementspeed_18',['movementSpeed',['../class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#af0ac4d913270bb4ffe2c9f020f4d9b8c',1,'PA1A::Player::Controller::PlayerController']]]
 ];

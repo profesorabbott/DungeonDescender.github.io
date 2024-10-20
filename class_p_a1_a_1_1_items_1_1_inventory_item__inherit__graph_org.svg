@@ -44,7 +44,7 @@
 <polygon fill="white" stroke="none" points="167.5,-156 28.5,-156 28.5,-104 167.5,-104 167.5,-156"/>
 <text text-anchor="start" x="33.12" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.ConsumableItem</text>
 <text text-anchor="start" x="52" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="81.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">ability</text>
+<text text-anchor="start" x="81.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">abilities</text>
 <text text-anchor="start" x="52" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="81.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
 <polygon fill="#666666" stroke="#666666" points="28.5,-138 28.5,-138 167.5,-138 167.5,-138 28.5,-138"/>
@@ -69,12 +69,12 @@
 <g id="a_Node000007"><a xlink:href="class_p_a1_a_1_1_items_1_1_weapon_item.html" target="_top" xlink:title="Represents an abstract base class for weapon items in the game.">
 <polygon fill="white" stroke="none" points="306,-156 186,-156 186,-104 306,-104 306,-156"/>
 <text text-anchor="start" x="190.88" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.WeaponItem</text>
-<text text-anchor="start" x="200.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="221" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbility</text>
+<text text-anchor="start" x="198.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="217" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbilities</text>
 <text text-anchor="start" x="244.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polygon fill="#666666" stroke="#666666" points="186,-138 186,-138 306,-138 306,-138 186,-138"/>
-<polygon fill="#666666" stroke="#666666" points="186,-122 186,-122 219,-122 219,-122 186,-122"/>
-<polygon fill="#666666" stroke="#666666" points="219,-122 219,-122 306,-122 306,-122 219,-122"/>
+<polygon fill="#666666" stroke="#666666" points="186,-122 186,-122 215,-122 215,-122 186,-122"/>
+<polygon fill="#666666" stroke="#666666" points="215,-122 215,-122 306,-122 306,-122 215,-122"/>
 <polygon fill="none" stroke="#666666" points="186,-104 186,-156 306,-156 306,-104 186,-104"/>
 </a>
 </g>

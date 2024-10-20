@@ -1,5 +1,5 @@
 <map id="PA1A.Items.Slot.CanBeTaken" name="PA1A.Items.Slot.CanBeTaken">
 <area shape="rect" id="Node000001" title="Determines if the ItemStack is allowed by the IStackContainer to be taken from it &#160;This methods only ..." alt="" coords="204,5,401,32"/>
-<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_slot.html#adbcf6486caefdad0067155349ee77e70" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_slot.html#a2d79010e6be6644b0ddc9cd190ffa3f3" title=" " alt="" coords="5,5,156,32"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,21,156,21,156,16,189,16"/>
 </map>

@@ -1,13 +1,13 @@
 <map id="PA1A.Items.Container" name="PA1A.Items.Container">
-<area shape="rect" id="Node000001" title=" " alt="" coords="145,368,297,715"/>
-<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="5,763,219,896"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,729,139,764,134,762,148,727"/>
-<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="243,763,421,896"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="296,727,309,762,304,764,291,729"/>
-<area shape="rect" id="Node000002" href="$class_network_behaviour.html" title=" " alt="" coords="69,229,189,299"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,312,166,367,161,369,143,314"/>
-<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="214,208,413,320"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,335,281,369,276,368,288,333"/>
-<area shape="rect" id="Node000004" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="260,5,367,160"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,175,316,208,311,208,311,175"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="145,389,297,757"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="5,805,219,939"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="151,772,139,806,134,805,146,770"/>
+<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="243,805,421,939"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="297,770,310,805,305,806,292,772"/>
+<area shape="rect" id="Node000002" href="$class_network_behaviour.html" title=" " alt="" coords="69,251,189,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,334,165,389,160,391,142,335"/>
+<area shape="rect" id="Node000003" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="214,229,413,341"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,356,283,390,278,389,289,355"/>
+<area shape="rect" id="Node000004" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="260,5,367,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,196,316,230,311,230,311,196"/>
 </map>

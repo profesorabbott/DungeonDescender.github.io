@@ -12,8 +12,10 @@ var searchData=
   ['slotuiprefab_9',['SlotUIPrefab',['../class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html#a1f1636cfd1955b0dca7b7cd0cacba9aa',1,'PA1A::Items::UI::ClassicContainerUI']]],
   ['sprint_10',['Sprint',['../struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_kinematics_actions.html#a0d674474ab86dd5815a5aaa27919baf1',1,'CodeSmile::MultiPal::Input::GeneratedInput::PlayerKinematicsActions']]],
   ['stacksize_11',['StackSize',['../class_p_a1_a_1_1_items_1_1_item_stack.html#a36de2dd18b18f349bf9190ae5e9384c6',1,'PA1A::Items::ItemStack']]],
-  ['states_12',['States',['../class_code_smile_1_1_statemachine_1_1_f_s_m.html#a58acec50d47ade1e4b5399e81a1fa282',1,'CodeSmile::Statemachine::FSM']]],
-  ['staticvars_13',['StaticVars',['../class_code_smile_1_1_statemachine_1_1_f_s_m.html#afbdbfd947dba28fdbf4b15b87b1aa799',1,'CodeSmile::Statemachine::FSM']]],
-  ['submit_14',['Submit',['../struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_u_i_actions.html#ad59d3b279be2019349e0c18b43912b9e',1,'CodeSmile::MultiPal::Input::GeneratedInput::UIActions']]],
-  ['syncroot_15',['SyncRoot',['../class_unity_1_1_netcode_1_1_network_standard_list.html#a326c6688d02a3d1df1b21afb33f5663f',1,'Unity::Netcode::NetworkStandardList']]]
+  ['stamina_12',['Stamina',['../class_p_a1_a_1_1_characters_1_1_character.html#a214967ca56d3411a3951290373395a3f',1,'PA1A.Characters.Character.Stamina'],['../interface_i_damageable.html#a6058c4926e7fcec0a0dfedd341ccab49',1,'IDamageable.Stamina']]],
+  ['states_13',['States',['../class_code_smile_1_1_statemachine_1_1_f_s_m.html#a58acec50d47ade1e4b5399e81a1fa282',1,'CodeSmile::Statemachine::FSM']]],
+  ['staticvars_14',['StaticVars',['../class_code_smile_1_1_statemachine_1_1_f_s_m.html#afbdbfd947dba28fdbf4b15b87b1aa799',1,'CodeSmile::Statemachine::FSM']]],
+  ['strengthmodifier_15',['StrengthModifier',['../class_p_a1_a_1_1_characters_1_1_character.html#a9a79966e7e1f24bd9f6cefffc8dc4145',1,'PA1A.Characters.Character.StrengthModifier'],['../interface_i_damageable.html#a0e66337ed96ebf5a9de60cb04c8357d5',1,'IDamageable.StrengthModifier']]],
+  ['submit_16',['Submit',['../struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_u_i_actions.html#ad59d3b279be2019349e0c18b43912b9e',1,'CodeSmile::MultiPal::Input::GeneratedInput::UIActions']]],
+  ['syncroot_17',['SyncRoot',['../class_unity_1_1_netcode_1_1_network_standard_list.html#a326c6688d02a3d1df1b21afb33f5663f',1,'Unity::Netcode::NetworkStandardList']]]
 ];

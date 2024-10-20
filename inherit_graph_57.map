@@ -1,11 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="Node000000" href="$interface_unity_utils_1_1_state_machine_1_1_i_state.html" title=" " alt="" coords="5,105,173,148"/>
 <area shape="rect" id="Node000001" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_falling_state.html" title=" " alt="" coords="230,5,427,48"/>
-<area shape="poly" id="edge187_Node000000_Node000001" title=" " alt="" coords="141,95,220,58,251,46,252,51,222,62,143,100"/>
+<area shape="poly" id="edge190_Node000000_Node000001" title=" " alt="" coords="141,95,220,58,251,46,252,51,222,62,143,100"/>
 <area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_grounded_state.html" title=" " alt="" coords="221,72,436,115"/>
-<area shape="poly" id="edge188_Node000000_Node000002" title=" " alt="" coords="188,110,220,106,221,111,189,116"/>
+<area shape="poly" id="edge191_Node000000_Node000002" title=" " alt="" coords="188,110,220,106,221,111,189,116"/>
 <area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_jumping_state.html" title=" " alt="" coords="224,139,432,181"/>
-<area shape="poly" id="edge189_Node000000_Node000003" title=" " alt="" coords="188,138,224,143,224,148,188,143"/>
+<area shape="poly" id="edge192_Node000000_Node000003" title=" " alt="" coords="188,138,224,143,224,148,188,143"/>
 <area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_rising_state.html" title=" " alt="" coords="230,205,426,248"/>
-<area shape="poly" id="edge190_Node000000_Node000004" title=" " alt="" coords="143,153,222,191,252,202,251,207,220,196,141,158"/>
+<area shape="poly" id="edge193_Node000000_Node000004" title=" " alt="" coords="143,153,222,191,252,202,251,207,220,196,141,158"/>
 </map>

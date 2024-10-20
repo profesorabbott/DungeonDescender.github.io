@@ -8,9 +8,12 @@ var searchData=
   ['healability_5',['HealAbility',['../class_p_a1_a_1_1_abilities_1_1_heal_ability.html',1,'PA1A::Abilities']]],
   ['healability_2ecs_6',['HealAbility.cs',['../_heal_ability_8cs.html',1,'']]],
   ['healamount_7',['healAmount',['../class_p_a1_a_1_1_abilities_1_1_heal_ability.html#a997ae114b5e942c36de2e6cb527ef0f8',1,'PA1A::Abilities::HealAbility']]],
-  ['health_8',['Health',['../class_character.html#a1ba4c85de06f7c38075a5a4f4e4e8dcc',1,'Character.Health'],['../interface_i_damageable.html#a4d9da6d2d9987157db406a6aad6990a6',1,'IDamageable.Health']]],
-  ['health_9',['health',['../struct_p_a1_a_1_1_event_bus_1_1_events_1_1_player_event.html#a07833a89a76d8054a2a27d8f6e33e538',1,'PA1A::EventBus::Events::PlayerEvent']]],
-  ['hide_10',['Hide',['../class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_menu_base.html#a347b65f6547c9b54f094e956bc63d3d6',1,'CodeSmile.MultiPal.GUI.MenuBase.Hide()'],['../class_p_a1_a_1_1_u_i_1_1_tooltip_system.html#a8c4c4f63db608873fa34bb6224ffe673',1,'PA1A.UI.TooltipSystem.Hide()']]],
-  ['host_11',['Host',['../namespace_code_smile_1_1_statemachine_1_1_netcode.html#a9cf15712780a78ed616181c2930c4d69ac2ca16d048ec66e04bca283eab048ec2',1,'CodeSmile::Statemachine::Netcode']]],
-  ['hostallocation_12',['HostAllocation',['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#ab36747c060c0f6873a354f32280a5cf4',1,'CodeSmile::Statemachine::Netcode::RelayConfig']]]
+  ['health_8',['Health',['../class_p_a1_a_1_1_characters_1_1_character.html#acd95b1d75b60743718b1d71054c74ec9',1,'PA1A.Characters.Character.Health'],['../interface_i_damageable.html#a4d9da6d2d9987157db406a6aad6990a6',1,'IDamageable.Health']]],
+  ['health_9',['health',['../class_p_a1_a_1_1_characters_1_1_character_stats.html#a11a01186fe3b628186472caf66dfe308',1,'PA1A.Characters.CharacterStats.health'],['../struct_p_a1_a_1_1_event_bus_1_1_events_1_1_player_event.html#a07833a89a76d8054a2a27d8f6e33e538',1,'PA1A.EventBus.Events.PlayerEvent.health']]],
+  ['healthbar_10',['HealthBar',['../class_health_bar.html',1,'']]],
+  ['healthbar_11',['healthBar',['../class_health_bar.html#aea8c63ddd6266fa3ccd52685017d14d2',1,'HealthBar']]],
+  ['healthbar_2ecs_12',['HealthBar.cs',['../_health_bar_8cs.html',1,'']]],
+  ['hide_13',['Hide',['../class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_menu_base.html#a347b65f6547c9b54f094e956bc63d3d6',1,'CodeSmile.MultiPal.GUI.MenuBase.Hide()'],['../class_p_a1_a_1_1_u_i_1_1_tooltip_system.html#a8c4c4f63db608873fa34bb6224ffe673',1,'PA1A.UI.TooltipSystem.Hide()']]],
+  ['host_14',['Host',['../namespace_code_smile_1_1_statemachine_1_1_netcode.html#a9cf15712780a78ed616181c2930c4d69ac2ca16d048ec66e04bca283eab048ec2',1,'CodeSmile::Statemachine::Netcode']]],
+  ['hostallocation_15',['HostAllocation',['../struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#ab36747c060c0f6873a354f32280a5cf4',1,'CodeSmile::Statemachine::Netcode::RelayConfig']]]
 ];

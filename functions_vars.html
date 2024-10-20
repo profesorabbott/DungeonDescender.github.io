@@ -29,7 +29,7 @@
  <tbody>
  <tr id="projectrow">
   <td id="projectalign">
-   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.1</span>
+   <div id="projectname">Dungeon Descender<span id="projectnumber">&#160;0.0.2</span>
    </div>
    <div id="projectbrief">Dungeon Descender is a 4 player co-op dungeon crawler tower defense game.</div>
   </td>
@@ -102,9 +102,10 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <div class="textblock">Here is a list of all variables with links to the classes they belong to:</div>
 
 <h3><a id="index_a" name="index_a"></a>- a -</h3><ul>
-<li>ability&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_consumable_item.html#a52780559f49049af857cbd1354ceb590">PA1A.Items.ConsumableItem</a></li>
+<li>abilities&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_consumable_item.html#a1da7b18c526a025e4cc00d3a62630698">PA1A.Items.ConsumableItem</a></li>
 <li>ActiveState&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state_change_event_args.html#a02927798f460a1768d95e10d2b941cf0">CodeSmile.Statemachine.FSM.StateChangeEventArgs</a></li>
 <li>Address&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_netcode_1_1_transport_config.html#a19ff0d23459918dab4b1a00f1aa95f3c">CodeSmile.Statemachine.Netcode.TransportConfig</a></li>
+<li>affectingAbilities&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character.html#a085b90fa159322c82941ec88bd647979">PA1A.Characters.Character</a></li>
 <li>airControlRate&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#a7a89287c36fab2f53468572ee6a0220a">PA1A.Player.Controller.PlayerController</a></li>
 <li>airFriction&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#afc9f19f0d8f44dbf81c2427acba00ded">PA1A.Player.Controller.PlayerController</a></li>
 </ul>
@@ -116,6 +117,7 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <li>condition&#160;:&#160;<a class="el" href="class_unity_utils_1_1_state_machine_1_1_transition.html#a41298f5f78edd5f537aaa286d7004d6a">UnityUtils.StateMachine.Transition&lt; T &gt;</a></li>
 <li>content&#160;:&#160;<a class="el" href="class_tooltip_trigger.html#af27f5b450ebf3004241b40b643e8fc1e">TooltipTrigger</a></li>
 <li>contentField&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_u_i_1_1_tool_tip.html#a37d2f60f681a8a0a36c69f09fa7fc633">PA1A.UI.ToolTip</a></li>
+<li>currentlyEquipedItemGUID&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#a679432cdc731e0399726437c94c1fc6c">PA1A.Characters.CharacterStats</a></li>
 </ul>
 
 
@@ -140,7 +142,8 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <li>header&#160;:&#160;<a class="el" href="class_tooltip_trigger.html#adba9e458738aae0085bde8521e1e4b7e">TooltipTrigger</a></li>
 <li>headerField&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_u_i_1_1_tool_tip.html#aa5967afafc3813970bed250a0a25a5e1">PA1A.UI.ToolTip</a></li>
 <li>healAmount&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_abilities_1_1_heal_ability.html#a997ae114b5e942c36de2e6cb527ef0f8">PA1A.Abilities.HealAbility</a></li>
-<li>health&#160;:&#160;<a class="el" href="struct_p_a1_a_1_1_event_bus_1_1_events_1_1_player_event.html#a07833a89a76d8054a2a27d8f6e33e538">PA1A.EventBus.Events.PlayerEvent</a></li>
+<li>health&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#a11a01186fe3b628186472caf66dfe308">PA1A.Characters.CharacterStats</a>, <a class="el" href="struct_p_a1_a_1_1_event_bus_1_1_events_1_1_player_event.html#a07833a89a76d8054a2a27d8f6e33e538">PA1A.EventBus.Events.PlayerEvent</a></li>
+<li>healthBar&#160;:&#160;<a class="el" href="class_health_bar.html#aea8c63ddd6266fa3ccd52685017d14d2">HealthBar</a></li>
 </ul>
 
 
@@ -176,7 +179,9 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <li>m_Vertical&#160;:&#160;<a class="el" href="class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#aaf0ccc9b1fbe10dfa680155fe9571d32">CodeSmile.MultiPal.PlayerController.PlayerControllerBase</a></li>
 <li>MaxConnections&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_netcode_1_1_netcode_config.html#a4e41db5ac6c44a3d65797729655c0c02">CodeSmile.Statemachine.Netcode.NetcodeConfig</a>, <a class="el" href="struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#ad826abee842add812605429c802f7622">CodeSmile.Statemachine.Netcode.RelayConfig</a></li>
 <li>MaxCouchPlayers&#160;:&#160;<a class="el" href="class_code_smile_1_1_multi_pal_1_1_settings_1_1_constants.html#a011918c0b3cd12b7bcdb2445981f93c9">CodeSmile.MultiPal.Settings.Constants</a></li>
+<li>maxHealth&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#ab61263ec062de94f4e64894a78cebe9b">PA1A.Characters.CharacterStats</a></li>
 <li>MaxRelayConnections&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_netcode_1_1_relay_config.html#a992e6ee6d224fc26bb70195d799fd780">CodeSmile.Statemachine.Netcode.RelayConfig</a></li>
+<li>maxStamina&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#abd786508398625a399044d47f0fecf31">PA1A.Characters.CharacterStats</a></li>
 <li>MenuRoot&#160;:&#160;<a class="el" href="class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_base.html#a4425e53ffd07073168d377c819fec407">CodeSmile.MultiPal.Settings.GameStateBase</a></li>
 <li>movementSpeed&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html#af0ac4d913270bb4ffe2c9f020f4d9b8c">PA1A.Player.Controller.PlayerController</a></li>
 </ul>
@@ -185,7 +190,10 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <h3><a id="index_o" name="index_o"></a>- o -</h3><ul>
 <li>objectsData&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_building_1_1_buildables_database_s_o.html#a9bf63829b8434d6eda24944904130b96">PA1A.Building.BuildablesDatabaseSO</a></li>
 <li>occupiedPositions&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_building_1_1_placement_data.html#ac576b8facc2c27e49534bff1064c27b1">PA1A.Building.PlacementData</a></li>
+<li>OnEquipedItemChanged&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character.html#a906dc90eb1f60249fae4fb9ab01ab709">PA1A.Characters.Character</a></li>
 <li>OnExit&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_building_1_1_build_input_manager.html#a6858f59c1e6dadd7e277fbeebda69fa0">PA1A.Building.BuildInputManager</a></li>
+<li>OnHealthChanged&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character.html#a4097afaf3527ef73d3674d365d593edb">PA1A.Characters.Character</a></li>
+<li>OnStaminaChanged&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character.html#a6867d8d2892b31d7d9eb42d755923722">PA1A.Characters.Character</a></li>
 <li>origin&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#ac41e608d1efbbc9c29b7acb55f3e84ed">PA1A.Items.Projectile</a></li>
 <li>originTeam&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#a6d384ba1ec2217f25df6a6fc02f9ca61">PA1A.Items.Projectile</a></li>
 </ul>
@@ -197,7 +205,7 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <li>position&#160;:&#160;<a class="el" href="struct_p_a1_a_1_1_event_bus_1_1_events_1_1_player_event.html#a7a37edb3cdef5f408bb01519224aade5">PA1A.EventBus.Events.PlayerEvent</a></li>
 <li>PreviousState&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state_change_event_args.html#ac6224e424d0b471a82abe1f0eb44e809">CodeSmile.Statemachine.FSM.StateChangeEventArgs</a></li>
 <li>projectile&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_ranged_item.html#aac3f4854c244660ee58ec8858306068a">PA1A.Items.RangedItem</a></li>
-<li>projectileAbilityGUID&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#a66f2e19cf6468cab9bfcf7683cb09372">PA1A.Items.Projectile</a></li>
+<li>projectileAbilityGUIDs&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#a9b24bcd9ae5a557aaf7f801434e8401f">PA1A.Items.Projectile</a></li>
 <li>projectilePrefab&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#ac8824a38dbb896bc02fee362d8cc36a9">PA1A.Items.Projectile</a></li>
 <li>projectileRange&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#a5c1904b057c00c302a727a80050d8196">PA1A.Items.Projectile</a></li>
 <li>projectileSpeed&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#a9a5bcd41e30ba450fe55991273c8cd12">PA1A.Items.Projectile</a></li>
@@ -214,8 +222,10 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <h3><a id="index_s" name="index_s"></a>- s -</h3><ul>
 <li>ServerListenAddress&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_netcode_1_1_transport_config.html#a62ae1bbb3bab6fed309a101fd01b592d">CodeSmile.Statemachine.Netcode.TransportConfig</a></li>
 <li>SizeID&#160;:&#160;<a class="el" href="class_see_thru_sync.html#a1202e4a6f0650878cd697500ffa632f9">SeeThruSync</a></li>
+<li>stamina&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#ae3f7c6e300187a76c26261d780c7e129">PA1A.Characters.CharacterStats</a></li>
 <li>Statemachine&#160;:&#160;<a class="el" href="struct_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state_change_event_args.html#a941b5dd444ff316d71e79e3cb2274901">CodeSmile.Statemachine.FSM.StateChangeEventArgs</a>, <a class="el" href="struct_code_smile_1_1_statemachine_1_1_f_s_m_1_1_statemachine_stopped_event_args.html#a86de5cec0716c3f5b0002e164dfcadb6">CodeSmile.Statemachine.FSM.StatemachineStoppedEventArgs</a></li>
 <li>stateMachine&#160;:&#160;<a class="el" href="class_unity_utils_1_1_state_machine_1_1_stateful_entity.html#abc38a8f4f39f59e1ea3ff32f72b51dfd">UnityUtils.StateMachine.StatefulEntity</a></li>
+<li>strengthModifier&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#a58da0a515fb8bbca9a3d881b754ee44e">PA1A.Characters.CharacterStats</a></li>
 <li>sweepAngle&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_melee_item.html#a9560f12e6d5912340d7f33ee6b4b4a92">PA1A.Items.MeleeItem</a></li>
 </ul>
 
@@ -223,6 +233,7 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <h3><a id="index_t" name="index_t"></a>- t -</h3><ul>
 <li>t&#160;:&#160;<a class="el" href="class_see_thru_sync.html#a5daf1553261884bb83ba7b7a60f857a6">SeeThruSync</a></li>
 <li>targetPoint&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_projectile.html#ab5008f7c24b4db4ca090fa9291ac22c2">PA1A.Items.Projectile</a></li>
+<li>team&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_characters_1_1_character_stats.html#a912f7953e7c44a4c4fd0014a8d5bbd74">PA1A.Characters.CharacterStats</a></li>
 <li>tooltip&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_u_i_1_1_tooltip_system.html#a11c58294d351ac0183165c98c9a822fc">PA1A.UI.TooltipSystem</a></li>
 <li>tooltipCanvas&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_u_i_1_1_tooltip_system.html#a05a8fe2d00ac34ad093918f0329b542f">PA1A.UI.TooltipSystem</a></li>
 </ul>
@@ -237,7 +248,7 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 
 
 <h3><a id="index_w" name="index_w"></a>- w -</h3><ul>
-<li>weaponAbility&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_weapon_item.html#a473228dd8770c3167f0bb089e0adb725">PA1A.Items.WeaponItem</a></li>
+<li>weaponAbilities&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_weapon_item.html#a280fc22a7a0d1c03d25659ec64bfe026">PA1A.Items.WeaponItem</a></li>
 <li>weaponRange&#160;:&#160;<a class="el" href="class_p_a1_a_1_1_items_1_1_melee_item.html#a3e69ab50edb56e1247a8ce41337b0949">PA1A.Items.MeleeItem</a></li>
 </ul>
 </div><!-- contents -->
@@ -245,7 +256,7 @@ $(function(){initNavTree('functions_vars.html',''); initResizable(true); });
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Oct 14 2024 17:01:45 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Sun Oct 20 2024 17:37:37 for Dungeon Descender by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

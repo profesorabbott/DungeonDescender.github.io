@@ -1,15 +1,15 @@
 <map id="PA1A.Abilities.Ability" name="PA1A.Abilities.Ability">
-<area shape="rect" id="Node000001" title="Base class for all abilities." alt="" coords="222,123,363,299"/>
-<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="5,347,191,416"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="213,284,138,349,135,345,209,280"/>
-<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="215,347,371,416"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="295,314,295,347,290,347,290,314"/>
-<area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="395,347,558,416"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="376,285,442,345,439,349,373,289"/>
+<area shape="rect" id="Node000001" title="Base class for all abilities." alt="" coords="222,123,363,384"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="5,453,191,523"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="215,352,128,456,123,452,211,348"/>
+<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="215,432,371,544"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="295,399,295,432,290,432,290,399"/>
+<area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="395,453,558,523"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="375,354,453,452,448,455,371,357"/>
 <area shape="rect" id="Node000002" href="$class_scriptable_object.html" title=" " alt="" coords="63,5,173,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,83,224,140,220,143,161,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,84,224,165,220,169,153,88"/>
 <area shape="rect" id="Node000003" href="$class_i_serialization_callback_receiver.html" title=" " alt="" coords="197,5,388,75"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,90,295,123,290,123,290,90"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,89,295,123,290,123,290,89"/>
 <area shape="rect" id="Node000004" href="$class_i_equatable.html" title=" " alt="" coords="413,5,546,75"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="433,86,365,148,361,144,430,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="442,87,365,174,361,171,438,84"/>
 </map>

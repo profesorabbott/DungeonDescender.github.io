@@ -1,7 +1,4 @@
 <map id="PA1A.Items.Slot.Take" name="PA1A.Items.Slot.Take">
-<area shape="rect" id="Node000001" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="5,31,156,57"/>
-<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_slot.html#a63151f184a3c93aa273b95c7661c0d74" title="Determines if the ItemStack is allowed by the IStackContainer to be taken from it &#160;This methods only ..." alt="" coords="204,5,401,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,33,188,29,189,34,156,38"/>
-<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_item_stack.html#a9ceeb592ba1878b5fefee74d10b5606e" title="Clones the ItemStack" alt="" coords="206,56,399,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,50,190,54,190,59,156,55"/>
+<area shape="rect" id="Node000001" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="5,29,156,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="54,30,50,21,53,11,63,5,81,3,99,5,109,12,106,16,97,10,80,8,65,10,57,14,55,20,59,28"/>
 </map>

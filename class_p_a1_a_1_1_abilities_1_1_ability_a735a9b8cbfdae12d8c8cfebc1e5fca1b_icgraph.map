@@ -1,0 +1,13 @@
+<map id="PA1A.Abilities.Ability.UnApply" name="PA1A.Abilities.Ability.UnApply">
+<area shape="rect" id="Node000001" title="Called when the ability is last applied to the target." alt="" coords="711,39,876,81"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_characters_1_1_character.html#a037dca5b89595d597065de0f5b5c7cde" title=" " alt="" coords="476,5,663,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="696,48,663,43,664,38,696,43"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_characters_1_1_character.html#a14a55dfadfa0965134c0fa8a33d81113" title=" " alt="" coords="476,72,663,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="696,77,664,82,663,77,696,72"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_characters_1_1_character.html#aa57c93481546ece781e9ecb3abba16d3" title=" " alt="" coords="241,5,428,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,29,428,29,428,24,460,24"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_characters_1_1_character.html#a957a099f79d51b886f9674422062d13b" title=" " alt="" coords="5,5,193,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,29,193,29,193,24,225,24"/>
+<area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_characters_1_1_character.html#a7a64aea4280cdea1c8cc59fbd7ae510b" title=" " alt="" coords="241,72,428,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="460,96,428,96,428,91,460,91"/>
+</map>

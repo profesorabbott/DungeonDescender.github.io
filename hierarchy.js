@@ -26,7 +26,7 @@ var hierarchy =
       [ "PA1A.Items.UI.ClassicContainerUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html", null ]
     ] ],
     [ "IDamageable", "interface_i_damageable.html", [
-      [ "Character", "class_character.html", null ]
+      [ "PA1A.Characters.Character", "class_p_a1_a_1_1_characters_1_1_character.html", null ]
     ] ],
     [ "IDisposable", "class_i_disposable.html", [
       [ "CodeSmile.MultiPal.Input.GeneratedInput", "class_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input.html", null ]
@@ -97,6 +97,11 @@ var hierarchy =
     [ "CodeSmile.MultiPal.Input.GeneratedInput.IPlayerUIActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html", [
       [ "CodeSmile.MultiPal.Players.PlayerUi", "class_code_smile_1_1_multi_pal_1_1_players_1_1_player_ui.html", null ]
     ] ],
+    [ "IPointerClickHandler", "class_i_pointer_click_handler.html", [
+      [ "PA1A.Items.UI.SlotUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html", [
+        [ "PA1A.Items.UI.ClassicSlotUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html", null ]
+      ] ]
+    ] ],
     [ "IPointerEnterHandler", "class_i_pointer_enter_handler.html", [
       [ "TooltipTrigger", "class_tooltip_trigger.html", null ]
     ] ],
@@ -119,9 +124,7 @@ var hierarchy =
     ] ],
     [ "PA1A.Items.ISlotExtensions", "class_p_a1_a_1_1_items_1_1_i_slot_extensions.html", null ],
     [ "PA1A.Items.UI.ISlotUI", "interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_slot_u_i.html", [
-      [ "PA1A.Items.UI.SlotUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html", [
-        [ "PA1A.Items.UI.ClassicSlotUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html", null ]
-      ] ]
+      [ "PA1A.Items.UI.SlotUI", "class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html", null ]
     ] ],
     [ "PA1A.Items.IStackContainer", "interface_p_a1_a_1_1_items_1_1_i_stack_container.html", [
       [ "PA1A.Items.IContainer", "interface_p_a1_a_1_1_items_1_1_i_container.html", [
@@ -207,7 +210,6 @@ var hierarchy =
     [ "UnityUtils.StateMachine.ITransition", "interface_unity_utils_1_1_state_machine_1_1_i_transition.html", null ],
     [ "CodeSmile.MultiPal.Input.GeneratedInput.IUIActions", "interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_u_i_actions.html", null ],
     [ "MonoBehaviour", "class_mono_behaviour.html", [
-      [ "Character", "class_character.html", null ],
       [ "CodeSmile.Components.Netcode.NetworkEventLogger", "class_code_smile_1_1_components_1_1_netcode_1_1_network_event_logger.html", null ],
       [ "CodeSmile.Components.Registry.ComponentsRegistry", "class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html", null ],
       [ "CodeSmile.Components.Utility.MonoSingleton< T >", "class_code_smile_1_1_components_1_1_utility_1_1_mono_singleton.html", null ],
@@ -227,6 +229,7 @@ var hierarchy =
       [ "CodeSmile.MultiPal.Players.PlayerUi", "class_code_smile_1_1_multi_pal_1_1_players_1_1_player_ui.html", null ],
       [ "CodeSmile.MultiPal.Scene.ClientSceneLoader", "class_code_smile_1_1_multi_pal_1_1_scene_1_1_client_scene_loader.html", null ],
       [ "CodeSmile.MultiPal.Scene.ServerSceneLoader", "class_code_smile_1_1_multi_pal_1_1_scene_1_1_server_scene_loader.html", null ],
+      [ "HealthBar", "class_health_bar.html", null ],
       [ "PA1A.Building.PlacementSystem", "class_p_a1_a_1_1_building_1_1_placement_system.html", null ],
       [ "PA1A.Building.Preview.BuildPreviewSystem", "class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html", null ],
       [ "PA1A.Dev.AbilityButtonPanel", "class_p_a1_a_1_1_dev_1_1_ability_button_panel.html", null ],
@@ -250,6 +253,8 @@ var hierarchy =
       [ "CodeSmile.MultiPal.Players.Player", "class_code_smile_1_1_multi_pal_1_1_players_1_1_player.html", null ],
       [ "CodeSmile.MultiPal.Players.PlayerClient", "class_code_smile_1_1_multi_pal_1_1_players_1_1_player_client.html", null ],
       [ "NetworkSingleton< T >", "class_network_singleton.html", null ],
+      [ "PA1A.Characters.Character", "class_p_a1_a_1_1_characters_1_1_character.html", null ],
+      [ "PA1A.Characters.CharacterStats", "class_p_a1_a_1_1_characters_1_1_character_stats.html", null ],
       [ "PA1A.Items.Container", "class_p_a1_a_1_1_items_1_1_container.html", null ]
     ] ],
     [ "CodeSmile.Extensions.Netcode.NetworkManagerExt", "class_code_smile_1_1_extensions_1_1_netcode_1_1_network_manager_ext.html", null ],

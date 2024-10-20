@@ -1,15 +1,15 @@
 <map id="ISerializationCallbackReceiver" name="ISerializationCallbackReceiver">
 <area shape="rect" id="Node000001" title=" " alt="" coords="389,5,580,75"/>
-<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="314,187,455,363"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,90,424,188,419,186,462,87"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="314,144,455,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,89,443,146,438,143,462,87"/>
 <area shape="rect" id="Node000006" href="$class_p_a1_a_1_1_items_1_1_item.html" title="Represents an abstract base class for items in the game." alt="" coords="583,123,771,427"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="524,84,585,158,581,162,519,88"/>
 <area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="5,539,191,608"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,362,132,541,128,537,302,358"/>
-<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="215,539,371,608"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,378,306,540,300,538,351,376"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="215,517,371,629"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="343,420,312,518,307,517,338,419"/>
 <area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="395,539,558,608"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="419,376,469,538,464,540,413,378"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="432,419,469,538,464,540,427,420"/>
 <area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="583,475,771,672"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="679,442,679,475,674,475,674,442"/>
 <area shape="rect" id="Node000012" href="$class_p_a1_a_1_1_items_1_1_resource_item.html" title="Represents a resource item in the game." alt="" coords="795,528,983,619"/>

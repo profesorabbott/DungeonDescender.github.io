@@ -26,5 +26,6 @@ var searchData=
   ['divvalue_2ecs_23',['DivValue.cs',['../_div_value_8cs.html',1,'']]],
   ['dontdestroyonload_2ecs_24',['DontDestroyOnLoad.cs',['../_dont_destroy_on_load_8cs.html',1,'']]],
   ['dontdestroyonloadallchildren_2ecs_25',['DontDestroyOnLoadAllChildren.cs',['../_dont_destroy_on_load_all_children_8cs.html',1,'']]],
-  ['down_26',['Down',['../struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_u_i_actions.html#a95511fa74c8e12a68f568d0b74f040b9',1,'CodeSmile.MultiPal.Input.GeneratedInput.PlayerUIActions.Down'],['../class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ab723b7db40f3b4f074883a3e8a1f48aba08a38277b0309070706f6652eeae9a53',1,'PA1A.Player.Controller.RaycastSensor.Down']]]
+  ['down_26',['Down',['../struct_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_player_u_i_actions.html#a95511fa74c8e12a68f568d0b74f040b9',1,'CodeSmile.MultiPal.Input.GeneratedInput.PlayerUIActions.Down'],['../class_p_a1_a_1_1_player_1_1_controller_1_1_raycast_sensor.html#ab723b7db40f3b4f074883a3e8a1f48aba08a38277b0309070706f6652eeae9a53',1,'PA1A.Player.Controller.RaycastSensor.Down']]],
+  ['duration_27',['Duration',['../class_p_a1_a_1_1_abilities_1_1_ability.html#a3e08a44048b460a91af0e4776a96ed0c',1,'PA1A::Abilities::Ability']]]
 ];

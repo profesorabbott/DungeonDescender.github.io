@@ -61,12 +61,12 @@ var sectionId = 'dynsection-0';
 <g id="a_Node000001"><a xlink:title="Represents an abstract base class for weapon items in the game.">
 <polygon fill="#999999" stroke="none" points="232,-156 112,-156 112,-104 232,-104 232,-156"/>
 <text text-anchor="start" x="116.88" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.WeaponItem</text>
-<text text-anchor="start" x="126.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="147" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbility</text>
+<text text-anchor="start" x="124.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="143" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbilities</text>
 <text text-anchor="start" x="170.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polygon fill="#666666" stroke="#666666" points="112,-138 112,-138 232,-138 232,-138 112,-138"/>
-<polygon fill="#666666" stroke="#666666" points="112,-122 112,-122 145,-122 145,-122 112,-122"/>
-<polygon fill="#666666" stroke="#666666" points="145,-122 145,-122 232,-122 232,-122 145,-122"/>
+<polygon fill="#666666" stroke="#666666" points="112,-122 112,-122 141,-122 141,-122 112,-122"/>
+<polygon fill="#666666" stroke="#666666" points="141,-122 141,-122 232,-122 232,-122 141,-122"/>
 <polygon fill="none" stroke="#666666" points="112,-104 112,-156 232,-156 232,-104 112,-104"/>
 </a>
 </g>

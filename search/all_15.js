@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['weaponability_0',['weaponAbility',['../class_p_a1_a_1_1_items_1_1_weapon_item.html#a473228dd8770c3167f0bb089e0adb725',1,'PA1A::Items::WeaponItem']]],
+  ['weaponabilities_0',['weaponAbilities',['../class_p_a1_a_1_1_items_1_1_weapon_item.html#a280fc22a7a0d1c03d25659ec64bfe026',1,'PA1A::Items::WeaponItem']]],
   ['weaponitem_1',['WeaponItem',['../class_p_a1_a_1_1_items_1_1_weapon_item.html',1,'PA1A::Items']]],
   ['weaponitem_2ecs_2',['WeaponItem.cs',['../_weapon_item_8cs.html',1,'']]],
   ['weaponrange_3',['weaponRange',['../class_p_a1_a_1_1_items_1_1_melee_item.html#a3e69ab50edb56e1247a8ce41337b0949',1,'PA1A::Items::MeleeItem']]],

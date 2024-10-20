@@ -217,6 +217,10 @@ var annotated_dup =
         [ "PlacementSystem", "class_p_a1_a_1_1_building_1_1_placement_system.html", "class_p_a1_a_1_1_building_1_1_placement_system" ],
         [ "RemoveState", "class_p_a1_a_1_1_building_1_1_remove_state.html", "class_p_a1_a_1_1_building_1_1_remove_state" ]
       ] ],
+      [ "Characters", "namespace_p_a1_a_1_1_characters.html", [
+        [ "Character", "class_p_a1_a_1_1_characters_1_1_character.html", "class_p_a1_a_1_1_characters_1_1_character" ],
+        [ "CharacterStats", "class_p_a1_a_1_1_characters_1_1_character_stats.html", "class_p_a1_a_1_1_characters_1_1_character_stats" ]
+      ] ],
       [ "Dev", "namespace_p_a1_a_1_1_dev.html", [
         [ "AbilityButton", "class_p_a1_a_1_1_dev_1_1_ability_button.html", null ],
         [ "AbilityButtonPanel", "class_p_a1_a_1_1_dev_1_1_ability_button_panel.html", null ],
@@ -305,8 +309,8 @@ var annotated_dup =
       [ "VectorMath", "class_unity_utils_1_1_vector_math.html", "class_unity_utils_1_1_vector_math" ]
     ] ],
     [ "Button", "class_button.html", null ],
-    [ "Character", "class_character.html", "class_character" ],
     [ "EventBusUtil", "class_event_bus_util.html", "class_event_bus_util" ],
+    [ "HealthBar", "class_health_bar.html", "class_health_bar" ],
     [ "IDamageable", "interface_i_damageable.html", "interface_i_damageable" ],
     [ "IDisposable", "class_i_disposable.html", null ],
     [ "IEnumerable", "class_i_enumerable.html", null ],
@@ -314,6 +318,7 @@ var annotated_dup =
     [ "IInputActionCollection2", "class_i_input_action_collection2.html", null ],
     [ "IList", "class_i_list.html", null ],
     [ "INetworkSerializable", "class_i_network_serializable.html", null ],
+    [ "IPointerClickHandler", "class_i_pointer_click_handler.html", null ],
     [ "IPointerEnterHandler", "class_i_pointer_enter_handler.html", null ],
     [ "IPointerExitHandler", "class_i_pointer_exit_handler.html", null ],
     [ "IReadOnlyList", "class_i_read_only_list.html", null ],

@@ -1,209 +1,215 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$interface_code_smile_1_1_multi_pal_1_1_animation_1_1_i_animator_parameters_provider.html" title=" " alt="" coords="266,88,468,131"/>
-<area shape="rect" id="Node000001" href="$class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html" title=" " alt="" coords="553,88,757,131"/>
-<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="484,107,552,107,552,112,484,112"/>
-<area shape="rect" id="Node000086" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_container_u_i.html" title="Represents a IContainerUI that will handle the display of an IContainer" alt="" coords="274,472,461,499"/>
-<area shape="rect" id="Node000085" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html" title="Classic implementation of IContainerUI &#160;(Supports fixed and flexible sized containers)" alt="" coords="542,472,769,499"/>
-<area shape="poly" id="edge4_Node000086_Node000085" title=" " alt="" coords="477,483,541,483,541,488,477,488"/>
-<area shape="rect" id="Node000005" href="$interface_i_damageable.html" title=" " alt="" coords="318,523,416,549"/>
-<area shape="rect" id="Node000004" href="$class_character.html" title=" " alt="" coords="616,523,694,549"/>
-<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="432,533,616,533,616,539,432,539"/>
-<area shape="rect" id="Node000024" href="$class_i_enumerable.html" title=" " alt="" coords="320,2569,414,2596"/>
-<area shape="rect" id="Node000023" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_couch_1_1_couch_players.html" title="Represents the group of players (1&#45;4) playing on a single client." alt="" coords="561,2448,749,2491"/>
-<area shape="poly" id="edge6_Node000024_Node000023" title=" " alt="" coords="428,2562,491,2535,514,2518,539,2500,566,2489,569,2494,541,2505,517,2522,493,2540,431,2566"/>
-<area shape="rect" id="Node000025" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_prefabs_list_base.html" title=" " alt="" coords="559,2565,751,2608"/>
-<area shape="poly" id="edge7_Node000024_Node000025" title=" " alt="" coords="430,2581,559,2583,559,2588,430,2586"/>
-<area shape="rect" id="Node000026" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_avatar_prefabs.html" title=" " alt="" coords="833,2485,1026,2528"/>
-<area shape="poly" id="edge8_Node000025_Node000026" title=" " alt="" coords="745,2558,770,2551,853,2526,855,2531,771,2556,746,2563"/>
-<area shape="rect" id="Node000027" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_camera_prefabs.html" title=" " alt="" coords="833,2552,1026,2595"/>
-<area shape="poly" id="edge9_Node000025_Node000027" title=" " alt="" coords="767,2579,833,2575,833,2581,767,2584"/>
-<area shape="rect" id="Node000028" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_controller_prefabs.html" title=" " alt="" coords="833,2619,1026,2661"/>
-<area shape="poly" id="edge10_Node000025_Node000028" title=" " alt="" coords="767,2606,834,2619,832,2624,766,2611"/>
-<area shape="rect" id="Node000042" href="$class_i_equatable.html" title=" " alt="" coords="326,3368,409,3395"/>
-<area shape="rect" id="Node000043" href="$class_code_smile_1_1_statemachine_1_1_bool_var.html" title="Represents a boolean FSM variable." alt="" coords="546,3456,764,3483"/>
-<area shape="poly" id="edge11_Node000042_Node000043" title=" " alt="" coords="417,3398,541,3441,585,3453,584,3458,539,3447,416,3403"/>
-<area shape="rect" id="Node000048" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state.html" title="Represents a state in a statemachine." alt="" coords="552,3288,758,3331"/>
-<area shape="poly" id="edge12_Node000042_Node000048" title=" " alt="" coords="424,3365,567,3329,568,3334,425,3370"/>
-<area shape="rect" id="Node000045" href="$class_code_smile_1_1_statemachine_1_1_float_var.html" title="Represents a float FSM variable." alt="" coords="544,3507,766,3533"/>
-<area shape="poly" id="edge13_Node000042_Node000045" title=" " alt="" coords="425,3394,460,3409,494,3430,509,3447,518,3463,526,3478,542,3492,564,3504,562,3508,538,3497,522,3482,513,3466,505,3450,490,3434,457,3414,423,3399"/>
-<area shape="rect" id="Node000046" href="$class_code_smile_1_1_statemachine_1_1_int_var.html" title="Represents an integer FSM variable." alt="" coords="552,3355,759,3381"/>
-<area shape="poly" id="edge14_Node000042_Node000046" title=" " alt="" coords="425,3376,551,3370,551,3375,425,3381"/>
-<area shape="rect" id="Node000047" href="$class_code_smile_1_1_statemachine_1_1_var.html" title="Represents a generic (struct) FSM variable." alt="" coords="544,3405,767,3432"/>
-<area shape="poly" id="edge15_Node000042_Node000047" title=" " alt="" coords="425,3386,548,3402,547,3407,424,3391"/>
-<area shape="rect" id="Node000049" href="$class_code_smile_1_1_utility_1_1_scene_reference.html" title="Represents a SceneAsset at runtime by serializing only the scene name and path at runtime,..." alt="" coords="544,3237,767,3264"/>
-<area shape="poly" id="edge16_Node000042_Node000049" title=" " alt="" coords="397,3356,461,3314,539,3274,574,3262,576,3267,541,3278,463,3319,400,3361"/>
-<area shape="rect" id="Node000038" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="583,3136,727,3163"/>
-<area shape="poly" id="edge17_Node000042_Node000038" title=" " alt="" coords="381,3353,406,3312,441,3263,486,3214,539,3172,581,3155,583,3160,541,3177,490,3218,445,3266,410,3315,385,3356"/>
-<area shape="rect" id="Node000050" href="$class_p_a1_a_1_1_building_1_1_grid_data.html" title="Represents the grid data for object placement." alt="" coords="575,3557,735,3584"/>
-<area shape="poly" id="edge21_Node000042_Node000050" title=" " alt="" coords="425,3391,461,3407,494,3430,506,3445,513,3460,517,3489,523,3517,530,3530,542,3543,558,3554,576,3561,574,3566,555,3558,538,3547,525,3534,518,3519,512,3490,507,3462,501,3448,490,3434,458,3411,423,3396"/>
-<area shape="rect" id="Node000054" href="$class_p_a1_a_1_1_items_1_1_item.html" title="Represents an abstract base class for items in the game." alt="" coords="594,3187,716,3213"/>
-<area shape="poly" id="edge22_Node000042_Node000054" title=" " alt="" coords="387,3354,450,3288,492,3253,539,3223,566,3212,593,3205,595,3210,567,3217,541,3228,495,3257,453,3292,391,3358"/>
-<area shape="rect" id="Node000053" href="$class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item" alt="" coords="578,3608,733,3635"/>
-<area shape="poly" id="edge29_Node000042_Node000053" title=" " alt="" coords="425,3390,462,3405,494,3430,509,3452,516,3474,517,3516,519,3556,526,3575,542,3594,559,3606,578,3614,576,3618,556,3610,538,3598,522,3578,514,3557,512,3516,511,3475,504,3454,490,3434,459,3410,423,3395"/>
-<area shape="rect" id="Node000039" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="833,3085,1026,3112"/>
-<area shape="poly" id="edge18_Node000038_Node000039" title=" " alt="" coords="742,3131,853,3110,854,3115,743,3136"/>
-<area shape="rect" id="Node000040" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="847,3136,1012,3163"/>
-<area shape="poly" id="edge19_Node000038_Node000040" title=" " alt="" coords="743,3147,847,3147,847,3152,743,3152"/>
-<area shape="rect" id="Node000041" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="844,3187,1015,3213"/>
-<area shape="poly" id="edge20_Node000038_Node000041" title=" " alt="" coords="743,3163,854,3183,853,3189,742,3168"/>
-<area shape="rect" id="Node000055" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="842,3237,1017,3264"/>
-<area shape="poly" id="edge23_Node000054_Node000055" title=" " alt="" coords="732,3211,854,3234,853,3239,731,3217"/>
-<area shape="rect" id="Node000060" href="$class_p_a1_a_1_1_items_1_1_resource_item.html" title="Represents a resource item in the game." alt="" coords="841,3288,1018,3315"/>
-<area shape="poly" id="edge28_Node000054_Node000060" title=" " alt="" coords="732,3207,772,3223,787,3236,797,3249,805,3262,820,3274,845,3285,843,3290,817,3278,801,3266,792,3252,783,3239,769,3228,730,3212"/>
-<area shape="rect" id="Node000056" href="$class_p_a1_a_1_1_items_1_1_consumable_item.html" title=" " alt="" coords="1089,3212,1283,3239"/>
-<area shape="poly" id="edge24_Node000055_Node000056" title=" " alt="" coords="1033,3238,1088,3232,1088,3238,1033,3243"/>
-<area shape="rect" id="Node000057" href="$class_p_a1_a_1_1_items_1_1_weapon_item.html" title="Represents an abstract base class for weapon items in the game." alt="" coords="1102,3263,1270,3289"/>
-<area shape="poly" id="edge25_Node000055_Node000057" title=" " alt="" coords="1033,3258,1101,3265,1101,3270,1032,3263"/>
-<area shape="rect" id="Node000058" href="$class_p_a1_a_1_1_items_1_1_melee_item.html" title="Represents a melee weapon item in the game." alt="" coords="1336,3237,1492,3264"/>
-<area shape="poly" id="edge26_Node000057_Node000058" title=" " alt="" coords="1285,3262,1335,3257,1336,3262,1286,3268"/>
-<area shape="rect" id="Node000059" href="$class_p_a1_a_1_1_items_1_1_ranged_item.html" title="Represents a ranged weapon item in the game." alt="" coords="1331,3288,1497,3315"/>
-<area shape="poly" id="edge27_Node000057_Node000059" title=" " alt="" coords="1286,3284,1331,3289,1330,3295,1285,3290"/>
-<area shape="rect" id="Node000051" href="$class_i_network_serializable.html" title=" " alt="" coords="297,3608,438,3635"/>
-<area shape="poly" id="edge30_Node000051_Node000050" title=" " alt="" coords="453,3604,575,3582,576,3587,454,3609"/>
-<area shape="poly" id="edge32_Node000051_Node000053" title=" " alt="" coords="454,3619,577,3619,577,3624,454,3624"/>
-<area shape="rect" id="Node000052" href="$class_p_a1_a_1_1_building_1_1_placement_data.html" title="Represents the data for object placement in the game." alt="" coords="556,3659,754,3685"/>
-<area shape="poly" id="edge31_Node000051_Node000052" title=" " alt="" coords="454,3634,576,3655,575,3661,453,3639"/>
-<area shape="rect" id="Node000015" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_pairing_actions.html" title=" " alt="" coords="266,573,468,616"/>
-<area shape="rect" id="Node000014" href="$class_code_smile_1_1_multi_pal_1_1_input_1_1_input_users.html" title=" " alt="" coords="568,573,742,616"/>
-<area shape="poly" id="edge33_Node000015_Node000014" title=" " alt="" coords="484,592,568,592,568,597,484,597"/>
-<area shape="rect" id="Node000020" href="$interface_code_smile_1_1_multi_pal_1_1_players_1_1_i_player_component.html" title=" " alt="" coords="273,405,462,448"/>
-<area shape="rect" id="Node000021" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player.html" title=" " alt="" coords="561,691,749,733"/>
-<area shape="poly" id="edge34_Node000020_Node000021" title=" " alt="" coords="477,444,494,458,513,486,522,514,522,542,519,569,516,597,516,624,524,650,542,677,562,692,559,696,538,681,519,652,511,624,510,596,514,569,517,542,516,515,509,488,490,462,473,449"/>
-<area shape="rect" id="Node000019" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_camera.html" title=" " alt="" coords="561,405,749,448"/>
-<area shape="poly" id="edge35_Node000020_Node000019" title=" " alt="" coords="477,424,561,424,561,429,477,429"/>
-<area shape="rect" id="Node000074" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_interaction.html" title=" " alt="" coords="561,272,749,315"/>
-<area shape="poly" id="edge36_Node000020_Node000074" title=" " alt="" coords="474,401,490,391,506,376,514,359,522,342,538,325,559,313,562,317,542,329,526,345,518,361,510,379,494,395,477,405"/>
-<area shape="rect" id="Node000076" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_ui.html" title=" " alt="" coords="561,339,749,381"/>
-<area shape="poly" id="edge37_Node000020_Node000076" title=" " alt="" coords="476,399,560,379,561,384,477,404"/>
-<area shape="rect" id="Node000075" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html" title=" " alt="" coords="259,256,476,315"/>
-<area shape="poly" id="edge38_Node000075_Node000074" title=" " alt="" coords="491,286,561,288,560,293,491,291"/>
-<area shape="rect" id="Node000002" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html" title=" " alt="" coords="257,5,478,64"/>
-<area shape="poly" id="edge39_Node000002_Node000001" title=" " alt="" coords="494,65,571,85,569,90,492,70"/>
-<area shape="rect" id="Node000077" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html" title=" " alt="" coords="261,339,474,381"/>
-<area shape="poly" id="edge40_Node000077_Node000076" title=" " alt="" coords="489,357,560,357,560,363,489,363"/>
-<area shape="rect" id="Node000097" href="$class_i_pointer_enter_handler.html" title=" " alt="" coords="296,205,438,232"/>
-<area shape="rect" id="Node000096" href="$class_tooltip_trigger.html" title="Represents a trigger for displaying tooltips." alt="" coords="606,205,705,232"/>
-<area shape="poly" id="edge41_Node000097_Node000096" title=" " alt="" coords="454,216,605,216,605,221,454,221"/>
-<area shape="rect" id="Node000098" href="$class_i_pointer_exit_handler.html" title=" " alt="" coords="300,155,434,181"/>
-<area shape="poly" id="edge42_Node000098_Node000096" title=" " alt="" coords="451,180,606,207,605,213,450,185"/>
-<area shape="rect" id="Node000061" href="$class_i_serialization_callback_receiver.html" title=" " alt="" coords="268,3161,467,3188"/>
-<area shape="poly" id="edge43_Node000061_Node000038" title=" " alt="" coords="483,3162,582,3153,583,3158,483,3167"/>
-<area shape="poly" id="edge44_Node000061_Node000054" title=" " alt="" coords="483,3182,594,3192,594,3197,482,3187"/>
-<area shape="rect" id="Node000089" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_slot_u_i.html" title="Represents a ISlotUI that will display a specific ItemStack" alt="" coords="290,640,444,667"/>
-<area shape="rect" id="Node000087" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html" title="Base implementation of ISlotUI that is linked to an IContainer" alt="" coords="580,640,730,667"/>
-<area shape="poly" id="edge45_Node000089_Node000087" title=" " alt="" coords="460,651,580,651,580,656,460,656"/>
-<area shape="rect" id="Node000088" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html" title="Classic ISlotUI that only displays the Item.Sprite and ItemStack.StackSize" alt="" coords="832,640,1027,667"/>
-<area shape="poly" id="edge46_Node000087_Node000088" title=" " alt="" coords="746,651,832,651,832,656,746,656"/>
-<area shape="rect" id="Node000071" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="5,2457,195,2484"/>
-<area shape="rect" id="Node000070" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="290,2415,445,2441"/>
-<area shape="poly" id="edge47_Node000071_Node000070" title=" " alt="" coords="202,2452,289,2438,290,2443,203,2457"/>
-<area shape="rect" id="Node000072" href="$interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="306,2499,428,2525"/>
-<area shape="poly" id="edge51_Node000071_Node000072" title=" " alt="" coords="206,2484,306,2500,305,2505,205,2490"/>
-<area shape="rect" id="Node000067" href="$class_p_a1_a_1_1_items_1_1_container.html" title=" " alt="" coords="580,2397,731,2424"/>
-<area shape="poly" id="edge48_Node000070_Node000067" title=" " alt="" coords="460,2420,579,2413,579,2418,461,2425"/>
-<area shape="rect" id="Node000068" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="818,2359,1041,2385"/>
-<area shape="poly" id="edge49_Node000067_Node000068" title=" " alt="" coords="746,2395,830,2383,830,2389,747,2401"/>
-<area shape="rect" id="Node000069" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="836,2409,1023,2436"/>
-<area shape="poly" id="edge50_Node000067_Node000069" title=" " alt="" coords="747,2412,836,2416,836,2421,746,2417"/>
-<area shape="rect" id="Node000073" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="596,2515,714,2541"/>
-<area shape="poly" id="edge52_Node000072_Node000073" title=" " alt="" coords="444,2514,596,2522,595,2527,444,2519"/>
-<area shape="rect" id="Node000003" href="$class_mono_behaviour.html" title=" " alt="" coords="312,1184,423,1211"/>
-<area shape="poly" id="edge65_Node000003_Node000001" title=" " alt="" coords="374,1168,428,965,461,824,489,678,497,571,500,431,510,294,521,236,538,192,552,172,569,155,606,129,610,133,572,159,556,176,542,195,526,238,515,294,505,431,502,571,495,679,466,825,433,966,379,1169"/>
-<area shape="poly" id="edge77_Node000003_Node000085" title=" " alt="" coords="373,1168,462,796,511,600,538,509,554,497,557,501,542,512,516,601,467,797,378,1170"/>
-<area shape="poly" id="edge53_Node000003_Node000004" title=" " alt="" coords="373,1168,457,827,506,648,525,588,538,560,555,547,575,539,615,532,616,538,577,544,558,552,542,563,530,590,511,649,463,829,378,1169"/>
-<area shape="poly" id="edge62_Node000003_Node000014" title=" " alt="" coords="366,1168,371,1067,379,997,393,921,414,842,445,764,485,691,510,657,538,626,567,607,570,612,542,630,514,660,490,693,450,766,420,844,398,922,384,998,376,1067,371,1169"/>
-<area shape="poly" id="edge67_Node000003_Node000019" title=" " alt="" coords="373,1168,489,678,495,644,497,614,496,560,498,535,504,510,517,485,538,458,559,442,562,446,542,462,522,488,509,512,503,536,502,560,502,614,500,645,495,679,378,1170"/>
-<area shape="poly" id="edge68_Node000003_Node000074" title=" " alt="" coords="374,1168,426,964,459,823,489,678,496,599,499,496,510,396,521,355,538,325,559,308,562,312,542,328,526,357,515,396,505,496,501,599,495,679,465,824,432,966,379,1169"/>
-<area shape="poly" id="edge69_Node000003_Node000076" title=" " alt="" coords="374,1168,425,964,489,678,495,634,496,595,491,525,491,492,498,460,512,427,538,391,559,375,562,379,542,395,517,429,503,462,497,493,496,525,501,594,501,634,495,679,430,965,379,1169"/>
-<area shape="poly" id="edge85_Node000003_Node000096" title=" " alt="" coords="374,1168,428,965,460,823,489,678,496,585,498,462,501,400,508,343,519,294,538,258,552,245,569,234,605,222,606,227,571,239,555,249,542,262,524,296,513,344,506,401,503,462,501,585,495,679,466,825,433,966,379,1169"/>
-<area shape="poly" id="edge78_Node000003_Node000087" title=" " alt="" coords="366,1168,373,1073,382,1010,397,940,419,869,448,798,488,733,512,704,538,677,557,664,579,656,581,661,560,669,542,681,516,707,492,736,453,801,424,871,402,942,387,1011,378,1074,372,1169"/>
-<area shape="rect" id="Node000006" href="$class_code_smile_1_1_components_1_1_netcode_1_1_network_event_logger.html" title="Will log all NetworkManager events." alt="" coords="545,1763,765,1805"/>
-<area shape="poly" id="edge54_Node000003_Node000006" title=" " alt="" coords="371,1226,377,1325,386,1392,400,1466,422,1542,452,1617,491,1687,515,1719,542,1749,556,1760,553,1764,538,1753,511,1723,487,1690,447,1619,417,1544,395,1467,381,1393,372,1326,366,1227"/>
-<area shape="rect" id="Node000007" href="$class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html" title="Keeps references to components by type to avoid making each individual type a singleton of its own." alt="" coords="546,1629,765,1672"/>
-<area shape="poly" id="edge55_Node000003_Node000007" title=" " alt="" coords="374,1225,388,1303,417,1408,439,1464,466,1519,501,1571,542,1615,558,1627,555,1631,538,1619,496,1574,462,1522,434,1466,412,1410,383,1304,369,1226"/>
-<area shape="rect" id="Node000008" href="$class_code_smile_1_1_components_1_1_utility_1_1_mono_singleton.html" title="Slim and safe MonoBehaviour Singleton with guaranteed lifetime from first instantiation to applicatio..." alt="" coords="553,1696,757,1739"/>
-<area shape="poly" id="edge56_Node000003_Node000008" title=" " alt="" coords="373,1226,382,1314,393,1373,408,1437,430,1503,459,1568,496,1629,542,1682,557,1693,554,1698,538,1686,492,1632,454,1571,425,1505,403,1439,388,1374,377,1315,367,1227"/>
-<area shape="rect" id="Node000009" href="$class_code_smile_1_1_multi_pal_1_1_design_1_1_spawn_location.html" title=" " alt="" coords="562,1829,748,1872"/>
-<area shape="poly" id="edge57_Node000003_Node000009" title=" " alt="" coords="376,1226,397,1352,433,1530,456,1620,482,1703,511,1770,526,1796,542,1815,564,1831,560,1835,538,1819,522,1799,506,1773,477,1705,451,1622,428,1531,391,1353,370,1227"/>
-<area shape="rect" id="Node000010" href="$class_code_smile_1_1_multi_pal_1_1_design_1_1_spawn_locations.html" title=" " alt="" coords="562,1896,748,1939"/>
-<area shape="poly" id="edge58_Node000003_Node000010" title=" " alt="" coords="375,1226,394,1364,429,1562,452,1663,479,1756,509,1831,525,1860,542,1882,563,1898,560,1902,538,1886,521,1863,504,1834,474,1757,447,1664,423,1563,388,1365,369,1227"/>
-<area shape="rect" id="Node000011" href="$class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_menu_base.html" title=" " alt="" coords="540,1963,770,1989"/>
-<area shape="poly" id="edge59_Node000003_Node000011" title=" " alt="" coords="374,1226,390,1377,423,1596,446,1708,473,1810,505,1893,523,1925,542,1949,557,1960,554,1964,538,1953,519,1928,500,1896,468,1811,440,1709,418,1596,385,1378,369,1227"/>
-<area shape="rect" id="Node000013" href="$class_code_smile_1_1_multi_pal_1_1_game_state_1_1_game_state.html" title=" " alt="" coords="550,2013,760,2056"/>
-<area shape="poly" id="edge61_Node000003_Node000013" title=" " alt="" coords="374,1226,389,1385,421,1618,444,1738,472,1848,504,1939,523,1973,542,2000,555,2011,552,2015,538,2003,518,1976,499,1941,467,1850,439,1739,416,1619,384,1386,368,1226"/>
-<area shape="rect" id="Node000016" href="$class_code_smile_1_1_multi_pal_1_1_netcode_1_1_authentication_state.html" title=" " alt="" coords="558,2080,752,2123"/>
-<area shape="poly" id="edge63_Node000003_Node000016" title=" " alt="" coords="373,1226,387,1397,417,1650,440,1781,468,1901,502,2000,521,2038,542,2066,560,2080,557,2085,538,2070,517,2040,497,2002,463,1902,435,1782,412,1651,382,1398,368,1226"/>
-<area shape="rect" id="Node000017" href="$class_code_smile_1_1_multi_pal_1_1_netcode_1_1_netcode_state.html" title=" " alt="" coords="558,2147,752,2189"/>
-<area shape="poly" id="edge64_Node000003_Node000017" title=" " alt="" coords="373,1226,385,1408,396,1539,413,1681,436,1823,464,1953,481,2010,499,2060,520,2102,542,2133,560,2147,557,2151,538,2136,515,2104,495,2063,476,2012,459,1955,430,1824,408,1682,391,1540,379,1409,367,1226"/>
-<area shape="rect" id="Node000018" href="$class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_push_rigidbodies.html" title=" " alt="" coords="566,757,745,800"/>
-<area shape="poly" id="edge66_Node000003_Node000018" title=" " alt="" coords="370,1168,386,1096,416,1000,438,948,466,898,499,851,538,810,564,794,567,798,542,814,503,854,470,901,443,951,421,1002,391,1098,376,1169"/>
-<area shape="rect" id="Node000078" href="$class_code_smile_1_1_multi_pal_1_1_scene_1_1_client_scene_loader.html" title=" " alt="" coords="564,824,746,867"/>
-<area shape="poly" id="edge70_Node000003_Node000078" title=" " alt="" coords="373,1168,393,1107,426,1029,448,987,474,947,504,909,538,877,563,862,565,866,542,881,508,913,478,950,452,990,430,1031,398,1109,378,1170"/>
-<area shape="rect" id="Node000079" href="$class_code_smile_1_1_multi_pal_1_1_scene_1_1_server_scene_loader.html" title=" " alt="" coords="564,891,746,933"/>
-<area shape="poly" id="edge71_Node000003_Node000079" title=" " alt="" coords="378,1168,401,1119,435,1059,481,997,509,968,538,943,563,929,565,934,542,948,512,972,486,1000,440,1062,405,1122,382,1170"/>
-<area shape="rect" id="Node000080" href="$class_p_a1_a_1_1_building_1_1_placement_system.html" title="Manages the placement of buildings in the game." alt="" coords="548,957,763,984"/>
-<area shape="poly" id="edge72_Node000003_Node000080" title=" " alt="" coords="381,1169,407,1129,442,1081,487,1034,539,994,564,982,566,987,541,998,490,1038,446,1085,411,1132,386,1172"/>
-<area shape="rect" id="Node000081" href="$class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html" title="Represents a system for displaying building placement previews in a game." alt="" coords="562,1008,749,1051"/>
-<area shape="poly" id="edge73_Node000003_Node000081" title=" " alt="" coords="391,1171,455,1116,496,1086,539,1060,565,1049,567,1054,541,1065,499,1090,458,1120,395,1175"/>
-<area shape="rect" id="Node000082" href="$class_p_a1_a_1_1_dev_1_1_ability_button_panel.html" title="Represents a panel that contains ability buttons." alt="" coords="559,1075,751,1101"/>
-<area shape="poly" id="edge74_Node000003_Node000082" title=" " alt="" coords="404,1174,466,1142,539,1111,578,1099,580,1105,541,1116,469,1146,407,1178"/>
-<area shape="rect" id="Node000083" href="$class_p_a1_a_1_1_dev_1_1_item_button_panel.html" title="Represents a panel that contains item buttons." alt="" coords="564,1125,746,1152"/>
-<area shape="poly" id="edge75_Node000003_Node000083" title=" " alt="" coords="438,1180,585,1150,586,1155,439,1186"/>
-<area shape="rect" id="Node000084" href="$class_p_a1_a_1_1_items_1_1_projectile.html" title="Represents a projectile in the game." alt="" coords="580,1360,730,1387"/>
-<area shape="poly" id="edge76_Node000003_Node000084" title=" " alt="" coords="391,1220,454,1284,496,1318,541,1346,581,1360,579,1365,539,1350,493,1322,451,1288,388,1224"/>
-<area shape="rect" id="Node000090" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html" title=" " alt="" coords="557,1176,753,1219"/>
-<area shape="poly" id="edge79_Node000003_Node000090" title=" " alt="" coords="439,1195,557,1195,557,1200,439,1200"/>
-<area shape="rect" id="Node000091" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_mover.html" title=" " alt="" coords="557,1243,753,1285"/>
-<area shape="poly" id="edge80_Node000003_Node000091" title=" " alt="" coords="439,1211,561,1240,560,1245,438,1216"/>
-<area shape="rect" id="Node000092" href="$class_p_a1_a_1_1_u_i_1_1_tool_tip.html" title="The ToolTip class is responsible for displaying a tooltip UI element." alt="" coords="596,1309,714,1336"/>
-<area shape="poly" id="edge81_Node000003_Node000092" title=" " alt="" coords="402,1218,464,1257,541,1295,596,1311,595,1316,539,1300,462,1262,399,1222"/>
-<area shape="rect" id="Node000093" href="$class_p_a1_a_1_1_u_i_1_1_u_i_controller.html" title="The UIController class handles the functionality of the UI elements in the game." alt="" coords="582,1411,728,1437"/>
-<area shape="poly" id="edge82_Node000003_Node000093" title=" " alt="" coords="386,1223,411,1262,446,1310,490,1357,541,1396,583,1413,581,1418,539,1401,487,1361,442,1313,407,1265,381,1226"/>
-<area shape="rect" id="Node000094" href="$class_see_thru_sync.html" title="This class controls the see&#45;through effect of a wall material based on the visibility of the camera." alt="" coords="605,1461,705,1488"/>
-<area shape="poly" id="edge83_Node000003_Node000094" title=" " alt="" coords="382,1224,404,1273,438,1334,484,1396,512,1423,541,1447,572,1462,605,1469,604,1474,571,1467,539,1452,508,1427,480,1399,434,1337,399,1276,377,1226"/>
-<area shape="rect" id="Node000095" href="$class_singleton.html" title="A generic singleton class that ensures only one instance of a MonoBehaviour&#45;derived class exists." alt="" coords="602,1512,708,1539"/>
-<area shape="poly" id="edge84_Node000003_Node000095" title=" " alt="" coords="379,1225,398,1283,431,1358,453,1396,478,1434,508,1468,541,1498,571,1513,603,1520,601,1525,569,1518,539,1502,504,1472,474,1437,448,1399,426,1360,393,1285,374,1226"/>
-<area shape="rect" id="Node000099" href="$class_unity_utils_1_1_state_machine_1_1_stateful_entity.html" title=" " alt="" coords="572,1563,739,1605"/>
-<area shape="poly" id="edge86_Node000003_Node000099" title=" " alt="" coords="377,1225,394,1292,426,1379,448,1425,474,1470,505,1512,542,1549,573,1567,570,1571,538,1553,501,1516,470,1473,443,1428,421,1381,389,1293,372,1227"/>
-<area shape="rect" id="Node000012" href="$class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_dev_main_menu.html" title=" " alt="" coords="833,1955,1026,1997"/>
-<area shape="poly" id="edge60_Node000011_Node000012" title=" " alt="" coords="786,1973,833,1973,833,1979,786,1979"/>
-<area shape="rect" id="Node000022" href="$class_network_behaviour.html" title=" " alt="" coords="303,2305,432,2332"/>
-<area shape="poly" id="edge87_Node000022_Node000023" title=" " alt="" coords="403,2339,494,2401,517,2418,541,2434,569,2445,567,2450,539,2438,514,2423,490,2405,400,2343"/>
-<area shape="poly" id="edge89_Node000022_Node000021" title=" " alt="" coords="369,2290,489,1222,492,1115,492,975,495,904,503,839,516,784,526,762,538,744,559,726,563,730,542,747,531,764,521,786,508,840,501,905,497,975,497,1115,495,1223,375,2290"/>
-<area shape="poly" id="edge92_Node000022_Node000067" title=" " alt="" coords="414,2336,474,2360,541,2383,584,2394,583,2399,539,2388,472,2365,412,2341"/>
-<area shape="rect" id="Node000064" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_couch_1_1_couch_players_vars.html" title=" " alt="" coords="561,2264,749,2307"/>
-<area shape="poly" id="edge88_Node000022_Node000064" title=" " alt="" coords="447,2307,560,2294,561,2299,447,2312"/>
-<area shape="rect" id="Node000065" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_client.html" title=" " alt="" coords="561,2331,749,2373"/>
-<area shape="poly" id="edge90_Node000022_Node000065" title=" " alt="" coords="447,2325,561,2338,560,2344,447,2330"/>
-<area shape="rect" id="Node000066" href="$class_network_singleton.html" title="Represents a singleton network behaviour that can be accessed globally." alt="" coords="578,2213,733,2240"/>
-<area shape="poly" id="edge91_Node000022_Node000066" title=" " alt="" coords="412,2297,472,2273,539,2249,583,2238,584,2243,541,2255,474,2278,414,2302"/>
-<area shape="rect" id="Node000029" href="$class_scriptable_object.html" title=" " alt="" coords="309,2827,426,2853"/>
-<area shape="poly" id="edge101_Node000029_Node000025" title=" " alt="" coords="394,2814,627,2607,631,2611,397,2818"/>
-<area shape="poly" id="edge102_Node000029_Node000038" title=" " alt="" coords="393,2863,643,3134,639,3137,389,2867"/>
-<area shape="poly" id="edge103_Node000029_Node000054" title=" " alt="" coords="377,2868,395,2932,427,3015,448,3058,475,3101,506,3139,542,3173,567,3186,595,3194,593,3199,565,3191,538,3177,502,3143,470,3104,444,3061,422,3017,390,2933,372,2869"/>
-<area shape="rect" id="Node000030" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_base.html" title=" " alt="" coords="559,2819,751,2861"/>
-<area shape="poly" id="edge93_Node000029_Node000030" title=" " alt="" coords="442,2837,559,2837,559,2843,442,2843"/>
-<area shape="rect" id="Node000034" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_condition_base.html" title=" " alt="" coords="559,2919,751,2961"/>
-<area shape="poly" id="edge97_Node000029_Node000034" title=" " alt="" coords="423,2856,592,2916,591,2921,422,2861"/>
-<area shape="rect" id="Node000062" href="$class_p_a1_a_1_1_items_1_1_rarity.html" title="Represents the rarity of an item." alt="" coords="590,2717,720,2744"/>
-<area shape="poly" id="edge104_Node000029_Node000062" title=" " alt="" coords="404,2816,466,2784,539,2753,589,2740,591,2745,541,2759,469,2789,407,2821"/>
-<area shape="rect" id="Node000063" href="$class_scriptable_singleton.html" title="Represents a generic scriptable singleton class." alt="" coords="573,2768,737,2795"/>
-<area shape="poly" id="edge105_Node000029_Node000063" title=" " alt="" coords="440,2823,586,2793,587,2798,442,2828"/>
-<area shape="rect" id="Node000031" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_launch_screen_state.html" title=" " alt="" coords="823,2685,1036,2728"/>
-<area shape="poly" id="edge94_Node000030_Node000031" title=" " alt="" coords="762,2809,769,2805,784,2789,792,2772,800,2755,817,2738,837,2726,840,2731,820,2742,805,2758,797,2775,788,2792,772,2809,765,2813"/>
-<area shape="rect" id="Node000032" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_menu_screen_state.html" title=" " alt="" coords="828,2752,1031,2795"/>
-<area shape="poly" id="edge95_Node000030_Node000032" title=" " alt="" coords="760,2812,838,2793,839,2798,761,2817"/>
-<area shape="rect" id="Node000033" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_title_screen_state.html" title=" " alt="" coords="832,2819,1027,2861"/>
-<area shape="poly" id="edge96_Node000030_Node000033" title=" " alt="" coords="767,2837,832,2837,832,2843,767,2843"/>
-<area shape="rect" id="Node000035" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_timeout_condition.html" title=" " alt="" coords="821,2885,1038,2928"/>
-<area shape="poly" id="edge98_Node000034_Node000035" title=" " alt="" coords="766,2924,820,2917,821,2923,767,2929"/>
-<area shape="rect" id="Node000036" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_went_offline.html" title=" " alt="" coords="833,2952,1026,2995"/>
-<area shape="poly" id="edge99_Node000034_Node000036" title=" " alt="" coords="767,2951,833,2959,833,2964,767,2956"/>
-<area shape="rect" id="Node000037" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_went_online.html" title=" " alt="" coords="833,3019,1026,3061"/>
-<area shape="poly" id="edge100_Node000034_Node000037" title=" " alt="" coords="721,2965,819,3004,854,3016,852,3021,817,3009,719,2970"/>
-<area shape="rect" id="Node000044" href="$class_code_smile_1_1_statemachine_1_1_variable_base.html" title="Base class for all FSM variables." alt="" coords="243,3444,492,3471"/>
-<area shape="poly" id="edge106_Node000044_Node000043" title=" " alt="" coords="508,3461,546,3462,546,3467,507,3466"/>
-<area shape="poly" id="edge107_Node000044_Node000045" title=" " alt="" coords="448,3472,591,3503,590,3509,447,3477"/>
-<area shape="poly" id="edge108_Node000044_Node000046" title=" " alt="" coords="415,3435,539,3391,584,3379,585,3384,541,3396,417,3440"/>
-<area shape="poly" id="edge109_Node000044_Node000047" title=" " alt="" coords="486,3439,551,3430,551,3435,487,3444"/>
+<area shape="rect" id="Node000000" href="$interface_code_smile_1_1_multi_pal_1_1_animation_1_1_i_animator_parameters_provider.html" title=" " alt="" coords="266,5,468,48"/>
+<area shape="rect" id="Node000001" href="$class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html" title=" " alt="" coords="553,80,757,123"/>
+<area shape="poly" id="edge3_Node000000_Node000001" title=" " alt="" coords="468,50,571,77,569,82,467,55"/>
+<area shape="rect" id="Node000088" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_container_u_i.html" title="Represents a IContainerUI that will handle the display of an IContainer" alt="" coords="274,472,461,499"/>
+<area shape="rect" id="Node000087" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_container_u_i.html" title="Classic implementation of IContainerUI &#160;(Supports fixed and flexible sized containers)" alt="" coords="542,472,769,499"/>
+<area shape="poly" id="edge4_Node000088_Node000087" title=" " alt="" coords="477,483,541,483,541,488,477,488"/>
+<area shape="rect" id="Node000066" href="$interface_i_damageable.html" title=" " alt="" coords="318,2464,416,2491"/>
+<area shape="rect" id="Node000065" href="$class_p_a1_a_1_1_characters_1_1_character.html" title=" " alt="" coords="564,2464,747,2491"/>
+<area shape="poly" id="edge5_Node000066_Node000065" title=" " alt="" coords="432,2475,563,2475,563,2480,432,2480"/>
+<area shape="rect" id="Node000022" href="$class_i_enumerable.html" title=" " alt="" coords="320,2621,414,2648"/>
+<area shape="rect" id="Node000021" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_couch_1_1_couch_players.html" title="Represents the group of players (1&#45;4) playing on a single client." alt="" coords="561,2565,749,2608"/>
+<area shape="poly" id="edge6_Node000022_Node000021" title=" " alt="" coords="430,2622,560,2600,561,2605,431,2627"/>
+<area shape="rect" id="Node000023" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_prefabs_list_base.html" title=" " alt="" coords="559,2632,751,2675"/>
+<area shape="poly" id="edge7_Node000022_Node000023" title=" " alt="" coords="430,2636,559,2644,559,2650,430,2641"/>
+<area shape="rect" id="Node000024" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_avatar_prefabs.html" title=" " alt="" coords="833,2565,1026,2608"/>
+<area shape="poly" id="edge8_Node000023_Node000024" title=" " alt="" coords="760,2625,838,2606,839,2611,761,2630"/>
+<area shape="rect" id="Node000025" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_camera_prefabs.html" title=" " alt="" coords="833,2632,1026,2675"/>
+<area shape="poly" id="edge9_Node000023_Node000025" title=" " alt="" coords="767,2651,833,2651,833,2656,767,2656"/>
+<area shape="rect" id="Node000026" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_player_controller_prefabs.html" title=" " alt="" coords="833,2699,1026,2741"/>
+<area shape="poly" id="edge10_Node000023_Node000026" title=" " alt="" coords="761,2676,839,2695,838,2701,760,2681"/>
+<area shape="rect" id="Node000040" href="$class_i_equatable.html" title=" " alt="" coords="326,3423,409,3449"/>
+<area shape="rect" id="Node000041" href="$class_code_smile_1_1_statemachine_1_1_bool_var.html" title="Represents a boolean FSM variable." alt="" coords="546,3511,764,3537"/>
+<area shape="poly" id="edge11_Node000040_Node000041" title=" " alt="" coords="417,3453,541,3496,585,3507,584,3513,539,3501,416,3458"/>
+<area shape="rect" id="Node000046" href="$class_code_smile_1_1_statemachine_1_1_f_s_m_1_1_state.html" title="Represents a state in a statemachine." alt="" coords="552,3292,758,3335"/>
+<area shape="poly" id="edge12_Node000040_Node000046" title=" " alt="" coords="403,3412,466,3378,539,3344,571,3333,573,3338,541,3349,468,3383,406,3417"/>
+<area shape="rect" id="Node000043" href="$class_code_smile_1_1_statemachine_1_1_float_var.html" title="Represents a float FSM variable." alt="" coords="544,3561,766,3588"/>
+<area shape="poly" id="edge13_Node000040_Node000043" title=" " alt="" coords="425,3449,460,3464,494,3485,509,3501,518,3518,526,3533,542,3547,564,3558,562,3563,538,3552,522,3536,513,3520,505,3504,490,3489,457,3469,423,3454"/>
+<area shape="rect" id="Node000044" href="$class_code_smile_1_1_statemachine_1_1_int_var.html" title="Represents an integer FSM variable." alt="" coords="552,3409,759,3436"/>
+<area shape="poly" id="edge14_Node000040_Node000044" title=" " alt="" coords="425,3431,551,3425,551,3430,425,3436"/>
+<area shape="rect" id="Node000045" href="$class_code_smile_1_1_statemachine_1_1_var.html" title="Represents a generic (struct) FSM variable." alt="" coords="544,3460,767,3487"/>
+<area shape="poly" id="edge15_Node000040_Node000045" title=" " alt="" coords="425,3441,548,3457,547,3462,424,3446"/>
+<area shape="rect" id="Node000047" href="$class_code_smile_1_1_utility_1_1_scene_reference.html" title="Represents a SceneAsset at runtime by serializing only the scene name and path at runtime,..." alt="" coords="544,3359,767,3385"/>
+<area shape="poly" id="edge16_Node000040_Node000047" title=" " alt="" coords="424,3421,539,3395,591,3383,592,3389,541,3400,425,3426"/>
+<area shape="rect" id="Node000036" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="583,3191,727,3217"/>
+<area shape="poly" id="edge17_Node000040_Node000036" title=" " alt="" coords="381,3407,406,3367,441,3318,486,3268,539,3227,581,3210,583,3215,541,3232,490,3272,445,3321,410,3370,385,3410"/>
+<area shape="rect" id="Node000048" href="$class_p_a1_a_1_1_building_1_1_grid_data.html" title="Represents the grid data for object placement." alt="" coords="575,3612,735,3639"/>
+<area shape="poly" id="edge21_Node000040_Node000048" title=" " alt="" coords="425,3446,461,3461,494,3485,506,3500,513,3515,517,3544,523,3572,530,3585,542,3598,558,3608,576,3615,574,3620,555,3613,538,3602,525,3588,518,3574,512,3545,507,3516,501,3503,490,3489,458,3466,423,3451"/>
+<area shape="rect" id="Node000052" href="$class_p_a1_a_1_1_items_1_1_item.html" title="Represents an abstract base class for items in the game." alt="" coords="594,3241,716,3268"/>
+<area shape="poly" id="edge22_Node000040_Node000052" title=" " alt="" coords="387,3409,450,3343,492,3307,539,3278,566,3267,593,3259,595,3265,567,3272,541,3282,495,3312,453,3347,391,3412"/>
+<area shape="rect" id="Node000051" href="$class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item" alt="" coords="578,3663,733,3689"/>
+<area shape="poly" id="edge29_Node000040_Node000051" title=" " alt="" coords="425,3445,462,3460,494,3485,509,3507,516,3528,517,3570,519,3611,526,3630,542,3649,559,3660,578,3668,576,3673,556,3665,538,3653,522,3632,514,3612,512,3570,511,3529,504,3509,490,3488,459,3465,423,3450"/>
+<area shape="rect" id="Node000037" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="833,3165,1026,3192"/>
+<area shape="poly" id="edge18_Node000036_Node000037" title=" " alt="" coords="743,3193,832,3185,832,3190,743,3199"/>
+<area shape="rect" id="Node000038" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="847,3216,1012,3243"/>
+<area shape="poly" id="edge19_Node000036_Node000038" title=" " alt="" coords="743,3209,847,3219,846,3224,743,3215"/>
+<area shape="rect" id="Node000039" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="844,3267,1015,3293"/>
+<area shape="poly" id="edge20_Node000036_Node000039" title=" " alt="" coords="743,3218,771,3227,796,3240,819,3252,857,3264,855,3269,817,3257,793,3244,769,3232,742,3223"/>
+<area shape="rect" id="Node000053" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="842,3317,1017,3344"/>
+<area shape="poly" id="edge23_Node000052_Node000053" title=" " alt="" coords="732,3266,771,3278,796,3290,819,3303,857,3314,855,3319,817,3308,793,3295,769,3282,730,3271"/>
+<area shape="rect" id="Node000058" href="$class_p_a1_a_1_1_items_1_1_resource_item.html" title="Represents a resource item in the game." alt="" coords="841,3368,1018,3395"/>
+<area shape="poly" id="edge28_Node000052_Node000058" title=" " alt="" coords="732,3260,753,3267,772,3278,789,3297,797,3317,804,3336,820,3354,842,3365,839,3370,817,3358,799,3339,792,3319,785,3300,769,3282,750,3272,730,3265"/>
+<area shape="rect" id="Node000054" href="$class_p_a1_a_1_1_items_1_1_consumable_item.html" title=" " alt="" coords="1089,3292,1283,3319"/>
+<area shape="poly" id="edge24_Node000053_Node000054" title=" " alt="" coords="1033,3318,1088,3312,1088,3318,1033,3323"/>
+<area shape="rect" id="Node000055" href="$class_p_a1_a_1_1_items_1_1_weapon_item.html" title="Represents an abstract base class for weapon items in the game." alt="" coords="1102,3343,1270,3369"/>
+<area shape="poly" id="edge25_Node000053_Node000055" title=" " alt="" coords="1033,3338,1101,3345,1101,3350,1032,3343"/>
+<area shape="rect" id="Node000056" href="$class_p_a1_a_1_1_items_1_1_melee_item.html" title="Represents a melee weapon item in the game." alt="" coords="1336,3317,1492,3344"/>
+<area shape="poly" id="edge26_Node000055_Node000056" title=" " alt="" coords="1285,3342,1335,3337,1336,3342,1286,3348"/>
+<area shape="rect" id="Node000057" href="$class_p_a1_a_1_1_items_1_1_ranged_item.html" title="Represents a ranged weapon item in the game." alt="" coords="1331,3368,1497,3395"/>
+<area shape="poly" id="edge27_Node000055_Node000057" title=" " alt="" coords="1286,3364,1331,3369,1330,3375,1285,3370"/>
+<area shape="rect" id="Node000049" href="$class_i_network_serializable.html" title=" " alt="" coords="297,3663,438,3689"/>
+<area shape="poly" id="edge30_Node000049_Node000048" title=" " alt="" coords="453,3658,575,3637,576,3642,454,3664"/>
+<area shape="poly" id="edge32_Node000049_Node000051" title=" " alt="" coords="454,3673,577,3673,577,3679,454,3679"/>
+<area shape="rect" id="Node000050" href="$class_p_a1_a_1_1_building_1_1_placement_data.html" title="Represents the data for object placement in the game." alt="" coords="556,3713,754,3740"/>
+<area shape="poly" id="edge31_Node000049_Node000050" title=" " alt="" coords="454,3688,576,3710,575,3715,453,3694"/>
+<area shape="rect" id="Node000013" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_pairing_actions.html" title=" " alt="" coords="266,523,468,565"/>
+<area shape="rect" id="Node000012" href="$class_code_smile_1_1_multi_pal_1_1_input_1_1_input_users.html" title=" " alt="" coords="568,523,742,565"/>
+<area shape="poly" id="edge33_Node000013_Node000012" title=" " alt="" coords="484,541,568,541,568,547,484,547"/>
+<area shape="rect" id="Node000018" href="$interface_code_smile_1_1_multi_pal_1_1_players_1_1_i_player_component.html" title=" " alt="" coords="273,405,462,448"/>
+<area shape="rect" id="Node000019" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player.html" title=" " alt="" coords="561,589,749,632"/>
+<area shape="poly" id="edge34_Node000018_Node000019" title=" " alt="" coords="477,446,494,458,507,473,514,488,519,518,523,548,530,562,542,575,562,589,559,594,538,579,525,564,518,549,514,519,509,490,502,476,490,462,474,450"/>
+<area shape="rect" id="Node000017" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_camera.html" title=" " alt="" coords="561,405,749,448"/>
+<area shape="poly" id="edge35_Node000018_Node000017" title=" " alt="" coords="477,424,561,424,561,429,477,429"/>
+<area shape="rect" id="Node000075" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_interaction.html" title=" " alt="" coords="561,272,749,315"/>
+<area shape="poly" id="edge36_Node000018_Node000075" title=" " alt="" coords="474,401,490,391,506,376,514,359,522,342,538,325,559,313,562,317,542,329,526,345,518,361,510,379,494,395,477,405"/>
+<area shape="rect" id="Node000077" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_ui.html" title=" " alt="" coords="561,339,749,381"/>
+<area shape="poly" id="edge37_Node000018_Node000077" title=" " alt="" coords="476,399,560,379,561,384,477,404"/>
+<area shape="rect" id="Node000076" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_interaction_actions.html" title=" " alt="" coords="259,256,476,315"/>
+<area shape="poly" id="edge38_Node000076_Node000075" title=" " alt="" coords="491,286,561,288,560,293,491,291"/>
+<area shape="rect" id="Node000002" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_kinematics_actions.html" title=" " alt="" coords="257,72,478,131"/>
+<area shape="poly" id="edge39_Node000002_Node000001" title=" " alt="" coords="493,99,553,99,553,104,493,104"/>
+<area shape="rect" id="Node000078" href="$interface_code_smile_1_1_multi_pal_1_1_input_1_1_generated_input_1_1_i_player_u_i_actions.html" title=" " alt="" coords="261,339,474,381"/>
+<area shape="poly" id="edge40_Node000078_Node000077" title=" " alt="" coords="489,357,560,357,560,363,489,363"/>
+<area shape="rect" id="Node000091" href="$class_i_pointer_click_handler.html" title=" " alt="" coords="297,155,438,181"/>
+<area shape="rect" id="Node000089" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html" title="Base implementation of ISlotUI that is linked to an IContainer" alt="" coords="580,205,730,232"/>
+<area shape="poly" id="edge41_Node000091_Node000089" title=" " alt="" coords="454,180,580,203,579,208,453,186"/>
+<area shape="rect" id="Node000090" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_classic_slot_u_i.html" title="Classic ISlotUI that only displays the Item.Sprite and ItemStack.StackSize" alt="" coords="832,205,1027,232"/>
+<area shape="poly" id="edge42_Node000089_Node000090" title=" " alt="" coords="746,216,832,216,832,221,746,221"/>
+<area shape="rect" id="Node000100" href="$class_i_pointer_enter_handler.html" title=" " alt="" coords="296,631,438,657"/>
+<area shape="rect" id="Node000099" href="$class_tooltip_trigger.html" title="Represents a trigger for displaying tooltips." alt="" coords="606,656,705,683"/>
+<area shape="poly" id="edge43_Node000100_Node000099" title=" " alt="" coords="454,649,605,662,605,668,454,654"/>
+<area shape="rect" id="Node000101" href="$class_i_pointer_exit_handler.html" title=" " alt="" coords="300,681,434,708"/>
+<area shape="poly" id="edge44_Node000101_Node000099" title=" " alt="" coords="450,685,605,671,605,676,450,690"/>
+<area shape="rect" id="Node000059" href="$class_i_serialization_callback_receiver.html" title=" " alt="" coords="268,3216,467,3243"/>
+<area shape="poly" id="edge45_Node000059_Node000036" title=" " alt="" coords="483,3217,582,3208,583,3213,483,3222"/>
+<area shape="poly" id="edge46_Node000059_Node000052" title=" " alt="" coords="483,3237,594,3247,594,3252,482,3242"/>
+<area shape="rect" id="Node000092" href="$interface_p_a1_a_1_1_items_1_1_u_i_1_1_i_slot_u_i.html" title="Represents a ISlotUI that will display a specific ItemStack" alt="" coords="290,205,444,232"/>
+<area shape="poly" id="edge47_Node000092_Node000089" title=" " alt="" coords="460,216,580,216,580,221,460,221"/>
+<area shape="rect" id="Node000072" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="5,3133,195,3160"/>
+<area shape="rect" id="Node000071" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="290,2533,445,2560"/>
+<area shape="poly" id="edge48_Node000072_Node000071" title=" " alt="" coords="98,3118,103,3024,110,2960,121,2890,139,2816,164,2743,198,2672,241,2608,257,2591,276,2577,316,2558,319,2563,279,2582,260,2595,245,2611,202,2675,169,2745,144,2818,127,2891,115,2961,108,3024,104,3118"/>
+<area shape="rect" id="Node000073" href="$interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="306,3739,428,3765"/>
+<area shape="poly" id="edge52_Node000072_Node000073" title=" " alt="" coords="108,3175,125,3288,155,3445,174,3525,196,3598,219,3658,245,3700,273,3722,307,3737,305,3742,270,3727,241,3703,215,3661,191,3600,169,3526,150,3446,120,3289,103,3176"/>
+<area shape="rect" id="Node000068" href="$class_p_a1_a_1_1_items_1_1_container.html" title=" " alt="" coords="580,2515,731,2541"/>
+<area shape="poly" id="edge49_Node000071_Node000068" title=" " alt="" coords="460,2538,579,2530,579,2536,461,2543"/>
+<area shape="rect" id="Node000069" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="818,2464,1041,2491"/>
+<area shape="poly" id="edge50_Node000068_Node000069" title=" " alt="" coords="746,2509,853,2489,854,2494,747,2514"/>
+<area shape="rect" id="Node000070" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="836,2515,1023,2541"/>
+<area shape="poly" id="edge51_Node000068_Node000070" title=" " alt="" coords="747,2525,836,2525,836,2531,747,2531"/>
+<area shape="rect" id="Node000074" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="596,3764,714,3791"/>
+<area shape="poly" id="edge53_Node000073_Node000074" title=" " alt="" coords="444,3756,596,3769,595,3775,444,3761"/>
+<area shape="rect" id="Node000003" href="$class_mono_behaviour.html" title=" " alt="" coords="312,1168,423,1195"/>
+<area shape="poly" id="edge65_Node000003_Node000001" title=" " alt="" coords="375,1152,430,972,462,847,489,720,495,668,498,603,500,452,503,375,509,303,520,240,538,192,552,170,571,151,611,121,614,125,574,155,557,174,542,195,525,242,515,303,509,375,506,452,503,604,500,669,495,720,468,849,435,973,381,1154"/>
+<area shape="poly" id="edge78_Node000003_Node000087" title=" " alt="" coords="374,1152,424,970,489,719,495,687,497,658,497,606,498,582,505,558,517,534,538,509,554,497,557,501,542,513,522,537,510,560,504,582,502,606,502,658,501,687,495,721,429,972,379,1154"/>
+<area shape="poly" id="edge62_Node000003_Node000012" title=" " alt="" coords="374,1153,463,825,512,655,538,576,567,556,570,561,542,579,517,656,469,826,379,1154"/>
+<area shape="poly" id="edge67_Node000003_Node000017" title=" " alt="" coords="375,1152,426,971,489,719,496,679,497,643,494,580,494,550,500,520,514,490,538,458,559,442,562,446,542,462,519,493,505,522,500,551,499,580,502,643,501,680,495,721,431,972,380,1154"/>
+<area shape="poly" id="edge68_Node000003_Node000075" title=" " alt="" coords="375,1152,429,971,461,847,489,720,496,631,498,516,502,458,508,404,520,358,538,325,559,308,562,312,542,328,525,360,513,405,507,458,504,516,501,632,495,720,466,848,434,973,380,1154"/>
+<area shape="poly" id="edge69_Node000003_Node000077" title=" " alt="" coords="375,1152,428,971,460,847,489,720,496,646,501,550,512,457,522,419,538,392,559,375,562,379,542,395,527,421,517,458,506,551,502,647,495,720,465,848,433,973,380,1154"/>
+<area shape="poly" id="edge79_Node000003_Node000089" title=" " alt="" coords="375,1152,429,972,462,847,489,720,494,674,496,617,497,482,499,414,506,351,518,298,538,258,556,241,579,230,581,234,560,246,542,262,523,300,511,352,505,415,502,483,501,617,499,675,495,720,467,849,435,973,380,1154"/>
+<area shape="poly" id="edge86_Node000003_Node000099" title=" " alt="" coords="367,1152,376,1063,386,1003,401,938,423,871,452,806,490,745,538,693,570,675,605,667,606,672,572,680,542,697,494,748,457,808,428,873,406,940,391,1004,381,1063,372,1153"/>
+<area shape="rect" id="Node000004" href="$class_code_smile_1_1_components_1_1_netcode_1_1_network_event_logger.html" title="Will log all NetworkManager events." alt="" coords="545,1027,765,1069"/>
+<area shape="poly" id="edge54_Node000003_Node000004" title=" " alt="" coords="400,1157,463,1118,539,1079,569,1067,571,1072,541,1084,465,1123,402,1162"/>
+<area shape="rect" id="Node000005" href="$class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html" title="Keeps references to components by type to avoid making each individual type a singleton of its own." alt="" coords="546,1093,765,1136"/>
+<area shape="poly" id="edge55_Node000003_Node000005" title=" " alt="" coords="438,1162,560,1134,561,1139,439,1168"/>
+<area shape="rect" id="Node000006" href="$class_code_smile_1_1_components_1_1_utility_1_1_mono_singleton.html" title="Slim and safe MonoBehaviour Singleton with guaranteed lifetime from first instantiation to applicatio..." alt="" coords="553,1160,757,1203"/>
+<area shape="poly" id="edge56_Node000003_Node000006" title=" " alt="" coords="439,1179,553,1179,553,1184,439,1184"/>
+<area shape="rect" id="Node000007" href="$class_code_smile_1_1_multi_pal_1_1_design_1_1_spawn_location.html" title=" " alt="" coords="562,1227,748,1269"/>
+<area shape="poly" id="edge57_Node000003_Node000007" title=" " alt="" coords="439,1195,563,1224,561,1229,438,1200"/>
+<area shape="rect" id="Node000008" href="$class_code_smile_1_1_multi_pal_1_1_design_1_1_spawn_locations.html" title=" " alt="" coords="562,1293,748,1336"/>
+<area shape="poly" id="edge58_Node000003_Node000008" title=" " alt="" coords="402,1201,465,1240,541,1279,571,1290,569,1295,539,1284,463,1245,400,1206"/>
+<area shape="rect" id="Node000009" href="$class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_menu_base.html" title=" " alt="" coords="540,1360,770,1387"/>
+<area shape="poly" id="edge59_Node000003_Node000009" title=" " alt="" coords="390,1206,452,1276,494,1314,541,1346,568,1357,566,1362,539,1350,491,1318,448,1280,386,1209"/>
+<area shape="rect" id="Node000011" href="$class_code_smile_1_1_multi_pal_1_1_game_state_1_1_game_state.html" title=" " alt="" coords="550,1411,760,1453"/>
+<area shape="poly" id="edge61_Node000003_Node000011" title=" " alt="" coords="385,1207,409,1249,445,1300,489,1352,542,1396,562,1408,560,1413,538,1401,485,1356,440,1303,405,1252,380,1209"/>
+<area shape="rect" id="Node000014" href="$class_code_smile_1_1_multi_pal_1_1_netcode_1_1_authentication_state.html" title=" " alt="" coords="558,1477,752,1520"/>
+<area shape="poly" id="edge63_Node000003_Node000014" title=" " alt="" coords="380,1208,401,1263,435,1332,482,1403,510,1435,542,1463,560,1475,557,1479,538,1467,506,1439,478,1406,430,1334,396,1265,375,1210"/>
+<area shape="rect" id="Node000015" href="$class_code_smile_1_1_multi_pal_1_1_netcode_1_1_netcode_state.html" title=" " alt="" coords="558,1544,752,1587"/>
+<area shape="poly" id="edge64_Node000003_Node000015" title=" " alt="" coords="377,1209,394,1275,426,1362,448,1408,474,1452,505,1494,542,1530,560,1542,557,1546,538,1534,501,1497,470,1455,443,1410,421,1364,389,1277,372,1211"/>
+<area shape="rect" id="Node000016" href="$class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_push_rigidbodies.html" title=" " alt="" coords="566,1795,745,1837"/>
+<area shape="poly" id="edge66_Node000003_Node000016" title=" " alt="" coords="370,1210,374,1316,381,1389,394,1469,415,1553,446,1636,488,1713,513,1748,542,1781,566,1798,563,1802,538,1785,509,1752,483,1716,441,1638,410,1555,389,1470,376,1390,368,1316,365,1210"/>
+<area shape="rect" id="Node000079" href="$class_code_smile_1_1_multi_pal_1_1_scene_1_1_client_scene_loader.html" title=" " alt="" coords="564,1611,746,1653"/>
+<area shape="poly" id="edge70_Node000003_Node000079" title=" " alt="" coords="375,1210,388,1287,417,1391,439,1447,467,1502,501,1552,542,1597,565,1612,562,1617,538,1601,497,1556,462,1504,434,1449,412,1393,383,1288,369,1211"/>
+<area shape="rect" id="Node000080" href="$class_code_smile_1_1_multi_pal_1_1_scene_1_1_server_scene_loader.html" title=" " alt="" coords="564,1677,746,1720"/>
+<area shape="poly" id="edge71_Node000003_Node000080" title=" " alt="" coords="373,1210,383,1298,393,1356,409,1420,430,1486,459,1550,496,1611,542,1663,566,1679,563,1684,538,1667,492,1614,455,1553,426,1488,404,1421,388,1357,377,1299,367,1210"/>
+<area shape="rect" id="Node000081" href="$class_health_bar.html" title=" " alt="" coords="616,1744,695,1771"/>
+<area shape="poly" id="edge72_Node000003_Node000081" title=" " alt="" coords="371,1210,376,1310,384,1377,398,1451,419,1527,449,1601,490,1670,514,1702,542,1730,558,1741,577,1749,616,1755,615,1761,575,1754,556,1746,538,1734,510,1705,485,1673,445,1603,414,1528,393,1452,379,1378,371,1310,366,1210"/>
+<area shape="rect" id="Node000082" href="$class_p_a1_a_1_1_building_1_1_placement_system.html" title="Manages the placement of buildings in the game." alt="" coords="548,1861,763,1888"/>
+<area shape="poly" id="edge73_Node000003_Node000082" title=" " alt="" coords="375,1210,394,1346,428,1538,451,1637,478,1726,508,1799,525,1827,542,1847,557,1859,554,1863,538,1851,520,1830,504,1801,473,1728,446,1638,423,1540,388,1347,369,1211"/>
+<area shape="rect" id="Node000083" href="$class_p_a1_a_1_1_building_1_1_preview_1_1_build_preview_system.html" title="Represents a system for displaying building placement previews in a game." alt="" coords="562,1912,749,1955"/>
+<area shape="poly" id="edge74_Node000003_Node000083" title=" " alt="" coords="374,1210,392,1354,427,1561,450,1667,477,1765,508,1845,524,1875,542,1898,563,1914,560,1918,538,1902,520,1878,503,1847,472,1766,444,1669,421,1562,387,1355,369,1210"/>
+<area shape="rect" id="Node000084" href="$class_p_a1_a_1_1_dev_1_1_ability_button_panel.html" title="Represents a panel that contains ability buttons." alt="" coords="559,1979,751,2005"/>
+<area shape="poly" id="edge75_Node000003_Node000084" title=" " alt="" coords="374,1210,389,1367,421,1595,443,1712,471,1819,504,1907,522,1940,542,1965,560,1978,557,1982,538,1969,518,1943,499,1909,466,1821,438,1713,415,1596,384,1368,368,1211"/>
+<area shape="rect" id="Node000085" href="$class_p_a1_a_1_1_dev_1_1_item_button_panel.html" title="Represents a panel that contains item buttons." alt="" coords="564,2029,746,2056"/>
+<area shape="poly" id="edge76_Node000003_Node000085" title=" " alt="" coords="373,1210,387,1375,417,1619,440,1744,468,1859,502,1953,521,1989,542,2015,565,2031,562,2035,538,2019,517,1992,497,1955,463,1861,435,1745,412,1619,382,1376,368,1210"/>
+<area shape="rect" id="Node000086" href="$class_p_a1_a_1_1_items_1_1_projectile.html" title="Represents a projectile in the game." alt="" coords="580,808,730,835"/>
+<area shape="poly" id="edge77_Node000003_Node000086" title=" " alt="" coords="372,1152,390,1088,422,1004,444,960,470,918,502,878,538,845,558,833,580,825,581,830,560,838,542,849,506,882,475,921,448,963,427,1006,395,1090,377,1153"/>
+<area shape="rect" id="Node000093" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_controller.html" title=" " alt="" coords="557,2080,753,2123"/>
+<area shape="poly" id="edge80_Node000003_Node000093" title=" " alt="" coords="373,1210,386,1383,399,1507,416,1641,439,1775,467,1897,501,1998,521,2037,542,2066,558,2080,555,2084,538,2070,516,2040,496,2000,462,1899,434,1776,411,1642,394,1507,381,1384,368,1210"/>
+<area shape="rect" id="Node000094" href="$class_p_a1_a_1_1_player_1_1_controller_1_1_player_mover.html" title=" " alt="" coords="557,2147,753,2189"/>
+<area shape="poly" id="edge81_Node000003_Node000094" title=" " alt="" coords="373,1210,384,1395,396,1528,412,1673,435,1817,463,1950,480,2008,499,2059,519,2101,542,2133,558,2146,555,2150,538,2136,515,2104,494,2061,475,2010,458,1951,429,1818,407,1674,390,1529,379,1396,367,1210"/>
+<area shape="rect" id="Node000095" href="$class_p_a1_a_1_1_u_i_1_1_tool_tip.html" title="The ToolTip class is responsible for displaying a tooltip UI element." alt="" coords="596,707,714,733"/>
+<area shape="poly" id="edge82_Node000003_Node000095" title=" " alt="" coords="368,1152,380,1071,391,1017,408,960,430,901,458,843,494,789,538,743,565,728,595,720,596,725,567,732,542,747,498,793,463,846,435,903,413,961,397,1019,385,1072,374,1153"/>
+<area shape="rect" id="Node000096" href="$class_p_a1_a_1_1_u_i_1_1_u_i_controller.html" title="The UIController class handles the functionality of the UI elements in the game." alt="" coords="582,757,728,784"/>
+<area shape="poly" id="edge83_Node000003_Node000096" title=" " alt="" coords="370,1152,385,1079,415,982,437,930,464,880,498,834,538,794,559,781,581,774,583,779,561,786,542,798,502,837,469,883,441,933,420,984,390,1080,375,1153"/>
+<area shape="rect" id="Node000097" href="$class_see_thru_sync.html" title="This class controls the see&#45;through effect of a wall material based on the visibility of the camera." alt="" coords="605,859,705,885"/>
+<area shape="poly" id="edge84_Node000003_Node000097" title=" " alt="" coords="375,1152,396,1097,429,1027,477,955,506,923,539,895,570,879,604,872,605,877,572,885,541,900,509,927,481,959,434,1029,400,1099,380,1154"/>
+<area shape="rect" id="Node000098" href="$class_singleton.html" title="A generic singleton class that ensures only one instance of a MonoBehaviour&#45;derived class exists." alt="" coords="602,909,708,936"/>
+<area shape="poly" id="edge85_Node000003_Node000098" title=" " alt="" coords="378,1153,402,1107,437,1051,482,994,509,968,539,946,569,932,601,924,602,929,571,937,541,950,513,972,486,997,441,1054,406,1110,383,1155"/>
+<area shape="rect" id="Node000102" href="$class_unity_utils_1_1_state_machine_1_1_stateful_entity.html" title=" " alt="" coords="572,960,739,1003"/>
+<area shape="poly" id="edge87_Node000003_Node000102" title=" " alt="" coords="386,1154,449,1083,492,1045,539,1012,570,998,572,1003,541,1017,495,1049,453,1087,390,1157"/>
+<area shape="rect" id="Node000010" href="$class_code_smile_1_1_multi_pal_1_1_g_u_i_1_1_dev_main_menu.html" title=" " alt="" coords="833,1352,1026,1395"/>
+<area shape="poly" id="edge60_Node000009_Node000010" title=" " alt="" coords="786,1371,833,1371,833,1376,786,1376"/>
+<area shape="rect" id="Node000020" href="$class_network_behaviour.html" title=" " alt="" coords="303,2376,432,2403"/>
+<area shape="poly" id="edge93_Node000020_Node000065" title=" " alt="" coords="417,2406,541,2449,585,2461,584,2466,539,2455,416,2411"/>
+<area shape="poly" id="edge88_Node000020_Node000021" title=" " alt="" coords="427,2407,462,2425,494,2450,511,2477,517,2503,524,2528,542,2551,562,2565,559,2569,538,2555,519,2530,512,2505,506,2479,490,2454,459,2429,424,2411"/>
+<area shape="poly" id="edge90_Node000020_Node000019" title=" " alt="" coords="369,2361,418,1907,489,1206,501,920,514,743,524,679,538,642,559,625,562,629,542,646,529,680,519,744,506,920,495,1207,424,1908,374,2361"/>
+<area shape="poly" id="edge95_Node000020_Node000068" title=" " alt="" coords="418,2407,456,2426,494,2450,508,2464,517,2477,526,2489,541,2500,580,2516,578,2521,539,2505,523,2493,513,2480,504,2467,490,2454,454,2431,416,2412"/>
+<area shape="rect" id="Node000062" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_couch_1_1_couch_players_vars.html" title=" " alt="" coords="561,2213,749,2256"/>
+<area shape="poly" id="edge89_Node000020_Node000062" title=" " alt="" coords="394,2364,458,2315,497,2289,539,2266,567,2254,569,2259,541,2270,500,2293,461,2319,397,2368"/>
+<area shape="rect" id="Node000063" href="$class_code_smile_1_1_multi_pal_1_1_players_1_1_player_client.html" title=" " alt="" coords="561,2280,749,2323"/>
+<area shape="poly" id="edge91_Node000020_Node000063" title=" " alt="" coords="425,2368,539,2332,577,2321,579,2326,541,2337,427,2373"/>
+<area shape="rect" id="Node000064" href="$class_network_singleton.html" title="Represents a singleton network behaviour that can be accessed globally." alt="" coords="578,2347,733,2373"/>
+<area shape="poly" id="edge92_Node000020_Node000064" title=" " alt="" coords="447,2379,577,2365,577,2371,447,2384"/>
+<area shape="rect" id="Node000067" href="$class_p_a1_a_1_1_characters_1_1_character_stats.html" title=" " alt="" coords="564,2397,747,2440"/>
+<area shape="poly" id="edge94_Node000020_Node000067" title=" " alt="" coords="447,2395,563,2407,563,2412,447,2400"/>
+<area shape="rect" id="Node000027" href="$class_scriptable_object.html" title=" " alt="" coords="309,2907,426,2933"/>
+<area shape="poly" id="edge104_Node000027_Node000023" title=" " alt="" coords="393,2894,629,2673,633,2677,396,2898"/>
+<area shape="poly" id="edge105_Node000027_Node000036" title=" " alt="" coords="395,2942,642,3189,638,3192,391,2946"/>
+<area shape="poly" id="edge106_Node000027_Node000052" title=" " alt="" coords="378,2948,398,3007,430,3083,452,3123,478,3162,507,3197,542,3227,567,3241,595,3248,594,3254,565,3246,538,3232,504,3201,473,3165,447,3126,425,3086,393,3009,373,2949"/>
+<area shape="rect" id="Node000028" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_base.html" title=" " alt="" coords="559,2899,751,2941"/>
+<area shape="poly" id="edge96_Node000027_Node000028" title=" " alt="" coords="442,2917,559,2917,559,2923,442,2923"/>
+<area shape="rect" id="Node000032" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_state_condition_base.html" title=" " alt="" coords="559,2999,751,3041"/>
+<area shape="poly" id="edge100_Node000027_Node000032" title=" " alt="" coords="423,2936,592,2996,591,3001,422,2941"/>
+<area shape="rect" id="Node000060" href="$class_p_a1_a_1_1_items_1_1_rarity.html" title="Represents the rarity of an item." alt="" coords="590,2797,720,2824"/>
+<area shape="poly" id="edge107_Node000027_Node000060" title=" " alt="" coords="404,2896,466,2864,539,2833,589,2820,591,2825,541,2839,469,2869,407,2901"/>
+<area shape="rect" id="Node000061" href="$class_scriptable_singleton.html" title="Represents a generic scriptable singleton class." alt="" coords="573,2848,737,2875"/>
+<area shape="poly" id="edge108_Node000027_Node000061" title=" " alt="" coords="440,2903,586,2873,587,2878,442,2908"/>
+<area shape="rect" id="Node000029" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_launch_screen_state.html" title=" " alt="" coords="823,2765,1036,2808"/>
+<area shape="poly" id="edge97_Node000028_Node000029" title=" " alt="" coords="762,2889,769,2885,784,2869,792,2852,800,2835,817,2818,837,2806,840,2811,820,2822,805,2838,797,2855,788,2872,772,2889,765,2893"/>
+<area shape="rect" id="Node000030" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_menu_screen_state.html" title=" " alt="" coords="828,2832,1031,2875"/>
+<area shape="poly" id="edge98_Node000028_Node000030" title=" " alt="" coords="760,2892,838,2873,839,2878,761,2897"/>
+<area shape="rect" id="Node000031" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_title_screen_state.html" title=" " alt="" coords="832,2899,1027,2941"/>
+<area shape="poly" id="edge99_Node000028_Node000031" title=" " alt="" coords="767,2917,832,2917,832,2923,767,2923"/>
+<area shape="rect" id="Node000033" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_timeout_condition.html" title=" " alt="" coords="821,2965,1038,3008"/>
+<area shape="poly" id="edge101_Node000032_Node000033" title=" " alt="" coords="766,3004,820,2997,821,3003,767,3009"/>
+<area shape="rect" id="Node000034" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_went_offline.html" title=" " alt="" coords="833,3032,1026,3075"/>
+<area shape="poly" id="edge102_Node000032_Node000034" title=" " alt="" coords="767,3031,833,3039,833,3044,767,3036"/>
+<area shape="rect" id="Node000035" href="$class_code_smile_1_1_multi_pal_1_1_settings_1_1_game_states_1_1_on_went_online.html" title=" " alt="" coords="833,3099,1026,3141"/>
+<area shape="poly" id="edge103_Node000032_Node000035" title=" " alt="" coords="721,3045,819,3084,854,3096,852,3101,817,3089,719,3050"/>
+<area shape="rect" id="Node000042" href="$class_code_smile_1_1_statemachine_1_1_variable_base.html" title="Base class for all FSM variables." alt="" coords="243,3499,492,3525"/>
+<area shape="poly" id="edge109_Node000042_Node000041" title=" " alt="" coords="508,3515,546,3517,546,3522,507,3521"/>
+<area shape="poly" id="edge110_Node000042_Node000043" title=" " alt="" coords="448,3527,591,3558,590,3563,447,3532"/>
+<area shape="poly" id="edge111_Node000042_Node000044" title=" " alt="" coords="415,3490,539,3445,584,3434,585,3439,541,3451,417,3495"/>
+<area shape="poly" id="edge112_Node000042_Node000045" title=" " alt="" coords="486,3493,551,3485,551,3490,487,3499"/>
 </map>

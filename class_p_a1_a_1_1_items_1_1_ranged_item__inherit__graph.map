@@ -1,6 +1,6 @@
 <map id="PA1A.Items.RangedItem" name="PA1A.Items.RangedItem">
 <area shape="rect" id="Node000001" title="Represents a ranged weapon item in the game." alt="" coords="156,837,313,907"/>
-<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_weapon_item.html" title="Represents an abstract base class for weapon items in the game." alt="" coords="183,720,287,789"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_weapon_item.html" title="Represents an abstract base class for weapon items in the game." alt="" coords="177,720,292,789"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,804,237,838,232,838,232,804"/>
 <area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="141,475,329,672"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,687,237,720,232,720,232,687"/>

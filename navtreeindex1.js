@@ -1,7 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html#acc4327dccff2ec3cdfbf06fada4c20bb":[0,0,0,0,1,0,3],
-"class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html#acc4327dccff2ec3cdfbf06fada4c20bb":[1,0,0,0,1,0,3],
 "class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html#acdd7272525a87da49888a22fa158ee68":[0,0,0,0,1,0,2],
 "class_code_smile_1_1_components_1_1_registry_1_1_components_registry.html#acdd7272525a87da49888a22fa158ee68":[1,0,0,0,1,0,2],
 "class_code_smile_1_1_components_1_1_utility_1_1_mono_singleton.html":[0,0,0,0,2,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX1 =
 "class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#a8ff48a2582ec98c94ad1f27fc78a83c0":[0,0,0,2,6,0,8],
 "class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#a8ff48a2582ec98c94ad1f27fc78a83c0":[1,0,0,2,6,0,8],
 "class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#a9d33a8c12501ccdeaaf6be911a025800":[0,0,0,2,6,0,20],
-"class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#a9d33a8c12501ccdeaaf6be911a025800":[1,0,0,2,6,0,20]
+"class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#a9d33a8c12501ccdeaaf6be911a025800":[1,0,0,2,6,0,20],
+"class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#aa080e74e7f5efdc69e57da7a5545ab13":[0,0,0,2,6,0,9],
+"class_code_smile_1_1_multi_pal_1_1_player_controller_1_1_player_controller_base.html#aa080e74e7f5efdc69e57da7a5545ab13":[1,0,0,2,6,0,9]
 };

@@ -1,15 +1,15 @@
 <map id="PA1A.Items.IStackContainer" name="PA1A.Items.IStackContainer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,411,160"/>
-<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="122,208,321,320"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,174,254,210,249,207,269,172"/>
-<area shape="rect" id="Node000006" href="$interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="345,208,492,320"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="371,172,391,207,386,210,367,174"/>
-<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_container.html" title=" " alt="" coords="145,368,297,715"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,335,224,369,219,369,219,335"/>
-<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="5,763,219,896"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="153,729,139,764,134,762,148,727"/>
-<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="243,763,421,896"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="296,727,309,762,304,764,291,729"/>
-<area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="345,421,492,661"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="421,335,421,422,416,422,416,335"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,411,181"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_container.html" title=" " alt="" coords="122,251,321,363"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,195,249,252,244,250,271,193"/>
+<area shape="rect" id="Node000006" href="$interface_p_a1_a_1_1_items_1_1_i_slot.html" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="345,229,492,384"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="369,194,386,229,381,231,364,196"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_container.html" title=" " alt="" coords="145,432,297,800"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="224,377,224,433,219,433,219,377"/>
+<area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html" title=" " alt="" coords="5,848,219,981"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,815,139,849,134,847,146,813"/>
+<area shape="rect" id="Node000005" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html" title="Fixed size IContainer with fixed number of ISlot" alt="" coords="243,848,421,981"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="297,813,310,847,305,849,292,815"/>
+<area shape="rect" id="Node000007" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="345,485,492,747"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="421,399,421,485,416,485,416,399"/>
 </map>

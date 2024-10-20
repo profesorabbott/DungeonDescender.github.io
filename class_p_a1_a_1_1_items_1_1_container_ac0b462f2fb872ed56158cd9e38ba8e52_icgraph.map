@@ -1,0 +1,6 @@
+<map id="PA1A.Items.Container.Take" name="PA1A.Items.Container.Take">
+<area shape="rect" id="Node000001" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="266,29,449,56"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="400,17,386,10,357,8,331,10,317,15,314,20,320,27,316,31,309,21,314,11,330,5,357,3,387,5,402,12"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_u_i_1_1_slot_u_i.html#a44ae4af293348ca9cd7af64f634b6e94" title=" " alt="" coords="5,21,218,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,45,218,45,218,40,250,40"/>
+</map>

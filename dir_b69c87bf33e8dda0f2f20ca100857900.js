@@ -1,5 +1,6 @@
 var dir_b69c87bf33e8dda0f2f20ca100857900 =
 [
+    [ "Item Types", "dir_c829044499df2cd7ec0c972137ef89d7.html", "dir_c829044499df2cd7ec0c972137ef89d7" ],
     [ "UI", "dir_d9057d8a54970c6291b496335020b313.html", "dir_d9057d8a54970c6291b496335020b313" ],
     [ "ConsumableItem.cs", "_consumable_item_8cs.html", "_consumable_item_8cs" ],
     [ "Container.cs", "_container_8cs.html", "_container_8cs" ],
@@ -12,13 +13,9 @@ var dir_b69c87bf33e8dda0f2f20ca100857900 =
     [ "Item.cs", "_item_8cs.html", "_item_8cs" ],
     [ "ItemFactory.cs", "_item_factory_8cs.html", "_item_factory_8cs" ],
     [ "ItemStack.cs", "_item_stack_8cs.html", "_item_stack_8cs" ],
-    [ "MeleeItem.cs", "_melee_item_8cs.html", "_melee_item_8cs" ],
     [ "PlayerInventory.cs", "_player_inventory_8cs.html", "_player_inventory_8cs" ],
     [ "Projectile.cs", "_projectile_8cs.html", "_projectile_8cs" ],
-    [ "RangedItem.cs", "_ranged_item_8cs.html", "_ranged_item_8cs" ],
     [ "Rarity.cs", "_rarity_8cs.html", "_rarity_8cs" ],
-    [ "ResourceItem.cs", "_resource_item_8cs.html", "_resource_item_8cs" ],
     [ "Slot.cs", "_slot_8cs.html", "_slot_8cs" ],
-    [ "SlotTag.cs", "_slot_tag_8cs.html", "_slot_tag_8cs" ],
-    [ "WeaponItem.cs", "_weapon_item_8cs.html", "_weapon_item_8cs" ]
+    [ "SlotTag.cs", "_slot_tag_8cs.html", "_slot_tag_8cs" ]
 ];

@@ -31,15 +31,15 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="class_p_a1_a_1_1_items_1_1_weapon_item.html" target="_top" xlink:title="Represents an abstract base class for weapon items in the game.">
-<polygon fill="white" stroke="none" points="211,-156 133,-156 133,-104 211,-104 211,-156"/>
+<polygon fill="white" stroke="none" points="215,-156 129,-156 129,-104 215,-104 215,-156"/>
 <text text-anchor="start" x="144.62" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">WeaponItem</text>
-<text text-anchor="start" x="137" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="147" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbility</text>
+<text text-anchor="start" x="133" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="143" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbilities</text>
 <text text-anchor="start" x="170.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polygon fill="#666666" stroke="#666666" points="133,-138 133,-138 211,-138 211,-138 133,-138"/>
-<polygon fill="#666666" stroke="#666666" points="133,-122 133,-122 145,-122 145,-122 133,-122"/>
-<polygon fill="#666666" stroke="#666666" points="145,-122 145,-122 211,-122 211,-122 145,-122"/>
-<polygon fill="none" stroke="#666666" points="133,-104 133,-156 211,-156 211,-104 133,-104"/>
+<polygon fill="#666666" stroke="#666666" points="129,-138 129,-138 215,-138 215,-138 129,-138"/>
+<polygon fill="#666666" stroke="#666666" points="129,-122 129,-122 141,-122 141,-122 129,-122"/>
+<polygon fill="#666666" stroke="#666666" points="141,-122 141,-122 215,-122 215,-122 141,-122"/>
+<polygon fill="none" stroke="#666666" points="129,-104 129,-156 215,-156 215,-104 129,-104"/>
 </a>
 </g>
 </g>

@@ -1,5 +1,5 @@
 <map id="PA1A.Building.BuildingSystemNetworkManager" name="PA1A.Building.BuildingSystemNetworkManager">
-<area shape="rect" id="Node000001" title="Represents a network manager for the building system." alt="" coords="5,160,196,331"/>
-<area shape="rect" id="Node000002" href="$class_network_singleton.html" title=" " alt="" coords="14,5,187,112"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,127,103,160,98,160,98,127"/>
+<area shape="rect" id="Node000001" title="Represents a network manager for the building system." alt="" coords="5,181,196,352"/>
+<area shape="rect" id="Node000002" href="$class_network_singleton.html" title=" " alt="" coords="14,5,187,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,148,103,181,98,181,98,148"/>
 </map>

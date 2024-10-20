@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="class_p_a1_a_1_1_items_1_1_flexible_size_container.html#aa224aa134f3da8d02dd052397889670f" target="_top" xlink:title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS...">
+<g id="a_Node000002"><a xlink:href="class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a8c03a40b4c7c6ca478f42c2b686af17e" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="190.75,-108 0,-108 0,-88 190.75,-88 190.75,-108"/>
 <text text-anchor="middle" x="95.38" y="-94.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.FlexibleSizeContainer.Take</text>
 </a>
@@ -38,7 +38,7 @@
 <!-- Node3 -->
 <g id="Node000003" class="node">
 <title>Node3</title>
-<g id="a_Node000003"><a xlink:href="class_p_a1_a_1_1_items_1_1_player_inventory.html#a4915f1766461f3a03808a3f3ff90f65a" target="_top" xlink:title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS...">
+<g id="a_Node000003"><a xlink:href="class_p_a1_a_1_1_items_1_1_player_inventory.html#a47f9c37eca0997a554980dd4800acf10" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="176.88,-70 13.88,-70 13.88,-50 176.88,-50 176.88,-70"/>
 <text text-anchor="middle" x="95.38" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.PlayerInventory.Take</text>
 </a>

@@ -1,7 +1,7 @@
 <map id="PA1A.Items.ISlot" name="PA1A.Items.ISlot">
-<area shape="rect" id="Node000001" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="5,208,152,320"/>
-<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="5,368,152,608"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,335,81,368,76,368,76,335"/>
-<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="25,5,132,160"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,175,81,208,76,208,76,175"/>
+<area shape="rect" id="Node000001" title="Represents a ISlot that contains a single Sacados.ItemStack" alt="" coords="5,229,152,384"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_slot.html" title="Basic implementation of ISlot" alt="" coords="5,432,152,693"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,399,81,432,76,432,76,399"/>
+<area shape="rect" id="Node000002" href="$interface_p_a1_a_1_1_items_1_1_i_stack_container.html" title=" " alt="" coords="25,5,132,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,196,81,230,76,230,76,196"/>
 </map>

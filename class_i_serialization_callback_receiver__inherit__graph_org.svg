@@ -26,26 +26,34 @@
 <g id="Node000002" class="node">
 <title>Node2</title>
 <g id="a_Node000002"><a xlink:href="class_p_a1_a_1_1_abilities_1_1_ability.html" target="_top" xlink:title="Base class for all abilities.">
-<polygon fill="white" stroke="none" points="337.5,-556 231.5,-556 231.5,-424 337.5,-424 337.5,-556"/>
-<text text-anchor="start" x="238.38" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Abilities.Ability</text>
+<polygon fill="white" stroke="none" points="337.5,-588 231.5,-588 231.5,-392 337.5,-392 337.5,-588"/>
+<text text-anchor="start" x="238.38" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Abilities.Ability</text>
+<text text-anchor="start" x="235.5" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="245.5" y="-558.5" font-family="Helvetica,sans-Serif" font-size="10.00">GUID</text>
+<text text-anchor="start" x="235.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="245.5" y="-542.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileID</text>
 <text text-anchor="start" x="235.5" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00">GUID</text>
+<text text-anchor="start" x="245.5" y="-526.5" font-family="Helvetica,sans-Serif" font-size="10.00">Name</text>
 <text text-anchor="start" x="235.5" y="-510.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-510.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileID</text>
+<text text-anchor="start" x="245.5" y="-510.5" font-family="Helvetica,sans-Serif" font-size="10.00">IsInstant</text>
 <text text-anchor="start" x="235.5" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">Name</text>
+<text text-anchor="start" x="245.5" y="-494.5" font-family="Helvetica,sans-Serif" font-size="10.00">Duration</text>
 <text text-anchor="start" x="235.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
+<text text-anchor="start" x="245.5" y="-478.5" font-family="Helvetica,sans-Serif" font-size="10.00">Apply()</text>
 <text text-anchor="start" x="235.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">OnAfterDeserialize()</text>
+<text text-anchor="start" x="245.5" y="-462.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
 <text text-anchor="start" x="235.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">OnBeforeSerialize()</text>
+<text text-anchor="start" x="245.5" y="-446.5" font-family="Helvetica,sans-Serif" font-size="10.00">UnApply()</text>
 <text text-anchor="start" x="235.5" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="245.5" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">Equals()</text>
-<polygon fill="#666666" stroke="#666666" points="231.5,-538 231.5,-538 337.5,-538 337.5,-538 231.5,-538"/>
+<text text-anchor="start" x="245.5" y="-430.5" font-family="Helvetica,sans-Serif" font-size="10.00">OnAfterDeserialize()</text>
+<text text-anchor="start" x="235.5" y="-414.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="245.5" y="-414.5" font-family="Helvetica,sans-Serif" font-size="10.00">OnBeforeSerialize()</text>
+<text text-anchor="start" x="235.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="245.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">Equals()</text>
+<polygon fill="#666666" stroke="#666666" points="231.5,-570 231.5,-570 337.5,-570 337.5,-570 231.5,-570"/>
 <polygon fill="#666666" stroke="#666666" points="231.5,-490 231.5,-490 243.5,-490 243.5,-490 231.5,-490"/>
 <polygon fill="#666666" stroke="#666666" points="243.5,-490 243.5,-490 337.5,-490 337.5,-490 243.5,-490"/>
-<polygon fill="none" stroke="#666666" points="231.5,-424 231.5,-556 337.5,-556 337.5,-424 231.5,-424"/>
+<polygon fill="none" stroke="#666666" points="231.5,-392 231.5,-588 337.5,-588 337.5,-392 231.5,-392"/>
 </a>
 </g>
 </g>
@@ -53,7 +61,7 @@
 <g id="edge1_Node000001_Node000002" class="edge">
 <title>Node1&#45;&gt;Node2</title>
 <g id="a_edge1_Node000001_Node000002"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M344.24,-629.6C335.08,-608.36 323.16,-580.69 312.38,-555.67"/>
+<path fill="none" stroke="#63b8ff" d="M344.31,-629.76C338.95,-617.33 332.64,-602.69 326.16,-587.66"/>
 <polygon fill="none" stroke="#63b8ff" points="340.98,-630.88 348.16,-638.68 347.41,-628.11 340.98,-630.88"/>
 </a>
 </g>
@@ -115,7 +123,7 @@
 <text text-anchor="start" x="17" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="40" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">damageAmount</text>
 <text text-anchor="start" x="17" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="40" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
+<text text-anchor="start" x="40" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">Apply()</text>
 <polygon fill="#666666" stroke="#666666" points="0,-274 0,-274 139,-274 139,-274 0,-274"/>
 <polygon fill="#666666" stroke="#666666" points="0,-258 0,-258 38,-258 38,-258 0,-258"/>
 <polygon fill="#666666" stroke="#666666" points="38,-258 38,-258 139,-258 139,-258 38,-258"/>
@@ -136,14 +144,18 @@
 <g id="Node000004" class="node">
 <title>Node4</title>
 <g id="a_Node000004"><a xlink:href="class_p_a1_a_1_1_abilities_1_1_fireability.html" target="_top" xlink:title="Represents a fire ability.">
-<polygon fill="white" stroke="none" points="274,-292 157,-292 157,-240 274,-240 274,-292"/>
-<text text-anchor="start" x="161.88" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Abilities.Fireability</text>
-<text text-anchor="start" x="214" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polygon fill="white" stroke="none" points="274,-308 157,-308 157,-224 274,-224 274,-308"/>
+<text text-anchor="start" x="161.88" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Abilities.Fireability</text>
+<text text-anchor="start" x="214" y="-278.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="175" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="199" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">Apply()</text>
 <text text-anchor="start" x="175" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="199" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
+<text text-anchor="start" x="175" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="199" y="-230.5" font-family="Helvetica,sans-Serif" font-size="10.00">UnApply()</text>
+<polygon fill="#666666" stroke="#666666" points="157,-290 157,-290 274,-290 274,-290 157,-290"/>
 <polygon fill="#666666" stroke="#666666" points="157,-274 157,-274 274,-274 274,-274 157,-274"/>
-<polygon fill="#666666" stroke="#666666" points="157,-258 157,-258 274,-258 274,-258 157,-258"/>
-<polygon fill="none" stroke="#666666" points="157,-240 157,-292 274,-292 274,-240 157,-240"/>
+<polygon fill="none" stroke="#666666" points="157,-224 157,-308 274,-308 274,-224 157,-224"/>
 </a>
 </g>
 </g>
@@ -151,8 +163,8 @@
 <g id="edge3_Node000002_Node000004" class="edge">
 <title>Node2&#45;&gt;Node4</title>
 <g id="a_edge3_Node000002_Node000004"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M260.98,-413.34C247.84,-371.06 232.33,-321.15 223.24,-291.89"/>
-<polygon fill="none" stroke="#63b8ff" points="257.6,-414.24 263.91,-422.75 264.28,-412.16 257.6,-414.24"/>
+<path fill="none" stroke="#63b8ff" d="M251.07,-381.45C242.91,-355.18 234.66,-328.65 228.17,-307.76"/>
+<polygon fill="none" stroke="#63b8ff" points="247.68,-382.32 253.99,-390.83 254.36,-380.24 247.68,-382.32"/>
 </a>
 </g>
 </g>
@@ -165,7 +177,7 @@
 <text text-anchor="start" x="309.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="332.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">healAmount</text>
 <text text-anchor="start" x="309.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="332.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
+<text text-anchor="start" x="332.5" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">Apply()</text>
 <polygon fill="#666666" stroke="#666666" points="292.5,-274 292.5,-274 414.5,-274 414.5,-274 292.5,-274"/>
 <polygon fill="#666666" stroke="#666666" points="292.5,-258 292.5,-258 330.5,-258 330.5,-258 292.5,-258"/>
 <polygon fill="#666666" stroke="#666666" points="330.5,-258 330.5,-258 414.5,-258 414.5,-258 330.5,-258"/>
@@ -177,8 +189,8 @@
 <g id="edge4_Node000002_Node000005" class="edge">
 <title>Node2&#45;&gt;Node5</title>
 <g id="a_edge4_Node000002_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M308.02,-413.34C321.16,-371.06 336.67,-321.15 345.76,-291.89"/>
-<polygon fill="none" stroke="#63b8ff" points="304.72,-412.16 305.09,-422.75 311.4,-414.24 304.72,-412.16"/>
+<path fill="none" stroke="#63b8ff" d="M317.94,-381.41C328.37,-347.86 338.93,-313.89 345.8,-291.79"/>
+<polygon fill="none" stroke="#63b8ff" points="314.64,-380.24 315.01,-390.83 321.32,-382.32 314.64,-380.24"/>
 </a>
 </g>
 </g>
@@ -253,7 +265,7 @@
 <polygon fill="white" stroke="none" points="499,-156 360,-156 360,-104 499,-104 499,-156"/>
 <text text-anchor="start" x="364.62" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.ConsumableItem</text>
 <text text-anchor="start" x="383.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="413" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">ability</text>
+<text text-anchor="start" x="413" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">abilities</text>
 <text text-anchor="start" x="383.5" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="413" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
 <polygon fill="#666666" stroke="#666666" points="360,-138 360,-138 499,-138 499,-138 360,-138"/>
@@ -278,12 +290,12 @@
 <g id="a_Node000009"><a xlink:href="class_p_a1_a_1_1_items_1_1_weapon_item.html" target="_top" xlink:title="Represents an abstract base class for weapon items in the game.">
 <polygon fill="white" stroke="none" points="637.5,-156 517.5,-156 517.5,-104 637.5,-104 637.5,-156"/>
 <text text-anchor="start" x="522.38" y="-142.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.WeaponItem</text>
-<text text-anchor="start" x="532" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="552.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbility</text>
+<text text-anchor="start" x="530" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="548.5" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">weaponAbilities</text>
 <text text-anchor="start" x="576" y="-110.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 <polygon fill="#666666" stroke="#666666" points="517.5,-138 517.5,-138 637.5,-138 637.5,-138 517.5,-138"/>
-<polygon fill="#666666" stroke="#666666" points="517.5,-122 517.5,-122 550.5,-122 550.5,-122 517.5,-122"/>
-<polygon fill="#666666" stroke="#666666" points="550.5,-122 550.5,-122 637.5,-122 637.5,-122 550.5,-122"/>
+<polygon fill="#666666" stroke="#666666" points="517.5,-122 517.5,-122 546.5,-122 546.5,-122 517.5,-122"/>
+<polygon fill="#666666" stroke="#666666" points="546.5,-122 546.5,-122 637.5,-122 637.5,-122 546.5,-122"/>
 <polygon fill="none" stroke="#666666" points="517.5,-104 517.5,-156 637.5,-156 637.5,-104 517.5,-104"/>
 </a>
 </g>

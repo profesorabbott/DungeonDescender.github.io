@@ -1,109 +1,109 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
 <area shape="rect" id="Node000000" href="$interface_code_smile_1_1_statemachine_1_1_i_statemachine_events.html" title="Event methods that the Statemachine calls at specific times." alt="" coords="5,1276,263,1319"/>
 <area shape="rect" id="Node000001" href="$interface_code_smile_1_1_statemachine_1_1_i_action.html" title="Marks a class as a FSM Action." alt="" coords="320,580,534,607"/>
-<area shape="poly" id="edge110_Node000000_Node000001" title=" " alt="" coords="148,1261,417,606,422,608,153,1263"/>
+<area shape="poly" id="edge113_Node000000_Node000001" title=" " alt="" coords="148,1261,417,606,422,608,153,1263"/>
 <area shape="rect" id="Node000022" href="$interface_code_smile_1_1_statemachine_1_1_i_condition.html" title="Marks a class as a FSM Condition." alt="" coords="311,1955,543,1981"/>
-<area shape="poly" id="edge131_Node000000_Node000022" title=" " alt="" coords="153,1332,422,1953,417,1955,148,1334"/>
+<area shape="poly" id="edge134_Node000000_Node000022" title=" " alt="" coords="153,1332,422,1953,417,1955,148,1334"/>
 <area shape="rect" id="Node000002" href="$class_code_smile_1_1_statemachine_1_1_actions_1_1_compound_action.html" title="Used to combine multiple FSM actions into a single, named action." alt="" coords="608,5,830,48"/>
-<area shape="poly" id="edge111_Node000001_Node000002" title=" " alt="" coords="425,564,430,468,438,403,451,332,472,258,501,185,539,117,563,86,589,58,606,45,610,49,593,62,567,90,544,120,505,188,477,260,457,333,443,404,435,468,430,565"/>
+<area shape="poly" id="edge114_Node000001_Node000002" title=" " alt="" coords="425,564,430,468,438,403,451,332,472,258,501,185,539,117,563,86,589,58,606,45,610,49,593,62,567,90,544,120,505,188,477,260,457,333,443,404,435,468,430,565"/>
 <area shape="rect" id="Node000003" href="$class_code_smile_1_1_statemachine_1_1_actions_1_1_lambda_action.html" title="Generic Action that executes a lambda (System.Action)." alt="" coords="608,72,830,115"/>
-<area shape="poly" id="edge112_Node000001_Node000003" title=" " alt="" coords="427,564,435,478,445,422,460,360,481,296,508,234,544,176,589,125,607,112,610,116,593,129,549,179,513,236,486,298,465,361,450,423,441,479,432,565"/>
+<area shape="poly" id="edge115_Node000001_Node000003" title=" " alt="" coords="427,564,435,478,445,422,460,360,481,296,508,234,544,176,589,125,607,112,610,116,593,129,549,179,513,236,486,298,465,361,450,423,441,479,432,565"/>
 <area shape="rect" id="Node000004" href="$interface_code_smile_1_1_statemachine_1_1_i_async_action.html" title="Marks a class as an asynchronous (awaitable) FSM Action." alt="" coords="612,139,826,181"/>
-<area shape="poly" id="edge113_Node000001_Node000004" title=" " alt="" coords="429,564,441,489,469,389,490,335,516,283,549,234,589,191,610,177,613,182,593,195,553,237,521,285,494,337,474,390,446,491,434,565"/>
+<area shape="poly" id="edge116_Node000001_Node000004" title=" " alt="" coords="429,564,441,489,469,389,490,335,516,283,549,234,589,191,610,177,613,182,593,195,553,237,521,285,494,337,474,390,446,491,434,565"/>
 <area shape="rect" id="Node000008" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_network_start.html" title="Calls NetworkManager StartClient/StartHost/StartServer based on the provided config variable." alt="" coords="606,205,832,248"/>
-<area shape="poly" id="edge117_Node000001_Node000008" title=" " alt="" coords="431,564,448,501,478,418,499,374,524,332,554,292,589,258,607,246,610,251,593,262,558,296,528,335,503,377,483,420,453,502,436,565"/>
+<area shape="poly" id="edge120_Node000001_Node000008" title=" " alt="" coords="431,564,448,501,478,418,499,374,524,332,554,292,589,258,607,246,610,251,593,262,558,296,528,335,503,377,483,420,453,502,436,565"/>
 <area shape="rect" id="Node000009" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_network_stop.html" title="Stops networking, ie calls NetworkManager Shutdown()." alt="" coords="606,272,832,315"/>
-<area shape="poly" id="edge118_Node000001_Node000009" title=" " alt="" coords="435,564,455,513,487,448,532,381,559,351,589,325,608,313,611,318,593,329,563,355,536,384,492,450,460,515,440,566"/>
+<area shape="poly" id="edge121_Node000001_Node000009" title=" " alt="" coords="435,564,455,513,487,448,532,381,559,351,589,325,608,313,611,318,593,329,563,355,536,384,492,450,460,515,440,566"/>
 <area shape="rect" id="Node000010" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_set_netcode_role.html" title="Sets the role in the NetcodeConfig var to the given value (Server, Host, Client or None)." alt="" coords="606,339,832,381"/>
-<area shape="poly" id="edge119_Node000001_Node000010" title=" " alt="" coords="440,565,464,526,497,479,540,431,590,391,611,380,614,384,592,396,544,435,502,482,468,529,445,568"/>
+<area shape="poly" id="edge122_Node000001_Node000010" title=" " alt="" coords="440,565,464,526,497,479,540,431,590,391,611,380,614,384,592,396,544,435,502,482,468,529,445,568"/>
 <area shape="rect" id="Node000011" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_actions_1_1_transport_setup.html" title="Configures NetworkManager&#39;s Transport from config variables." alt="" coords="606,405,832,448"/>
-<area shape="poly" id="edge120_Node000001_Node000011" title=" " alt="" coords="449,567,509,512,548,483,590,458,617,446,619,451,592,462,551,487,513,516,453,571"/>
+<area shape="poly" id="edge123_Node000001_Node000011" title=" " alt="" coords="449,567,509,512,548,483,590,458,617,446,619,451,592,462,551,487,513,516,453,571"/>
 <area shape="rect" id="Node000012" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_clear_allocation_data.html" title="Clears the allocations from the RelayConfig variable." alt="" coords="591,472,847,515"/>
-<area shape="poly" id="edge121_Node000001_Node000012" title=" " alt="" coords="471,571,590,524,628,513,629,518,592,529,473,576"/>
+<area shape="poly" id="edge124_Node000001_Node000012" title=" " alt="" coords="471,571,590,524,628,513,629,518,592,529,473,576"/>
 <area shape="rect" id="Node000013" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_add_value.html" title="Adds a value to a variable." alt="" coords="608,539,831,581"/>
-<area shape="poly" id="edge122_Node000001_Node000013" title=" " alt="" coords="549,577,607,570,608,575,550,582"/>
+<area shape="poly" id="edge125_Node000001_Node000013" title=" " alt="" coords="549,577,607,570,608,575,550,582"/>
 <area shape="rect" id="Node000014" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_dec_value.html" title="Decrements an integer variable by 1." alt="" coords="608,605,831,648"/>
-<area shape="poly" id="edge123_Node000001_Node000014" title=" " alt="" coords="550,605,608,611,607,617,549,610"/>
+<area shape="poly" id="edge126_Node000001_Node000014" title=" " alt="" coords="550,605,608,611,607,617,549,610"/>
 <area shape="rect" id="Node000015" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_div_value.html" title="Divides the variable by a value." alt="" coords="608,672,831,715"/>
-<area shape="poly" id="edge124_Node000001_Node000015" title=" " alt="" coords="473,611,592,657,629,669,628,674,590,663,471,616"/>
+<area shape="poly" id="edge127_Node000001_Node000015" title=" " alt="" coords="473,611,592,657,629,669,628,674,590,663,471,616"/>
 <area shape="rect" id="Node000016" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_inc_value.html" title="Increments an integer value by 1." alt="" coords="608,739,831,781"/>
-<area shape="poly" id="edge125_Node000001_Node000016" title=" " alt="" coords="453,616,513,671,551,700,592,724,619,736,617,741,590,729,548,704,509,675,449,620"/>
+<area shape="poly" id="edge128_Node000001_Node000016" title=" " alt="" coords="453,616,513,671,551,700,592,724,619,736,617,741,590,729,548,704,509,675,449,620"/>
 <area shape="rect" id="Node000017" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_mul_value.html" title="Multiplies variable by a value." alt="" coords="608,805,831,848"/>
-<area shape="poly" id="edge126_Node000001_Node000017" title=" " alt="" coords="445,619,468,657,502,704,544,751,592,791,614,802,611,807,590,796,540,755,497,708,464,660,440,621"/>
+<area shape="poly" id="edge129_Node000001_Node000017" title=" " alt="" coords="445,619,468,657,502,704,544,751,592,791,614,802,611,807,590,796,540,755,497,708,464,660,440,621"/>
 <area shape="rect" id="Node000018" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_false.html" title="Sets a bool variable to false." alt="" coords="608,872,831,915"/>
-<area shape="poly" id="edge127_Node000001_Node000018" title=" " alt="" coords="440,620,460,672,492,736,536,802,563,832,593,858,611,869,608,874,589,862,559,836,532,805,487,739,455,674,435,622"/>
+<area shape="poly" id="edge130_Node000001_Node000018" title=" " alt="" coords="440,620,460,672,492,736,536,802,563,832,593,858,611,869,608,874,589,862,559,836,532,805,487,739,455,674,435,622"/>
 <area shape="rect" id="Node000019" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_true.html" title="Sets a bool variable to true." alt="" coords="608,939,831,981"/>
-<area shape="poly" id="edge128_Node000001_Node000019" title=" " alt="" coords="436,621,453,685,483,767,503,810,528,852,558,891,593,925,610,936,607,940,589,929,554,894,524,855,499,813,478,769,448,686,431,623"/>
+<area shape="poly" id="edge131_Node000001_Node000019" title=" " alt="" coords="436,621,453,685,483,767,503,810,528,852,558,891,593,925,610,936,607,940,589,929,554,894,524,855,499,813,478,769,448,686,431,623"/>
 <area shape="rect" id="Node000020" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_set_value.html" title="Assigns a value to the variable." alt="" coords="608,1005,831,1048"/>
-<area shape="poly" id="edge129_Node000001_Node000020" title=" " alt="" coords="434,622,446,696,474,796,494,849,521,901,553,950,593,991,609,1003,606,1007,589,995,549,953,516,904,490,852,469,798,441,697,429,622"/>
+<area shape="poly" id="edge132_Node000001_Node000020" title=" " alt="" coords="434,622,446,696,474,796,494,849,521,901,553,950,593,991,609,1003,606,1007,589,995,549,953,516,904,490,852,469,798,441,697,429,622"/>
 <area shape="rect" id="Node000021" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_actions_1_1_sub_value.html" title="Subtracts variable by a value." alt="" coords="608,1072,831,1115"/>
-<area shape="poly" id="edge130_Node000001_Node000021" title=" " alt="" coords="432,622,441,708,450,764,465,825,486,889,513,950,549,1008,593,1058,609,1070,605,1074,589,1062,544,1011,508,953,481,890,460,827,445,765,435,708,427,623"/>
+<area shape="poly" id="edge133_Node000001_Node000021" title=" " alt="" coords="432,622,441,708,450,764,465,825,486,889,513,950,549,1008,593,1058,609,1070,605,1074,589,1062,544,1011,508,953,481,890,460,827,445,765,435,708,427,623"/>
 <area shape="rect" id="Node000005" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_actions_1_1_sign_in_anonymously.html" title="Calls SignInAnonymouslyAsync." alt="" coords="896,72,1169,115"/>
-<area shape="poly" id="edge114_Node000004_Node000005" title=" " alt="" coords="837,132,928,113,930,118,838,138"/>
+<area shape="poly" id="edge117_Node000004_Node000005" title=" " alt="" coords="837,132,928,113,930,118,838,138"/>
 <area shape="rect" id="Node000006" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_core_1_1_actions_1_1_unity_services_init.html" title="Initialize Unity Gaming Services." alt="" coords="918,139,1147,181"/>
-<area shape="poly" id="edge115_Node000004_Node000006" title=" " alt="" coords="842,157,918,157,918,163,842,163"/>
+<area shape="poly" id="edge118_Node000004_Node000006" title=" " alt="" coords="842,157,918,157,918,163,842,163"/>
 <area shape="rect" id="Node000007" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_actions_1_1_relay_create_or_join_allocation.html" title="Initializes Relay." alt="" coords="895,205,1170,248"/>
-<area shape="poly" id="edge116_Node000004_Node000007" title=" " alt="" coords="838,182,930,202,928,207,837,188"/>
+<area shape="poly" id="edge119_Node000004_Node000007" title=" " alt="" coords="838,182,930,202,928,207,837,188"/>
 <area shape="rect" id="Node000023" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_compound_condition.html" title="Used to combine multiple FSM conditions into a single, named condition." alt="" coords="600,1139,839,1181"/>
-<area shape="poly" id="edge132_Node000022_Node000023" title=" " alt="" coords="428,1939,442,1785,472,1560,494,1444,520,1338,552,1251,570,1217,589,1191,603,1180,606,1184,593,1195,574,1220,557,1253,525,1340,499,1446,477,1561,447,1786,433,1940"/>
+<area shape="poly" id="edge135_Node000022_Node000023" title=" " alt="" coords="428,1939,442,1785,472,1560,494,1444,520,1338,552,1251,570,1217,589,1191,603,1180,606,1184,593,1195,574,1220,557,1253,525,1340,499,1446,477,1561,447,1786,433,1940"/>
 <area shape="rect" id="Node000024" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_lambda_condition.html" title="Generic Condition that simply executes a lambda (System.Func&lt;bool&gt;)." alt="" coords="600,1205,839,1248"/>
-<area shape="poly" id="edge133_Node000022_Node000024" title=" " alt="" coords="428,1939,444,1796,476,1592,498,1487,524,1391,554,1312,571,1281,589,1258,604,1246,607,1250,593,1262,575,1284,559,1314,529,1393,503,1488,481,1593,450,1797,434,1940"/>
+<area shape="poly" id="edge136_Node000022_Node000024" title=" " alt="" coords="428,1939,444,1796,476,1592,498,1487,524,1391,554,1312,571,1281,589,1258,604,1246,607,1250,593,1262,575,1284,559,1314,529,1393,503,1488,481,1593,450,1797,434,1940"/>
 <area shape="rect" id="Node000025" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_logical_and.html" title="Logically ANDs the contained conditions." alt="" coords="600,1272,839,1315"/>
-<area shape="poly" id="edge134_Node000022_Node000025" title=" " alt="" coords="429,1939,447,1808,481,1624,503,1529,528,1443,557,1373,572,1346,589,1325,604,1313,607,1317,593,1329,577,1349,562,1375,533,1445,508,1531,486,1625,453,1809,434,1940"/>
+<area shape="poly" id="edge137_Node000022_Node000025" title=" " alt="" coords="429,1939,447,1808,481,1624,503,1529,528,1443,557,1373,572,1346,589,1325,604,1313,607,1317,593,1329,577,1349,562,1375,533,1445,508,1531,486,1625,453,1809,434,1940"/>
 <area shape="rect" id="Node000026" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_logical_nand.html" title="Logically combines the contained conditions with NAND (NOT AND)." alt="" coords="600,1339,839,1381"/>
-<area shape="poly" id="edge135_Node000022_Node000026" title=" " alt="" coords="424,1939,427,1837,434,1766,446,1689,466,1609,496,1530,536,1456,561,1422,589,1391,604,1380,607,1384,593,1395,565,1426,541,1459,501,1532,472,1611,452,1690,439,1767,432,1837,430,1940"/>
+<area shape="poly" id="edge138_Node000022_Node000026" title=" " alt="" coords="424,1939,427,1837,434,1766,446,1689,466,1609,496,1530,536,1456,561,1422,589,1391,604,1380,607,1384,593,1395,565,1426,541,1459,501,1532,472,1611,452,1690,439,1767,432,1837,430,1940"/>
 <area shape="rect" id="Node000027" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_logical_nor.html" title="Logically combines the contained conditions with NOR (NOT OR)." alt="" coords="600,1405,839,1448"/>
-<area shape="poly" id="edge136_Node000022_Node000027" title=" " alt="" coords="426,1939,432,1847,441,1785,455,1717,475,1647,504,1578,541,1514,589,1458,605,1446,608,1451,593,1462,545,1517,508,1581,480,1649,460,1719,446,1786,437,1847,431,1940"/>
+<area shape="poly" id="edge139_Node000022_Node000027" title=" " alt="" coords="426,1939,432,1847,441,1785,455,1717,475,1647,504,1578,541,1514,589,1458,605,1446,608,1451,593,1462,545,1517,508,1581,480,1649,460,1719,446,1786,437,1847,431,1940"/>
 <area shape="rect" id="Node000028" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_logical_not.html" title="Logically negates the contained condition (NOT)." alt="" coords="600,1472,839,1515"/>
-<area shape="poly" id="edge137_Node000022_Node000028" title=" " alt="" coords="427,1939,437,1858,448,1804,463,1746,484,1686,511,1627,546,1572,589,1525,605,1513,609,1517,593,1529,550,1576,516,1630,489,1688,468,1747,453,1805,443,1859,433,1940"/>
+<area shape="poly" id="edge140_Node000022_Node000028" title=" " alt="" coords="427,1939,437,1858,448,1804,463,1746,484,1686,511,1627,546,1572,589,1525,605,1513,609,1517,593,1529,550,1576,516,1630,489,1688,468,1747,453,1805,443,1859,433,1940"/>
 <area shape="rect" id="Node000029" href="$class_code_smile_1_1_statemachine_1_1_conditions_1_1_logical_or.html" title="Logically combines the contained conditions with OR." alt="" coords="600,1539,839,1581"/>
-<area shape="poly" id="edge138_Node000022_Node000029" title=" " alt="" coords="429,1939,444,1868,472,1774,493,1724,519,1676,551,1631,589,1591,606,1579,609,1584,593,1595,555,1634,524,1679,498,1727,477,1776,449,1869,435,1940"/>
+<area shape="poly" id="edge141_Node000022_Node000029" title=" " alt="" coords="429,1939,444,1868,472,1774,493,1724,519,1676,551,1631,589,1591,606,1579,609,1584,593,1595,555,1634,524,1679,498,1727,477,1776,449,1869,435,1940"/>
 <area shape="rect" id="Node000030" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_listening.html" title="Checks if NetworkManager&#39;s IsListening property is true (eg tests if online or offline)." alt="" coords="606,1605,832,1648"/>
-<area shape="poly" id="edge139_Node000022_Node000030" title=" " alt="" coords="432,1939,450,1880,481,1804,502,1764,527,1725,556,1689,589,1658,608,1646,610,1651,593,1662,560,1693,531,1728,507,1766,486,1806,455,1881,437,1940"/>
+<area shape="poly" id="edge142_Node000022_Node000030" title=" " alt="" coords="432,1939,450,1880,481,1804,502,1764,527,1725,556,1689,589,1658,608,1646,610,1651,593,1662,560,1693,531,1728,507,1766,486,1806,455,1881,437,1940"/>
 <area shape="rect" id="Node000031" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_connected.html" title="Tests if the client that this script executes on is currently connected to a network session." alt="" coords="606,1672,832,1715"/>
-<area shape="poly" id="edge140_Node000022_Node000031" title=" " alt="" coords="436,1940,458,1893,491,1835,535,1775,561,1748,589,1724,609,1713,612,1718,593,1729,564,1752,539,1778,495,1837,463,1895,441,1942"/>
+<area shape="poly" id="edge143_Node000022_Node000031" title=" " alt="" coords="436,1940,458,1893,491,1835,535,1775,561,1748,589,1724,609,1713,612,1718,593,1729,564,1752,539,1778,495,1837,463,1895,441,1942"/>
 <area shape="rect" id="Node000033" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_started.html" title="Is true after NetworkManager StartClient has been called until the client stops or a transport failur..." alt="" coords="606,1739,832,1781"/>
-<area shape="poly" id="edge142_Node000022_Node000033" title=" " alt="" coords="443,1940,502,1866,543,1825,590,1791,613,1780,615,1784,592,1796,547,1829,506,1869,448,1943"/>
+<area shape="poly" id="edge145_Node000022_Node000033" title=" " alt="" coords="443,1940,502,1866,543,1825,590,1791,613,1780,615,1784,592,1796,547,1829,506,1869,448,1943"/>
 <area shape="rect" id="Node000035" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_server_started.html" title="Is true after NetworkManager StartServer is called and until server stops or a transport failure occu..." alt="" coords="606,1805,832,1848"/>
-<area shape="poly" id="edge144_Node000022_Node000035" title=" " alt="" coords="455,1943,515,1900,590,1858,620,1846,622,1851,592,1862,518,1904,458,1947"/>
+<area shape="poly" id="edge147_Node000022_Node000035" title=" " alt="" coords="455,1943,515,1900,590,1858,620,1846,622,1851,592,1862,518,1904,458,1947"/>
 <area shape="rect" id="Node000037" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_netcode_role.html" title="Tests if the config variable&#39;s NetcodeRole matches the parameter." alt="" coords="606,1872,832,1915"/>
-<area shape="poly" id="edge146_Node000022_Node000037" title=" " alt="" coords="496,1948,632,1913,633,1918,497,1953"/>
+<area shape="poly" id="edge149_Node000022_Node000037" title=" " alt="" coords="496,1948,632,1913,633,1918,497,1953"/>
 <area shape="rect" id="Node000039" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_network_manager_singleton_assigned.html" title="Is true once NetworkManager singleton no longer returns null." alt="" coords="594,1939,845,1997"/>
-<area shape="poly" id="edge148_Node000022_Node000039" title=" " alt="" coords="558,1965,593,1965,593,1971,558,1971"/>
+<area shape="poly" id="edge151_Node000022_Node000039" title=" " alt="" coords="558,1965,593,1965,593,1971,558,1971"/>
 <area shape="rect" id="Node000040" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_network_offline.html" title="Tests if network is fully offline &#45; the server/host is not immediately offline after calling Shutdown..." alt="" coords="606,2021,832,2064"/>
-<area shape="poly" id="edge149_Node000022_Node000040" title=" " alt="" coords="497,1983,633,2018,632,2023,496,1988"/>
+<area shape="poly" id="edge152_Node000022_Node000040" title=" " alt="" coords="497,1983,633,2018,632,2023,496,1988"/>
 <area shape="rect" id="Node000041" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_not_listening.html" title="Is true if the NetworkManager IsListening state is false (offline)." alt="" coords="606,2088,832,2131"/>
-<area shape="poly" id="edge150_Node000022_Node000041" title=" " alt="" coords="458,1989,518,2032,592,2074,622,2085,620,2090,590,2078,515,2036,455,1993"/>
+<area shape="poly" id="edge153_Node000022_Node000041" title=" " alt="" coords="458,1989,518,2032,592,2074,622,2085,620,2090,590,2078,515,2036,455,1993"/>
 <area shape="rect" id="Node000042" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_signed_in.html" title="Is true if services are initialized and user is signed in." alt="" coords="601,2155,837,2197"/>
-<area shape="poly" id="edge151_Node000022_Node000042" title=" " alt="" coords="448,1993,506,2067,547,2107,592,2140,615,2152,613,2156,590,2145,543,2111,502,2070,443,1996"/>
+<area shape="poly" id="edge154_Node000022_Node000042" title=" " alt="" coords="448,1993,506,2067,547,2107,592,2140,615,2152,613,2156,590,2145,543,2111,502,2070,443,1996"/>
 <area shape="rect" id="Node000044" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_conditions_1_1_is_relay_enabled.html" title="Is true if the relay configuration has relay enabled." alt="" coords="605,2221,833,2264"/>
-<area shape="poly" id="edge153_Node000022_Node000044" title=" " alt="" coords="441,1994,463,2041,495,2099,539,2158,564,2184,593,2207,612,2218,609,2223,589,2212,561,2188,535,2161,491,2101,458,2043,436,1996"/>
+<area shape="poly" id="edge156_Node000022_Node000044" title=" " alt="" coords="441,1994,463,2041,495,2099,539,2158,564,2184,593,2207,612,2218,609,2223,589,2212,561,2188,535,2161,491,2101,458,2043,436,1996"/>
 <area shape="rect" id="Node000045" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_relay_1_1_conditions_1_1_is_relay_ready.html" title="Is true if RelayConfig has an allocation, be it a Host or Join allocation." alt="" coords="605,2288,833,2331"/>
-<area shape="poly" id="edge154_Node000022_Node000045" title=" " alt="" coords="437,1996,455,2055,486,2130,507,2170,531,2208,560,2243,593,2274,610,2285,608,2290,589,2278,556,2247,527,2211,502,2172,481,2132,450,2056,432,1997"/>
+<area shape="poly" id="edge157_Node000022_Node000045" title=" " alt="" coords="437,1996,455,2055,486,2130,507,2170,531,2208,560,2243,593,2274,610,2285,608,2290,589,2278,556,2247,527,2211,502,2172,481,2132,450,2056,432,1997"/>
 <area shape="rect" id="Node000046" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_equal.html" title="Tests if a variable equals a value or another variable." alt="" coords="608,2355,831,2397"/>
-<area shape="poly" id="edge155_Node000022_Node000046" title=" " alt="" coords="435,1996,449,2067,477,2160,498,2209,524,2257,555,2302,593,2341,609,2352,606,2357,589,2345,551,2305,519,2260,493,2212,472,2162,444,2068,429,1997"/>
+<area shape="poly" id="edge158_Node000022_Node000046" title=" " alt="" coords="435,1996,449,2067,477,2160,498,2209,524,2257,555,2302,593,2341,609,2352,606,2357,589,2345,551,2305,519,2260,493,2212,472,2162,444,2068,429,1997"/>
 <area shape="rect" id="Node000047" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_false.html" title="Tests if a bool variable is false." alt="" coords="608,2421,831,2464"/>
-<area shape="poly" id="edge156_Node000022_Node000047" title=" " alt="" coords="433,1996,443,2077,453,2131,468,2189,489,2248,516,2306,550,2360,593,2407,609,2419,605,2423,589,2411,546,2364,511,2309,484,2250,463,2190,448,2132,437,2078,427,1997"/>
+<area shape="poly" id="edge159_Node000022_Node000047" title=" " alt="" coords="433,1996,443,2077,453,2131,468,2189,489,2248,516,2306,550,2360,593,2407,609,2419,605,2423,589,2411,546,2364,511,2309,484,2250,463,2190,448,2132,437,2078,427,1997"/>
 <area shape="rect" id="Node000048" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_greater.html" title="Tests if a variable is greater than a value or another variable." alt="" coords="608,2488,831,2531"/>
-<area shape="poly" id="edge157_Node000022_Node000048" title=" " alt="" coords="431,1996,437,2089,446,2150,460,2217,480,2287,508,2355,545,2419,593,2474,609,2486,606,2490,589,2478,541,2422,504,2358,475,2289,455,2219,441,2151,432,2089,426,1997"/>
+<area shape="poly" id="edge160_Node000022_Node000048" title=" " alt="" coords="431,1996,437,2089,446,2150,460,2217,480,2287,508,2355,545,2419,593,2474,609,2486,606,2490,589,2478,541,2422,504,2358,475,2289,455,2219,441,2151,432,2089,426,1997"/>
 <area shape="rect" id="Node000049" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_greater_or_equal.html" title="Tests if a variable is greater than or equal to a value or another variable." alt="" coords="608,2555,831,2597"/>
-<area shape="poly" id="edge158_Node000022_Node000049" title=" " alt="" coords="430,1996,432,2099,439,2169,452,2246,472,2325,501,2404,541,2477,565,2510,593,2541,609,2553,606,2557,589,2545,561,2514,536,2480,496,2406,466,2327,446,2247,434,2170,427,2099,424,1997"/>
+<area shape="poly" id="edge161_Node000022_Node000049" title=" " alt="" coords="430,1996,432,2099,439,2169,452,2246,472,2325,501,2404,541,2477,565,2510,593,2541,609,2553,606,2557,589,2545,561,2514,536,2480,496,2406,466,2327,446,2247,434,2170,427,2099,424,1997"/>
 <area shape="rect" id="Node000050" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_less.html" title="Tests if a variable is less than a value or another variable." alt="" coords="608,2621,831,2664"/>
-<area shape="poly" id="edge159_Node000022_Node000050" title=" " alt="" coords="434,1996,453,2127,486,2311,508,2405,533,2491,562,2561,577,2587,593,2607,609,2620,605,2624,589,2611,572,2590,557,2563,528,2493,503,2407,481,2312,447,2128,429,1997"/>
+<area shape="poly" id="edge162_Node000022_Node000050" title=" " alt="" coords="434,1996,453,2127,486,2311,508,2405,533,2491,562,2561,577,2587,593,2607,609,2620,605,2624,589,2611,572,2590,557,2563,528,2493,503,2407,481,2312,447,2128,429,1997"/>
 <area shape="rect" id="Node000051" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_less_or_equal.html" title="Tests if a variable is less than or equal to a value or another variable." alt="" coords="608,2688,831,2731"/>
-<area shape="poly" id="edge160_Node000022_Node000051" title=" " alt="" coords="434,1996,450,2139,481,2343,503,2448,529,2543,559,2622,575,2652,593,2674,609,2687,605,2691,589,2678,571,2655,554,2624,524,2545,498,2449,476,2344,444,2140,428,1997"/>
+<area shape="poly" id="edge163_Node000022_Node000051" title=" " alt="" coords="434,1996,450,2139,481,2343,503,2448,529,2543,559,2622,575,2652,593,2674,609,2687,605,2691,589,2678,571,2655,554,2624,524,2545,498,2449,476,2344,444,2140,428,1997"/>
 <area shape="rect" id="Node000052" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_not_equal.html" title="Tests if a variable is not equal to a value or another variable." alt="" coords="608,2755,831,2797"/>
-<area shape="poly" id="edge161_Node000022_Node000052" title=" " alt="" coords="433,1996,447,2150,477,2375,499,2490,525,2596,557,2683,574,2716,593,2741,609,2754,606,2758,589,2745,570,2719,552,2685,520,2598,494,2492,472,2376,442,2151,428,1997"/>
+<area shape="poly" id="edge164_Node000022_Node000052" title=" " alt="" coords="433,1996,447,2150,477,2375,499,2490,525,2596,557,2683,574,2716,593,2741,609,2754,606,2758,589,2745,570,2719,552,2685,520,2598,494,2492,472,2376,442,2151,428,1997"/>
 <area shape="rect" id="Node000053" href="$class_code_smile_1_1_statemachine_1_1_variable_1_1_conditions_1_1_is_true.html" title="Tests if a bool variable is true." alt="" coords="608,2821,831,2864"/>
-<area shape="poly" id="edge162_Node000022_Node000053" title=" " alt="" coords="432,1996,445,2162,473,2406,494,2533,521,2649,554,2744,573,2780,593,2807,609,2821,606,2825,589,2811,568,2783,549,2746,516,2650,489,2534,468,2407,439,2163,427,1997"/>
+<area shape="poly" id="edge165_Node000022_Node000053" title=" " alt="" coords="432,1996,445,2162,473,2406,494,2533,521,2649,554,2744,573,2780,593,2807,609,2821,606,2825,589,2811,568,2783,549,2746,516,2650,489,2534,468,2407,439,2163,427,1997"/>
 <area shape="rect" id="Node000032" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_disconnected.html" title="Tests if the client that this script executes on is not connected to a network session." alt="" coords="911,1672,1154,1715"/>
-<area shape="poly" id="edge141_Node000031_Node000032" title=" " alt="" coords="848,1691,910,1691,910,1696,848,1696"/>
+<area shape="poly" id="edge144_Node000031_Node000032" title=" " alt="" coords="848,1691,910,1691,910,1696,848,1696"/>
 <area shape="rect" id="Node000034" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_client_stopped.html" title="Tests if the client is not in the started state." alt="" coords="919,1739,1146,1781"/>
-<area shape="poly" id="edge143_Node000033_Node000034" title=" " alt="" coords="848,1757,919,1757,919,1763,848,1763"/>
+<area shape="poly" id="edge146_Node000033_Node000034" title=" " alt="" coords="848,1757,919,1757,919,1763,848,1763"/>
 <area shape="rect" id="Node000036" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_local_server_stopped.html" title="Tests if the server is not in the started state." alt="" coords="919,1805,1146,1848"/>
-<area shape="poly" id="edge145_Node000035_Node000036" title=" " alt="" coords="848,1824,919,1824,919,1829,848,1829"/>
+<area shape="poly" id="edge148_Node000035_Node000036" title=" " alt="" coords="848,1824,919,1824,919,1829,848,1829"/>
 <area shape="rect" id="Node000038" href="$class_code_smile_1_1_statemachine_1_1_netcode_1_1_conditions_1_1_is_not_netcode_role.html" title="Is true if the Netcode variable&#39;s role does not match the parameter." alt="" coords="919,1872,1146,1915"/>
-<area shape="poly" id="edge147_Node000037_Node000038" title=" " alt="" coords="848,1891,919,1891,919,1896,848,1896"/>
+<area shape="poly" id="edge150_Node000037_Node000038" title=" " alt="" coords="848,1891,919,1891,919,1896,848,1896"/>
 <area shape="rect" id="Node000043" href="$class_code_smile_1_1_statemachine_1_1_services_1_1_authentication_1_1_conditions_1_1_is_not_signed_in.html" title="Is true if user is not signed in (not authenticated) or services are not initialized." alt="" coords="904,2155,1161,2197"/>
-<area shape="poly" id="edge152_Node000042_Node000043" title=" " alt="" coords="853,2173,903,2173,903,2179,853,2179"/>
+<area shape="poly" id="edge155_Node000042_Node000043" title=" " alt="" coords="853,2173,903,2173,903,2179,853,2179"/>
 </map>

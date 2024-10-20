@@ -15,7 +15,7 @@
 <polygon fill="#999999" stroke="none" points="241.5,-52 102.5,-52 102.5,0 241.5,0 241.5,-52"/>
 <text text-anchor="start" x="107.12" y="-38.5" font-family="Helvetica,sans-Serif" font-size="10.00">PA1A.Items.ConsumableItem</text>
 <text text-anchor="start" x="126" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="155.5" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">ability</text>
+<text text-anchor="start" x="155.5" y="-22.5" font-family="Helvetica,sans-Serif" font-size="10.00">abilities</text>
 <text text-anchor="start" x="126" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
 <text text-anchor="start" x="155.5" y="-6.5" font-family="Helvetica,sans-Serif" font-size="10.00">Process()</text>
 <polygon fill="#666666" stroke="#666666" points="102.5,-34 102.5,-34 241.5,-34 241.5,-34 102.5,-34"/>

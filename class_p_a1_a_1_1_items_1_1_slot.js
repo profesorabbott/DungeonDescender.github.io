@@ -8,6 +8,7 @@ var class_p_a1_a_1_1_items_1_1_slot =
     [ "Give", "class_p_a1_a_1_1_items_1_1_slot.html#ae572170f86001cf8979b89fb2b20c626", null ],
     [ "Synchronize", "class_p_a1_a_1_1_items_1_1_slot.html#a110a89b0d12579522ca21a0e5d99765d", null ],
     [ "Take", "class_p_a1_a_1_1_items_1_1_slot.html#adbcf6486caefdad0067155349ee77e70", null ],
+    [ "Take", "class_p_a1_a_1_1_items_1_1_slot.html#a2d79010e6be6644b0ddc9cd190ffa3f3", null ],
     [ "Index", "class_p_a1_a_1_1_items_1_1_slot.html#a70f945835e180cd28504045ddbd2b28a", null ],
     [ "ItemStack", "class_p_a1_a_1_1_items_1_1_slot.html#aa57264d5b9b0dc7665ecd27fcfa6bda5", null ]
 ];

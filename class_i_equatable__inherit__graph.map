@@ -12,8 +12,8 @@
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1075,90,1023,228,1018,226,1070,88"/>
 <area shape="rect" id="Node000007" href="$class_code_smile_1_1_utility_1_1_scene_reference.html" title="Represents a SceneAsset at runtime by serializing only the scene name and path at runtime,..." alt="" coords="1103,197,1317,517"/>
 <area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1110,87,1152,197,1147,198,1105,89"/>
-<area shape="rect" id="Node000008" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="1342,261,1483,453"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1143,43,1188,51,1238,66,1288,88,1332,121,1357,152,1377,187,1391,224,1402,261,1397,262,1386,226,1372,189,1353,155,1328,125,1285,93,1236,71,1187,57,1142,48"/>
+<area shape="rect" id="Node000008" href="$class_p_a1_a_1_1_abilities_1_1_ability.html" title="Base class for all abilities." alt="" coords="1342,219,1483,496"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1143,43,1188,51,1238,66,1288,88,1332,121,1350,142,1366,166,1389,218,1384,220,1361,169,1346,145,1328,125,1285,93,1236,71,1187,57,1142,48"/>
 <area shape="rect" id="Node000012" href="$class_p_a1_a_1_1_building_1_1_grid_data.html" title="Represents the grid data for object placement." alt="" coords="1508,261,1680,453"/>
 <area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1142,43,1231,53,1335,69,1432,91,1470,105,1497,121,1526,150,1549,186,1566,223,1579,261,1574,262,1561,225,1544,188,1522,154,1494,125,1468,110,1430,96,1334,74,1230,58,1142,48"/>
 <area shape="rect" id="Node000013" href="$class_p_a1_a_1_1_items_1_1_item.html" title="Represents an abstract base class for items in the game." alt="" coords="1704,205,1892,509"/>
@@ -21,11 +21,11 @@
 <area shape="rect" id="Node000020" href="$class_p_a1_a_1_1_items_1_1_item_stack.html" title="Represents individual data about an Item" alt="" coords="1916,197,2077,517"/>
 <area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="1142,41,1325,50,1565,66,1784,89,1862,104,1889,112,1906,121,1940,155,1964,196,1959,199,1935,158,1903,125,1887,117,1861,109,1783,95,1564,71,1325,55,1142,46"/>
 <area shape="rect" id="Node000009" href="$class_p_a1_a_1_1_abilities_1_1_damage_ability.html" title="Represents a damage ability that can be used by a character to inflict damage on a target." alt="" coords="1125,704,1311,773"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1385,468,1361,531,1332,593,1292,655,1251,706,1246,703,1288,652,1328,591,1356,529,1380,467"/>
-<area shape="rect" id="Node000010" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="1335,704,1491,773"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1415,468,1415,704,1410,704,1410,468"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1369,511,1332,593,1292,655,1251,706,1246,703,1288,652,1328,591,1365,509"/>
+<area shape="rect" id="Node000010" href="$class_p_a1_a_1_1_abilities_1_1_fireability.html" title="Represents a fire ability." alt="" coords="1335,683,1491,795"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1415,511,1415,683,1410,683,1410,511"/>
 <area shape="rect" id="Node000011" href="$class_p_a1_a_1_1_abilities_1_1_heal_ability.html" title="Represents a heal ability that can be used to restore health to a target." alt="" coords="1515,704,1678,773"/>
-<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1448,467,1471,529,1499,591,1535,651,1572,703,1568,706,1531,654,1494,593,1466,531,1443,468"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="1463,509,1499,591,1535,651,1572,703,1568,706,1531,654,1494,593,1458,511"/>
 <area shape="rect" id="Node000014" href="$class_p_a1_a_1_1_items_1_1_inventory_item.html" title="Represents an abstract base class for items in the game that can be stored in an inventory." alt="" coords="1703,640,1891,837"/>
 <area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1800,524,1800,640,1794,640,1795,524"/>
 <area shape="rect" id="Node000019" href="$class_p_a1_a_1_1_items_1_1_resource_item.html" title="Represents a resource item in the game." alt="" coords="1915,693,2103,784"/>

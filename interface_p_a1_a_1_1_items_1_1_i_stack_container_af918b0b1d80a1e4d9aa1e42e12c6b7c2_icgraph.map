@@ -1,8 +1,8 @@
 <map id="PA1A.Items.IStackContainer.Take" name="PA1A.Items.IStackContainer.Take">
 <area shape="rect" id="Node000001" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="308,56,529,83"/>
-<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#aa224aa134f3da8d02dd052397889670f" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="5,5,260,32"/>
+<area shape="rect" id="Node000002" href="$class_p_a1_a_1_1_items_1_1_flexible_size_container.html#a8c03a40b4c7c6ca478f42c2b686af17e" title=" " alt="" coords="5,5,260,32"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,55,211,35,212,30,325,50"/>
-<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html#a4915f1766461f3a03808a3f3ff90f65a" title="Takes the specified ItemStack from the IStackContainer and substracts the taken amount from the ItemS..." alt="" coords="24,56,241,83"/>
+<area shape="rect" id="Node000003" href="$class_p_a1_a_1_1_items_1_1_player_inventory.html#a47f9c37eca0997a554980dd4800acf10" title=" " alt="" coords="24,56,241,83"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,72,242,72,242,67,292,67"/>
 <area shape="rect" id="Node000004" href="$class_p_a1_a_1_1_items_1_1_i_container_extensions.html#a4578cf1bb1965253513642e47b34b6fb" title="Takes the specified ItemStack from the IStackContainer without making any change to the ItemStack...." alt="" coords="20,107,245,149"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,89,240,109,239,103,334,84"/>
